@@ -1,8 +1,8 @@
-exports.name = '/imagesvip/phongcanh';
+exports.name = '/imagesvip/animemaid';
 exports.index = async(req, res, next) => {
     const fs = require('fs-extra');
     try {
-        let dirPath = __dirname + `/data/phongcanh.txt`;
+        let dirPath = __dirname + `/data/animemaid.txt`;
         var imageList = (fs.readFileSync(dirPath, "utf-8").split(/\r?\n/));
         var randomImage = imageList[Math.floor(Math.random() * imageList.length)].trim();
         res.jsonp({

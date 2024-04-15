@@ -1,16 +1,24 @@
-exports.name = '/imagesvip/ayaka';
-exports.index = async(req, res, next) => {
-    const fs = require('fs-extra');
+const path = require('path');
+const { readFileSync } = require('fs-extra');
+
+exports.name = '/ayaka';
+exports.index = async (req, res, next) => {
     try {
-        let dirPath = __dirname + `/data/ayaka.txt`;
-        var imageList = (fs.readFileSync(dirPath, "utf-8").split(/\r?\n/));
-        var randomImage = imageList[Math.floor(Math.random() * imageList.length)].trim();
+        const filePath = path.join(__dirname, 'Kz-API', 'KainRiyuProject_Images', 'ayaka.txt');
+        const KainRiyu = readFileSync(filePath, 'utf-8')
+            .split('\n')
+            .map(line => line.trim())
+            .filter(line => line); // Remove empty lines
+
+        var image = KainRiyu[Math.floor(Math.random() * KainRiyu.length)];
+
         res.jsonp({
-            data: randomImage,
-            count: imageList.length,
-            author: "Kain Naji"
+            url: image,
+            data: image,
+            count: KainRiyu.length,
+            author: 'Kain Naji'
         });
     } catch (e) {
         return res.jsonp({ error: e });
     }
-}
+};

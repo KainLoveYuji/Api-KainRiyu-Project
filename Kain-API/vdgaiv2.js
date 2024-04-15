@@ -5,10 +5,6 @@ exports.name = '/vdgaiv2';
 exports.index = async (req, res, next) => {
     try {
         const KainRiyu = require('./Kz-API/json/vdgaiv2.json');
-            .split('\n')
-            .map(line => line.trim())
-            .filter(line => line); // Remove empty lines
-
         var image = KainRiyu[Math.floor(Math.random() * KainRiyu.length)];
 
         res.jsonp({

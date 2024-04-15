@@ -1,16 +1,24 @@
+const path = require('path');
+const { readFileSync } = require('fs-extra');
+
 exports.name = '/vdanimev2';
-exports.index = async(req, res, next) => {
+exports.index = async (req, res, next) => {
     try {
-        const KainRiyu = require('./data/vdanimev2.txt');
-        var image = KainRiyu[Math.floor(Math.random() * KainRiyu.length)].trim();
+        const filePath = path.join(__dirname, 'Kz-API', 'vdanimev2.txt');
+        const KainRiyu = readFileSync(filePath, 'utf-8')
+            .split('\n')
+            .map(line => line.trim())
+            .filter(line => line); // Remove empty lines
+
+        var image = KainRiyu[Math.floor(Math.random() * KainRiyu.length)];
+
         res.jsonp({
             url: image,
             data: image,
-            count: KainRiyu.length,
+            count: KzGIF.length,
             author: 'Kain Naji'
         });
     } catch (e) {
         return res.jsonp({ error: e });
     }
-}
-
+};

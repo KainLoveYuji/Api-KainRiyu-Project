@@ -4,7 +4,7 @@ const { readFileSync } = require('fs-extra');
 exports.name = '/vdgaiv2';
 exports.index = async (req, res, next) => {
     try {
-        const filePath = path.join(__dirname, 'Kz-API', 'vdgaiv2.txt');
+        const filePath = path.join(__dirname, 'Kz-API', 'data', 'vdgaiv2.json');
         const KainRiyu = readFileSync(filePath, 'utf-8')
             .split('\n')
             .map(line => line.trim())

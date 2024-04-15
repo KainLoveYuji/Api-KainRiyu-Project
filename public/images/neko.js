@@ -1,12 +1,12 @@
-exports.name = '/images/choigay';
+exports.name = '/images/neko';
 exports.index = async(req, res, next) => {
     try {
-        const girl = require('./data/json/choigay.json');
+        const girl = require('./data/json/neko.json');
         var image = girl[Math.floor(Math.random() * girl.length)].trim();
         res.jsonp({
-            url: image,
+            data: image,
             count: girl.length,
-            author: 'TuanDeepTry'
+            author: 'Kain Naji'
         });
     } catch (e) {
         return res.jsonp({ error: e });

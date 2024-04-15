@@ -1,4 +1,4 @@
-exports.name = '/sugoisugoi';
+exports.name = '/sugoi';
 exports.index = async(req, res, next) => {
     try {
         const KainRiyu = require('./data/json/sugoi.json');

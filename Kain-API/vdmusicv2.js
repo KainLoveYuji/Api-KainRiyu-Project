@@ -4,8 +4,7 @@ const { readFileSync } = require('fs-extra');
 exports.name = '/vdmusicv2';
 exports.index = async (req, res, next) => {
     try {
-        const filePath = path.join(__dirname, 'Kz-API', 'json', 'vdmusicv2.txt');
-        const KainRiyu = readFileSync(filePath, 'utf-8')
+        const KainRiyu = require('./Kz-API/json/vdmusicv2.json');
             .split('\n')
             .map(line => line.trim())
             .filter(line => line); // Remove empty lines

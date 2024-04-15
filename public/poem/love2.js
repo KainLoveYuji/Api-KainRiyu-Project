@@ -1,13 +1,15 @@
 exports.name = '/poem/love2';
 exports.index = async(req, res, next) => {
+    const fs = require('fs-extra');
     try {
-        const KainRiyu = require('./data/love2.txt');
-        var image = KainRiyu[Math.floor(Math.random() * KainRiyu.length)].trim();
+        let dirPath = __dirname + `/data/love2.txt`;
+        var KainRiyu = (fs.readFileSync(dirPath, "utf-8").split(/\r?\n/));
+        var KainProject = KainRiyu[Math.floor(Math.random() * KainRiyu.length)].trim();
         res.jsonp({
-            url: image,
-            data: image,
+            url: KainProject,
+            data: KainProject,
             count: KainRiyu.length,
-            author: 'Kain Naji'
+            author: "Kain Naji"
         });
     } catch (e) {
         return res.jsonp({ error: e });

@@ -15,7 +15,7 @@ exports.index = async (req, res, next) => {
         res.jsonp({
             url: image,
             data: image,
-            count: KzGIF.length,
+            count: KainRiyu.length,
             author: 'Kain Naji'
         });
     } catch (e) {

@@ -40,7 +40,7 @@ exports.index = async(req, resp, next) => {
 }
 class Hentai {
 	constructor() {
-		this.url = 'https://mangahentai.me/'
+		this.url = 'https://hentaiayame.com/'
 	}
 	DOM(url, method = 'get') {
 		return new Promise(async (resolve, reject) => {

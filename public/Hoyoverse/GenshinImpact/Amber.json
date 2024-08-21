@@ -1,0 +1,62 @@
+{
+    "name": "Amber",
+    "title": "Outrider Amber",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Pyro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 10 tháng 8",
+    "constellation": "Falcon of the West",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Chicken-Mushroom Skewer",
+    "namecard": "Amber: Outrider",
+    "howToObtain": "Mở khóa miễn phí trong nhiệm vụ đầu tiên",
+    "releaseDate": "Ngày 28 tháng 5, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Mondstadt",
+    "voiceActors": {
+        "English": "Amber May",
+        "Chinese": "Yumi (游梦)",
+        "Japanese": "Mikako Komatsu (小松未可子)",
+        "Korean": "Jeong Mi-sook (정미숙)"
+    },
+    "profile": {
+        "description": "Amber là một outrider của Knights of Favonius và là một trong những nhân vật đầu tiên bạn sẽ gặp trong Mondstadt. Cô nổi tiếng với tinh thần dũng cảm và niềm đam mê trong việc bảo vệ thành phố.",
+        "personality": "Amber là một người vui vẻ và nhiệt tình, luôn sẵn sàng giúp đỡ người khác và duy trì tinh thần lạc quan ngay cả trong những hoàn cảnh khó khăn.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Sharpshooter",
+                "description": "Sử dụng cung để bắn các mũi tên Pyro gây sát thương cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Explosive Puppet",
+                "description": "Triệu hồi một quả bom hỏa lực để tấn công kẻ thù và tạo ra hiệu ứng Pyro."
+            },
+            "elementalBurst": {
+                "name": "Fiery Rain",
+                "description": "Bắn ra một loạt các mũi tên lửa gây sát thương Pyro lớn trong phạm vi rộng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Precise Shot",
+                    "description": "Tăng sát thương của mũi tên lửa khi sử dụng Explosive Puppet và tạo thêm sát thương Pyro cho các đòn tấn công tiếp theo."
+                },
+                {
+                    "name": "Explosion Reaction",
+                    "description": "Khi sử dụng Fiery Rain, giảm thời gian hồi chiêu của Explosive Puppet."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Fallen Blossom",
+            "c2": "Fiery Heart",
+            "c3": "Explosive Reaction",
+            "c4": "Windborne Munitions",
+            "c5": "Supreme Fireworks",
+            "c6": "Eternal Flame"
+        }
+    }
+}

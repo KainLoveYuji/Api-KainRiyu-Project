@@ -126,4 +126,67 @@
             }
         }
     ]
+},
+{
+    "name": "Kamisato Ayaka",
+    "title": "Ngọc Nữ Kamisato",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 28 tháng 9",
+    "constellation": "Frostflake Heron",
+    "region": "Inazuma",
+    "affiliations": [
+        "Kamisato Clan"
+    ],
+    "specialDish": "Kamisato Ayaka’s Specialty",
+    "namecard": "Kamisato Ayaka: Frostflake Heron",
+    "howToObtain": "Sự kiện Wish — For the Princess’s Choice",
+    "releaseDate": "Ngày 04 tháng 7, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Kamisato Clan",
+    "voiceActors": {
+        "English": "Aoi Koga",
+        "Chinese": "Akira (秋乃桜)",
+        "Japanese": "Mikako Komatsu (小松未可子)",
+        "Korean": "Kim Ha-ram (김하람)"
+    },
+    "profile": {
+        "description": "Kamisato Ayaka là con gái của Kamisato Clan, nổi tiếng với sự duyên dáng và tài năng chiến đấu mạnh mẽ. Cô là một biểu tượng của sự thanh tao và sức mạnh trong Inazuma.",
+        "personality": "Kamisato Ayaka được biết đến với tính cách tinh tế và cao quý. Cô luôn hành xử với sự nhã nhặn và được xem là hình mẫu của sự quý phái.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Kamisato Art: Kabuki",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Kamisato Art: Hyouka",
+                "description": "Triệu hồi một tảng băng để tấn công kẻ thù gần đó và tạo ra hiệu ứng Cryo."
+            },
+            "elementalBurst": {
+                "name": "Kamisato Art: Suiyuu",
+                "description": "Gây sát thương Cryo lớn trong phạm vi rộng và tạo ra một cơn bão Cryo."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Frostflake Slope",
+                    "description": "Tăng sát thương của Kamisato Art: Hyouka và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Suiyuu’s Grace",
+                    "description": "Tăng sức mạnh và hiệu quả của Kamisato Art: Suiyuu khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frostflake Heron",
+            "c2": "White Blossom",
+            "c3": "Winter’s Breath",
+            "c4": "Crystal Snowfall",
+            "c5": "Snowfall Glint",
+            "c6": "Moonlight Snow"
+        }
+    }
 }
+

@@ -1,0 +1,62 @@
+{
+    "name": "Shikanoin Heizou",
+    "title": "Điệp Viên Shikanoin",
+    "quality": "4 Sao",
+    "weapon": "Catalyst",
+    "element": "Anemo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 21 tháng 2",
+    "constellation": "Fallen Leaves",
+    "region": "Inazuma",
+    "affiliations": [
+        "Tenryou Commission"
+    ],
+    "specialDish": "Shikanoin Heizou’s Specialty",
+    "namecard": "Shikanoin Heizou: Fallen Leaves",
+    "howToObtain": "Sự kiện Wish — Moment of Bloom",
+    "releaseDate": "Ngày 21 tháng 7, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Inazuma",
+    "voiceActors": {
+        "English": "Xander Mobus",
+        "Chinese": "Shin (申)",
+        "Japanese": "Nobuhiko Okamoto (岡本信彦)",
+        "Korean": "Choi Jeong-min (최정민)"
+    },
+    "profile": {
+        "description": "Shikanoin Heizou là một điệp viên của Tenryou Commission, nổi tiếng với khả năng điều tra xuất sắc và sự thông minh. Anh là một nhân vật bí ẩn với nhiều kỹ năng chiến đấu đa dạng.",
+        "personality": "Shikanoin Heizou có tính cách kiên định và sắc sảo. Anh thường xuyên thể hiện sự tự tin và hài hước, nhưng cũng rất nghiêm túc khi thực hiện nhiệm vụ của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Secret Art: Fudou Style",
+                "description": "Thực hiện các đòn tấn công bằng catalyst, gây sát thương Anemo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Fudou Style: Strike",
+                "description": "Sử dụng một đòn tấn công mạnh mẽ để gây sát thương Anemo cho kẻ thù và tạo ra hiệu ứng xoáy gió."
+            },
+            "elementalBurst": {
+                "name": "Secret Art: Raijin’s Strike",
+                "description": "Gây sát thương Anemo lớn trong phạm vi rộng và triệu hồi một cơn bão gió mạnh mẽ."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Fudou’s Insight",
+                    "description": "Tăng sát thương của Fudou Style: Strike và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Raijin’s Favor",
+                    "description": "Tăng sức mạnh và hiệu quả của Secret Art: Raijin’s Strike khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Windblade Mastery",
+            "c2": "Whirlwind Cutter",
+            "c3": "Raging Gale",
+            "c4": "Storm Reaver",
+            "c5": "Tornado Mastery",
+            "c6": "Tempest Fury"
+        }
+    }
+}

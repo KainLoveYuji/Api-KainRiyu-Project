@@ -1,50 +1,22 @@
-const fs = require('fs-extra');
 const path = require('path');
-const stringSimilarity = require('string-similarity');
+const fs = require('fs');
 
-function areArgsValid(mainString, targetStrings) {
-    return typeof mainString === 'string' && Array.isArray(targetStrings) && targetStrings.every(item => typeof item === 'string');
-}
-
-exports.name = '/Hoyoverse/:game/:name';
+exports.name = '/Hoyoverse/GenshinImpact/:name';
 exports.index = async (req, res, next) => {
-    const charactersDir = path.join(__dirname, '/characters');
-    const characterFiles = fs.readdirSync(charactersDir);
+    const charactersDir = path.join(__dirname, 'characters'); // Đường dẫn tới thư mục chứa tệp JSON về nhân vật
+    const name = req.params.name;
+    
+    if (!name) return res.json({ error: 'Thiếu "name" nhân vật cần tìm' });
 
-    let characterNames = [];
-    let charactersData = {};
+    // Đọc danh sách nhân vật từ tệp GenshinImpact.json
+    const genshinImpactPath = path.join(__dirname, 'GenshinImpact.json');
+    if (!fs.existsSync(genshinImpactPath)) return res.json({ error: 'Tệp dữ liệu không tồn tại!' });
+    const genshinImpactData = JSON.parse(fs.readFileSync(genshinImpactPath, 'utf8'));
+    
+    // Tìm tệp JSON của nhân vật trong thư mục characters
+    const characterFilePath = path.join(charactersDir, `${name}.json`);
+    if (!fs.existsSync(characterFilePath)) return res.json({ error: 'Tệp dữ liệu nhân vật không tồn tại!' });
 
-    for (const file of characterFiles) {
-        const filePath = path.join(charactersDir, file);
-        const data = fs.readFileSync(filePath, 'utf-8');
-
-        try {
-            const character = JSON.parse(data);
-            if (character.character && character.character.name) {
-                characterNames.push(character.character.name);
-                charactersData[character.character.name] = character.character;
-            }
-        } catch (err) {
-            console.error(`Lỗi khi phân tích dữ liệu trong file ${file}: ${err.message}`);
-        }
-    }
-
-    const game = req.params.game;
-    const characterName = req.params.name;
-
-    if (!characterName || !game) {
-        return res.jsonp({ error: 'Thiếu dữ liệu để khởi chạy chương trình' });
-    }
-
-    if (!areArgsValid(characterName, characterNames)) {
-        return res.jsonp({ error: 'Lỗi tham số' });
-    }
-
-    const checker = stringSimilarity.findBestMatch(characterName, characterNames);
-    const bestMatchName = checker.bestMatch.target;
-
-    const character = charactersData[bestMatchName];
-    if (!character) return res.jsonp({ error: 'Nhân vật không tìm thấy' });
-
-    res.json({ character });
-};
+    const characterData = JSON.parse(fs.readFileSync(characterFilePath, 'utf8'));
+    return res.json(characterData);
+}

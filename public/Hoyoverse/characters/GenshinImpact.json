@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Yae Miko",
+        "game": "Genshin Impact",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "description": "A high priestess of the Grand Narukami Shrine."
+    },
+    {
+        "id": 2,
+        "name": "Kazuha",
+        "game": "Genshin Impact",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "description": "A wandering swordsman from Inazuma."
+    },
+    {
+        "id": 3,
+        "name": "Xiao",
+        "game": "Genshin Impact",
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "description": "A vigilant Yaksha who protects Liyue."
+    }
+    // Thêm các nhân vật khác vào đây
+]

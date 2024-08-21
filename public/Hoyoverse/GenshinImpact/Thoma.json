@@ -1,0 +1,62 @@
+{
+    "name": "Thoma",
+    "title": "Nhân Viên Đặc Biệt",
+    "quality": "4 Sao",
+    "weapon": "Polearm",
+    "element": "Pyro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 9 tháng 1",
+    "constellation": "Rime of the Crimson Crown",
+    "region": "Inazuma",
+    "affiliations": [
+        "Adeptus"
+    ],
+    "specialDish": "Thoma’s Specialty",
+    "namecard": "Thoma: The Protector of the People",
+    "howToObtain": "Sự kiện Wish — Moment of Bloom",
+    "releaseDate": "Ngày 2 tháng 11, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Adeptus",
+    "voiceActors": {
+        "English": "Jason Liebrecht",
+        "Chinese": "Yang Tianxiang (杨天翔)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Jung Gi-ju (정기주)"
+    },
+    "profile": {
+        "description": "Thoma là một nhân viên đặc biệt của Kamisato Clan, nổi tiếng với khả năng chiến đấu mạnh mẽ và sự bảo vệ tuyệt vời. Anh là một hình mẫu của sự dũng cảm và lòng trung thành.",
+        "personality": "Thoma là người trung thành và nhiệt huyết. Anh luôn sẵn sàng đứng ra bảo vệ người khác và chăm sóc cho đồng đội của mình với sự tận tâm và kiên nhẫn.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Crimson Witch’s Art",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Blazing Barrier",
+                "description": "Triệu hồi một khiên Pyro để bảo vệ đồng đội và gây sát thương Pyro cho kẻ thù tiếp xúc với nó."
+            },
+            "elementalBurst": {
+                "name": "Crimson Shield",
+                "description": "Tạo ra một lá chắn bảo vệ đồng đội và gây sát thương Pyro cho kẻ thù trong phạm vi lớn."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Flame's Embrace",
+                    "description": "Tăng cường hiệu quả của Blazing Barrier và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Crimson Guard",
+                    "description": "Tăng sức mạnh và hiệu quả của Crimson Shield khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Rime of the Crimson Crown",
+            "c2": "Crown of the Blazing Flame",
+            "c3": "Eternal Flame",
+            "c4": "Blazing Heart",
+            "c5": "Inferno's Might",
+            "c6": "Crimson Protector"
+        }
+    }
+}

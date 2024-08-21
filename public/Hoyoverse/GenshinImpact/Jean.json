@@ -1,0 +1,62 @@
+{
+    "name": "Jean",
+    "title": "Grand Master Jean",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Anemo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 14 tháng 3",
+    "constellation": "Favonius Bladework",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Jean’s Specialty",
+    "namecard": "Jean: Favonius Bladework",
+    "howToObtain": "Sự kiện Wish — Sparkling Steps",
+    "releaseDate": "Ngày 28 tháng 5, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Mondstadt",
+    "voiceActors": {
+        "English": "Kira Buckland",
+        "Chinese": "Sisi (思思)",
+        "Japanese": "Kaya (茅野愛衣)",
+        "Korean": "Jeong Mi-sook (정미숙)"
+    },
+    "profile": {
+        "description": "Jean là Đại Grand Master của Knights of Favonius ở Mondstadt, nổi tiếng với sự kiên trì và trách nhiệm trong việc bảo vệ thành phố. Cô là một chiến binh dũng cảm và một nhà lãnh đạo đáng tin cậy.",
+        "personality": "Jean có tính cách nghiêm túc và trách nhiệm. Cô luôn đặt nhiệm vụ lên hàng đầu và chăm sóc người khác một cách tận tâm, mặc dù đôi khi cô có thể cảm thấy áp lực từ trách nhiệm của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Favonius Bladework",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Anemo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Gale Blade",
+                "description": "Gây sát thương Anemo cho kẻ thù và tạo ra một cơn gió mạnh để đẩy lùi chúng."
+            },
+            "elementalBurst": {
+                "name": "Dandelion Breeze",
+                "description": "Triệu hồi một cơn gió mạnh mẽ để gây sát thương Anemo trong phạm vi rộng, đồng thời hồi máu cho đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Fallen Leaves",
+                    "description": "Tăng sức mạnh của Gale Blade và tạo thêm sát thương Anemo cho các đòn tấn công tiếp theo."
+                },
+                {
+                    "name": "Light of Folia",
+                    "description": "Khi sử dụng Dandelion Breeze, hồi phục thêm máu cho tất cả đồng đội dựa trên lượng sát thương gây ra."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Favonius Bladework: Hurricane",
+            "c2": "Windborne Grace",
+            "c3": "Luminous Light",
+            "c4": "Fallen Leaves",
+            "c5": "Elegy of the Gale",
+            "c6": "Wind's Embrace"
+        }
+    }
+}

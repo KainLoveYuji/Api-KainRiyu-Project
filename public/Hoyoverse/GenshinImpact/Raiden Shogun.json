@@ -1,0 +1,62 @@
+{
+            "name": "Raiden Shogun",
+            "title": "Raiden Makoto",
+            "quality": "5 Sao",
+            "weapon": "Polearm",
+            "element": "Electro",
+            "modelType": "Nữ Cao",
+            "birthday": "Ngày 26 tháng 2",
+            "constellation": "Meditative Silence",
+            "region": "Inazuma",
+            "affiliations": [
+                "Shogunate"
+            ],
+            "specialDish": "Raiden Shogun’s Delicious Sushi",
+            "namecard": "Raiden Shogun: Eternal Eternity",
+            "howToObtain": "Sự kiện Wish — Reign of Serenity",
+            "releaseDate": "Ngày 02 tháng 9, 2021",
+            "geniusInvokationTCG": "Thẻ Nhân Vật",
+            "ancestry": "N/A",
+            "voiceActors": {
+                "English": "Anne Yatco",
+                "Chinese": "Kris (桂小狼)",
+                "Japanese": "Kawakami Tomoko (川上智子)",
+                "Korean": "Lee Kyu-sun (이규선)"
+            },
+            "profile": {
+                "description": "Raiden Shogun là vị Shogun của Inazuma, nổi tiếng với quyền lực và sự lãnh đạo vững chắc của mình. Cô là hình mẫu của sức mạnh và chính nghĩa.",
+                "personality": "Raiden Shogun thể hiện sự nghiêm khắc và quyết đoán. Cô rất nghiêm túc về nhiệm vụ của mình và có mục tiêu rõ ràng trong việc duy trì hòa bình và trật tự.",
+                "abilities": {
+                    "normalAttack": {
+                        "name": "Secret Art: Musou Shinsetsu",
+                        "description": "Raiden Shogun thực hiện một loạt các đòn đánh bằng polearm, gây sát thương Electro và tăng sức mạnh cho đồng đội."
+                    },
+                    "elementalSkill": {
+                        "name": "Secret Art: Musou Shinsetsu",
+                        "description": "Gây sát thương Electro cho kẻ thù gần đó và triệu hồi một thanh kiếm Electro mạnh mẽ."
+                    },
+                    "elementalBurst": {
+                        "name": "Secret Art: Musou Shinsetsu",
+                        "description": "Kích hoạt một cơn bão Electro mạnh mẽ, gây sát thương lớn và tăng cường khả năng của đồng đội."
+                    },
+                    "passiveTalents": [
+                        {
+                            "name": "Musou Shinsetsu",
+                            "description": "Tăng cường sức mạnh và giảm thời gian hồi chiêu của các kỹ năng của Raiden Shogun."
+                        },
+                        {
+                            "name": "Eternity’s End",
+                            "description": "Tăng sức mạnh và hiệu quả của các kỹ năng khi Raiden Shogun sử dụng kỹ năng elemental burst."
+                        }
+                    ]
+                },
+                "constellations": {
+                    "c1": "Eternal Thundering Fury",
+                    "c2": "All-Seer’s Judgment",
+                    "c3": "Ember of Eternity",
+                    "c4": "Silent Warrior",
+                    "c5": "Dawn of Eternity",
+                    "c6": "End of All Things"
+                }
+            }
+        }

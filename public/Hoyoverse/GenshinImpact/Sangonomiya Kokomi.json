@@ -1,0 +1,62 @@
+{
+    "name": "Sangonomiya Kokomi",
+    "title": "Nữ Thần của Sumeru",
+    "quality": "5 Sao",
+    "weapon": "Catalyst",
+    "element": "Hydro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 22 tháng 2",
+    "constellation": "Sango no Watatsumi",
+    "region": "Inazuma",
+    "affiliations": [
+        "Sangonomiya Clan"
+    ],
+    "specialDish": "Sangonomiya Kokomi’s Specialty",
+    "namecard": "Sangonomiya Kokomi: Eternal Oasis",
+    "howToObtain": "Sự kiện Wish — Drifting Luminescence",
+    "releaseDate": "Ngày 21 tháng 9, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sangonomiya Clan",
+    "voiceActors": {
+        "English": "Aoi Koga",
+        "Chinese": "Liu Zhiwei (刘芝苇)",
+        "Japanese": "Nana Mizuki (水樹奈々)",
+        "Korean": "Ahn Ji-hye (안지혜)"
+    },
+    "profile": {
+        "description": "Sangonomiya Kokomi là Thủ lĩnh của Sangonomiya Clan và là người đứng đầu vùng Watatsumi. Cô nổi bật với khả năng chữa trị và điều khiển nước, là một biểu tượng của sự hòa bình và sự chăm sóc.",
+        "personality": "Sangonomiya Kokomi là người cẩn trọng và thông thái. Cô luôn đặt lợi ích của người dân lên hàng đầu và nổi tiếng với lòng nhân ái và trí tuệ của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Nereid’s Ascension",
+                "description": "Tấn công bằng catalyst, gây sát thương Hydro cho kẻ thù và hồi phục năng lượng cho đồng đội."
+            },
+            "elementalSkill": {
+                "name": "Kurage's Oath",
+                "description": "Triệu hồi một con sứa Hydro để tạo ra một vùng hiệu ứng chữa trị và gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalBurst": {
+                "name": "Nereid’s Ascension",
+                "description": "Tạo ra một làn sóng nước rộng lớn gây sát thương Hydro cho kẻ thù và hồi phục sức khỏe cho đồng đội trong khu vực."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Song of Still Waters",
+                    "description": "Tăng cường hiệu quả chữa trị của Kurage's Oath và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "The Clouds' Embrace",
+                    "description": "Tăng hiệu quả của Nereid’s Ascension khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "The Sacred Sakura",
+            "c2": "The Eternal Oath",
+            "c3": "The Waves of Eternity",
+            "c4": "The Eternal Beacon",
+            "c5": "The Moon’s Tears",
+            "c6": "The Waves of Serenity"
+        }
+    }
+}

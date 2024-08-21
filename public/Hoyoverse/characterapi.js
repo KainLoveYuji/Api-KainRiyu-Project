@@ -10,16 +10,21 @@ exports.index = async (req, res, next) => {
     let characterNames = [];
     let charactersData = {};
 
-    // Đọc dữ liệu từ tất cả các file và lưu vào đối tượng
     for (const file of characterFiles) {
         const filePath = path.join(charactersDir, file);
-        const data = fs.readFileSync(filePath, 'utf-8');
-        const character = JSON.parse(data);
 
-        // Thêm tên nhân vật và dữ liệu vào đối tượng
-        if (character && character.name) {
-            characterNames.push(character.name);
-            charactersData[character.name] = character;
+        try {
+            const data = fs.readFileSync(filePath, 'utf-8');
+            const character = JSON.parse(data);
+
+            // Kiểm tra nếu dữ liệu JSON không chứa trường "name"
+            if (character && character.name) {
+                characterNames.push(character.name);
+                charactersData[character.name] = character;
+            }
+        } catch (error) {
+            // Ghi log lỗi nếu có vấn đề khi phân tích JSON
+            console.error(`Lỗi khi đọc hoặc phân tích tệp ${file}: ${error.message}`);
         }
     }
 

@@ -1,0 +1,62 @@
+{
+    "name": "Sayu",
+    "title": "Yokai Của Lý Mộng",
+    "quality": "4 Sao",
+    "weapon": "Claymore",
+    "element": "Geo",
+    "modelType": "Nữ Thấp",
+    "birthday": "Ngày 19 tháng 10",
+    "constellation": "Felis Fulgur",
+    "region": "Inazuma",
+    "affiliations": [
+        "Shuumatsuban"
+    ],
+    "specialDish": "Sayu’s Specialty",
+    "namecard": "Sayu: Shy She-fox",
+    "howToObtain": "Sự kiện Wish — Shattering Ice",
+    "releaseDate": "Ngày 09 tháng 8, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Shuumatsuban",
+    "voiceActors": {
+        "English": "Morgan Laure",
+        "Chinese": "Fay (芳)",
+        "Japanese": "Kana Hanazawa (花澤香菜)",
+        "Korean": "Hwang Ji-hye (황지혜)"
+    },
+    "profile": {
+        "description": "Sayu là một ninja thuộc Shuumatsuban, nổi tiếng với sự nhút nhát và những nỗ lực không ngừng để tìm kiếm giấc ngủ. Cô là một chiến binh thiện chiến mặc dù thường bị chi phối bởi sự mệt mỏi.",
+        "personality": "Sayu có tính cách nhút nhát và dễ mệt mỏi, nhưng vẫn rất tận tụy với nhiệm vụ của mình. Cô yêu thích sự yên bình và luôn tìm cách để có thể nghỉ ngơi sau những nhiệm vụ căng thẳng.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Furious Ninja",
+                "description": "Thực hiện các đòn tấn công bằng claymore, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Ninjutsu: Sayu's Rolled Up",
+                "description": "Sayu lăn tròn và gây sát thương Geo, đồng thời tạo ra một khu vực hồi phục năng lượng cho đồng đội."
+            },
+            "elementalBurst": {
+                "name": "Ninjutsu: Napping Tsukimi",
+                "description": "Gây sát thương Geo lớn và tạo ra một cơn lốc bảo vệ đồng đội trong một khoảng thời gian nhất định."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Mighty Ninja",
+                    "description": "Tăng sát thương của Ninjutsu: Sayu's Rolled Up và làm giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Secret Nightwatch",
+                    "description": "Giảm sát thương và tăng khả năng phục hồi năng lượng khi sử dụng Ninjutsu: Napping Tsukimi."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Glimmering Night",
+            "c2": "Moonlit Path",
+            "c3": "Dreams of Rest",
+            "c4": "Starlit Recline",
+            "c5": "Eternal Slumber",
+            "c6": "Lunar Respite"
+        }
+    }
+}

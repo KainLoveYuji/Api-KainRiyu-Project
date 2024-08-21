@@ -1,0 +1,62 @@
+{
+    "name": "Kaeya",
+    "title": "Cavalry Captain",
+    "quality": "4 Sao",
+    "weapon": "Sword",
+    "element": "Cryo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 30 tháng 11",
+    "constellation": "Rite of Progeniture",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Kaeya’s Specialty",
+    "namecard": "Kaeya: Cavalry Captain",
+    "howToObtain": "Mở khóa miễn phí trong nhiệm vụ đầu tiên",
+    "releaseDate": "Ngày 28 tháng 5, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Khaenri'ah",
+    "voiceActors": {
+        "English": "Nolan North",
+        "Chinese": "Daisuke Ono (小野大辅)",
+        "Japanese": "Miyuki Sawashiro (沢城みゆき)",
+        "Korean": "Ryu Seung-gon (류승곤)"
+    },
+    "profile": {
+        "description": "Kaeya là đội trưởng đội kỵ binh của Knights of Favonius, nổi tiếng với khả năng chiến đấu xuất sắc và sự bí ẩn của mình. Anh là một trong những nhân vật chủ chốt của Mondstadt.",
+        "personality": "Kaeya có tính cách thông minh, quyến rũ và lém lỉnh. Anh là người có trí tuệ sắc sảo và thường xuyên sử dụng sự hài hước của mình để giải quyết các tình huống khó khăn.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Frostgnaw",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Frostflake",
+                "description": "Gây sát thương Cryo cho kẻ thù và tạo ra một vùng ảnh hưởng Cryo nhỏ xung quanh."
+            },
+            "elementalBurst": {
+                "name": "Glacial Waltz",
+                "description": "Gây sát thương Cryo lớn trong phạm vi rộng và triệu hồi một cơn bão băng để tấn công kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Cold-Blooded Strike",
+                    "description": "Tăng sát thương của Frostflake khi tấn công các mục tiêu bị dính Cryo."
+                },
+                {
+                    "name": "Rite of Progeniture",
+                    "description": "Khi sử dụng Glacial Waltz, khả năng Cryo của Kaeya sẽ tăng thêm và thời gian hồi chiêu sẽ giảm."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frostbite",
+            "c2": "Glacial Impulse",
+            "c3": "Snowfall",
+            "c4": "Icebound",
+            "c5": "Cryo Conqueror",
+            "c6": "Frostborn"
+        }
+    }
+}

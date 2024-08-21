@@ -10,7 +10,6 @@ exports.index = async (req, res, next) => {
     let characterNames = [];
     let charactersData = {};
 
-    // Đọc và xử lý dữ liệu từ các file
     for (const file of characterFiles) {
         const filePath = path.join(charactersDir, file);
         const data = fs.readFileSync(filePath, 'utf-8');
@@ -31,6 +30,11 @@ exports.index = async (req, res, next) => {
 
     if (!characterName || !game) {
         return res.jsonp({ error: 'Thiếu dữ liệu để khởi chạy chương trình' });
+    }
+
+    // Kiểm tra kiểu dữ liệu
+    if (!areArgsValid(characterName, characterNames)) {
+        return res.jsonp({ error: 'Lỗi tham số' });
     }
 
     const checker = stringSimilarity.findBestMatch(characterName, characterNames);

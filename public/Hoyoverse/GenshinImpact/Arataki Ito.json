@@ -1,0 +1,62 @@
+{
+    "name": "Arataki Ito",
+    "title": "Thủ lĩnh Arataki",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Geo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 1 tháng 6",
+    "constellation": "Oozora's Arataki",
+    "region": "Inazuma",
+    "affiliations": [
+        "Arataki Gang"
+    ],
+    "specialDish": "Arataki Ito’s Specialty",
+    "namecard": "Arataki Ito: The Arataki Gang Leader",
+    "howToObtain": "Sự kiện Wish — Arataki Itto's Banner",
+    "releaseDate": "Ngày 14 tháng 12, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Oozora Clan",
+    "voiceActors": {
+        "English": "Kaiji Tang",
+        "Chinese": "Zhang Jie (张杰)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Kim Tae-ho (김태호)"
+    },
+    "profile": {
+        "description": "Arataki Ito là thủ lĩnh của Arataki Gang, nổi tiếng với sức mạnh và sự kiên cường. Anh là một nhân vật đáng gờm trong cộng đồng Inazuma.",
+        "personality": "Arataki Ito được biết đến với tính cách mạnh mẽ và hơi có phần bốc đồng. Anh là một người lãnh đạo tận tụy với lòng tự hào lớn và khả năng lãnh đạo tuyệt vời.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Arataki Kesagiri",
+                "description": "Thực hiện một chuỗi đòn tấn công bằng claymore, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Masatsu Zetsugi: Akaushi Burst",
+                "description": "Triệu hồi một con bò đỏ để tấn công kẻ thù và tạo ra hiệu ứng Geo."
+            },
+            "elementalBurst": {
+                "name": "Arataki Ito's Gyoza",
+                "description": "Gây sát thương Geo lớn trong phạm vi rộng và tăng cường sức mạnh của các đòn tấn công bình thường."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Pride of the Arataki",
+                    "description": "Tăng cường hiệu quả của Masatsu Zetsugi: Akaushi Burst và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Arataki's Gift",
+                    "description": "Tăng sát thương và hiệu quả của Arataki Ito's Gyoza khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Arataki's Legacy",
+            "c2": "Crimson Storm",
+            "c3": "Unstoppable Force",
+            "c4": "Raging Inferno",
+            "c5": "Mighty Roar",
+            "c6": "Gang Leader's Vow"
+        }
+    }
+}

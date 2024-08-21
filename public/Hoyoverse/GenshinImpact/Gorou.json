@@ -1,0 +1,62 @@
+{
+    "name": "Gorou",
+    "title": "Thủ lĩnh Vệ Binh",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Geo",
+    "modelType": "Nam Thấp",
+    "birthday": "Ngày 26 tháng 4",
+    "constellation": "Geovishap",
+    "region": "Inazuma",
+    "affiliations": [
+        "Army of the Shogun"
+    ],
+    "specialDish": "Gorou’s Specialty",
+    "namecard": "Gorou: Loyal Dog of the Shogun",
+    "howToObtain": "Sự kiện Wish — Gorou's Banner",
+    "releaseDate": "Ngày 16 tháng 2, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Geovishap",
+    "voiceActors": {
+        "English": "David Matranga",
+        "Chinese": "Liang Wei (梁伟)",
+        "Japanese": "Tomoaki Maeno (前野智昭)",
+        "Korean": "Kim Seung-joo (김승주)"
+    },
+    "profile": {
+        "description": "Gorou là một thành viên nổi bật trong đội quân của Shogun. Anh ta nổi bật với sự dũng cảm và lòng trung thành tuyệt đối.",
+        "personality": "Gorou được biết đến với tính cách nghiêm túc và tận tụy. Anh có sự tận tâm mạnh mẽ và luôn sẵn sàng chiến đấu vì nghĩa vụ.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Tactical Fire",
+                "description": "Bắn những mũi tên bằng cung, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "General’s War Bow",
+                "description": "Gọi một lực lượng tấn công, gây sát thương Geo và cung cấp một lá chắn cho đồng đội."
+            },
+            "elementalBurst": {
+                "name": "Geovishap Strike",
+                "description": "Gây sát thương Geo lớn và tạo ra một vùng ảnh hưởng mạnh mẽ, làm giảm khả năng tấn công của kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Fortify Frontline",
+                    "description": "Tăng cường sức phòng thủ của General’s War Bow và kéo dài thời gian hiệu lực của lá chắn."
+                },
+                {
+                    "name": "Field Marshal",
+                    "description": "Tăng sát thương và hiệu quả của Geovishap Strike khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Loyal Protector",
+            "c2": "Unwavering Duty",
+            "c3": "Warrior's Resolve",
+            "c4": "Defender's Will",
+            "c5": "Shielded Strike",
+            "c6": "Champion’s Duty"
+        }
+    }
+}

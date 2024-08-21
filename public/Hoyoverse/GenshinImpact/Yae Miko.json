@@ -1,0 +1,66 @@
+{
+    "characters": [
+        {
+            "name": "Yae Miko",
+            "title": "Guuji của Đền Narukami Grand",
+            "quality": "5 Sao",
+            "weapon": "Catalyst",
+            "element": "Electro",
+            "modelType": "Nữ Cao",
+            "birthday": "Ngày 27 tháng 6",
+            "constellation": "Divina Vulpes",
+            "region": "Inazuma",
+            "affiliations": [
+                "Đền Narukami Grand",
+                "Nhà xuất bản Yae"
+            ],
+            "specialDish": "Fukuuchi Udon",
+            "namecard": "Yae Miko: Giấc Mơ Kitsune",
+            "howToObtain": "Sự kiện Wish — Everbloom Violet",
+            "releaseDate": "Ngày 16 tháng 2, 2022",
+            "geniusInvokationTCG": "Thẻ Nhân Vật",
+            "ancestry": "Gia tộc Hakushin",
+            "voiceActors": {
+                "English": "Ratana",
+                "Chinese": "Du Mingya (杜冥鸦)",
+                "Japanese": "Sakura Ayane (佐倉綾音)",
+                "Korean": "Moon Yoo-jeong (문유정)"
+            },
+            "profile": {
+                "description": "Yae Miko là Guuji của Đền Narukami Grand và là người đứng đầu Nhà xuất bản Yae. Cô nổi tiếng với tính cách vui nhộn và sự kết nối sâu sắc với nguyên tố Electro.",
+                "personality": "Yae Miko nổi tiếng với tính cách tinh nghịch và bí ẩn. Cô là một người điều khiển tài tình và có hiểu biết sâu sắc về thế giới xung quanh mình.",
+                "abilities": {
+                    "normalAttack": {
+                        "name": "Spiritfox Sin-Eater",
+                        "description": "Thực hiện tới ba cú tấn công bằng bùa chú của mình, gây sát thương Electro."
+                    },
+                    "elementalSkill": {
+                        "name": "Kitsune's Sprint",
+                        "description": "Triệu hồi Sesshou Sakura gây sát thương Electro cho kẻ thù gần đó."
+                    },
+                    "elementalBurst": {
+                        "name": "Great Secret Art: Tenko Kenshin",
+                        "description": "Kênh một lượng lớn năng lượng Electro, gây sát thương Electro lớn và triệu hồi nhiều Sesshou Sakura."
+                    },
+                    "passiveTalents": [
+                        {
+                            "name": "Eminence of the Kitsune",
+                            "description": "Tăng cấp độ của Sesshou Sakura và số lượng cú đánh gây ra."
+                        },
+                        {
+                            "name": "Servant of the Great Shrine",
+                            "description": "Giảm thời gian hồi chiêu của Kitsune's Sprint và tăng sát thương của nó."
+                        }
+                    ]
+                },
+                "constellations": {
+                    "c1": "Con Cáo Xảo Quyệt",
+                    "c2": "Ánh Sáng Thiêng Liêng",
+                    "c3": "Nghệ Thuật Bí Mật: Tenko",
+                    "c4": "Con Cáo Vĩnh Cửu",
+                    "c5": "Lời Đề Nghị Bí Mật",
+                    "c6": "Con Cáo Huyền Bí"
+                }
+            }
+        }
+}

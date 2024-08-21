@@ -2,6 +2,10 @@ const fs = require('fs-extra');
 const path = require('path');
 const stringSimilarity = require('string-similarity');
 
+function areArgsValid(mainString, targetStrings) {
+    return typeof mainString === 'string' && Array.isArray(targetStrings) && targetStrings.every(item => typeof item === 'string');
+}
+
 exports.name = '/Hoyoverse/:game/:name';
 exports.index = async (req, res, next) => {
     const charactersDir = path.join(__dirname, '/characters');
@@ -32,7 +36,6 @@ exports.index = async (req, res, next) => {
         return res.jsonp({ error: 'Thiếu dữ liệu để khởi chạy chương trình' });
     }
 
-    // Kiểm tra kiểu dữ liệu
     if (!areArgsValid(characterName, characterNames)) {
         return res.jsonp({ error: 'Lỗi tham số' });
     }

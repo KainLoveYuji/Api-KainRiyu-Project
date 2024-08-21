@@ -1,0 +1,62 @@
+{
+    "name": "Kuki Shinobu",
+    "title": "Trung Tá Kuki",
+    "quality": "4 Sao",
+    "weapon": "Sword",
+    "element": "Electro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 27 tháng 5",
+    "constellation": "The Prodigy",
+    "region": "Inazuma",
+    "affiliations": [
+        "Arataki Gang"
+    ],
+    "specialDish": "Kuki Shinobu’s Specialty",
+    "namecard": "Kuki Shinobu: The Prodigy",
+    "howToObtain": "Sự kiện Wish — Reign of Serenity",
+    "releaseDate": "Ngày 21 tháng 6, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Inazuma",
+    "voiceActors": {
+        "English": "Kira Buckland",
+        "Chinese": "Yin Si (殷思)",
+        "Japanese": "Sayaka Kinoshita (木下沙耶香)",
+        "Korean": "Kim Si-eun (김시은)"
+    },
+    "profile": {
+        "description": "Kuki Shinobu là thành viên của Arataki Gang, nổi bật với sự khôn ngoan và kỹ năng chiến đấu đáng nể. Cô là người hỗ trợ và bảo vệ cho đội nhóm của mình.",
+        "personality": "Kuki Shinobu nổi tiếng với tính cách thông minh và đáng tin cậy. Cô có khả năng lãnh đạo và giải quyết vấn đề tốt, đồng thời thể hiện sự mạnh mẽ và quyết đoán.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Ninjutsu: Kageuchi",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Ninjutsu: Shinken",
+                "description": "Gây sát thương Electro và tăng cường khả năng phòng thủ của đồng đội."
+            },
+            "elementalBurst": {
+                "name": "Ninjutsu: Raijin no Yari",
+                "description": "Tạo ra một cơn bão điện mạnh mẽ, gây sát thương Electro lớn trong phạm vi rộng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Electro Insight",
+                    "description": "Tăng sát thương của Ninjutsu: Shinken và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Raijin’s Blessing",
+                    "description": "Tăng sức mạnh và hiệu quả của Ninjutsu: Raijin no Yari khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Thunderstorm Master",
+            "c2": "Shadow Dance",
+            "c3": "Silent Execution",
+            "c4": "Lightning Strike",
+            "c5": "Raijin’s Wrath",
+            "c6": "Storm Bringer"
+        }
+    }
+}

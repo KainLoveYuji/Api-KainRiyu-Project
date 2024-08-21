@@ -1,0 +1,62 @@
+{
+    "name": "Kamisato Ayato",
+    "title": "Ngọc Đế Kamisato",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Hydro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 26 tháng 3",
+    "constellation": "Frostflake Heron",
+    "region": "Inazuma",
+    "affiliations": [
+        "Kamisato Clan"
+    ],
+    "specialDish": "Kamisato Ayato’s Specialty",
+    "namecard": "Kamisato Ayato: Frostflake Heron",
+    "howToObtain": "Sự kiện Wish — Reign of Serenity",
+    "releaseDate": "Ngày 08 tháng 3, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Kamisato Clan",
+    "voiceActors": {
+        "English": "Chris Hackney",
+        "Chinese": "Zhang Jie (张杰)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Park Hyung-sik (박형식)"
+    },
+    "profile": {
+        "description": "Kamisato Ayato là trưởng nam của Kamisato Clan, nổi bật với sự thông thái và tài năng trong chiến đấu. Anh là một trong những nhân vật quan trọng ở Inazuma.",
+        "personality": "Kamisato Ayato được biết đến với tính cách điềm tĩnh và quyết đoán. Anh có khả năng lãnh đạo và quản lý tốt, đồng thời thể hiện sự lịch thiệp và quyết đoán.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Kamisato Art: Kyouka",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Kamisato Art: Sumizome Kageuchi",
+                "description": "Tạo ra một làn sóng nước tấn công kẻ thù và cung cấp hiệu ứng Hydro cho chúng."
+            },
+            "elementalBurst": {
+                "name": "Kamisato Art: Kyouka",
+                "description": "Gây sát thương Hydro lớn và tạo ra một cơn bão nước mạnh mẽ trong phạm vi rộng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Inazuma’s Blessing",
+                    "description": "Tăng sát thương của Kamisato Art: Sumizome Kageuchi và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Reign of Serenity",
+                    "description": "Tăng sức mạnh và hiệu quả của Kamisato Art: Kyouka khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frostflake Heron",
+            "c2": "White Blossom",
+            "c3": "Winter’s Breath",
+            "c4": "Crystal Snowfall",
+            "c5": "Snowfall Glint",
+            "c6": "Moonlight Snow"
+        }
+    }
+}

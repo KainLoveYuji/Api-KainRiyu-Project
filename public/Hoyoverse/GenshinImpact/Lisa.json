@@ -1,0 +1,62 @@
+{
+    "name": "Lisa",
+    "title": "Librarian of Mondstadt",
+    "quality": "4 Sao",
+    "weapon": "Catalyst",
+    "element": "Electro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 09 tháng 6",
+    "constellation": "Flower of Eden",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Aphrodisiac",
+    "namecard": "Lisa: Librarian",
+    "howToObtain": "Mở khóa miễn phí trong nhiệm vụ đầu tiên",
+    "releaseDate": "Ngày 28 tháng 5, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Mondstadt",
+    "voiceActors": {
+        "English": "Corrine Sudberg",
+        "Chinese": "Yumi (游梦)",
+        "Japanese": "Rie Tanaka (田中理恵)",
+        "Korean": "Kim Ha-ram (김하람)"
+    },
+    "profile": {
+        "description": "Lisa là thủ thư của Knights of Favonius, nổi tiếng với trí tuệ và sự quyến rũ của mình. Cô là một nhà nghiên cứu nổi bật và rất am hiểu về các nguyên tố và ma thuật.",
+        "personality": "Lisa là một người rất thông minh và lạc quan, luôn có một phong thái quyến rũ và thân thiện. Cô thích đọc sách và nghiên cứu, đồng thời có sự hài hước và tinh thần tốt.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Lightning Touch",
+                "description": "Sử dụng sách ma thuật để tấn công kẻ thù, gây sát thương Electro."
+            },
+            "elementalSkill": {
+                "name": "Lightning Rose",
+                "description": "Triệu hồi một vòng tròn sấm sét gây sát thương Electro và giảm khả năng phòng thủ của kẻ thù."
+            },
+            "elementalBurst": {
+                "name": "Lightning Touch: Burst",
+                "description": "Tạo ra một cơn bão sấm sét gây sát thương Electro trong phạm vi rộng và tăng sức mạnh của các kỹ năng Electro."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Lightning Storm",
+                    "description": "Tăng sát thương của Lightning Rose và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Electric Explosion",
+                    "description": "Khi sử dụng Lightning Touch: Burst, tạo ra một cú sốc điện gây sát thương cho các kẻ thù xung quanh."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Lightning Conductor",
+            "c2": "High Voltage",
+            "c3": "Electroculum",
+            "c4": "Storm Rider",
+            "c5": "Thunderstorm",
+            "c6": "Stormfront"
+        }
+    }
+}

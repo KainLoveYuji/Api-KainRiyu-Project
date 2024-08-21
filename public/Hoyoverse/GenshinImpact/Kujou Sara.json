@@ -1,0 +1,63 @@
+{
+    "name": "Kujou Sara",
+    "title": "Chỉ Huy Thần Hộ Mệnh",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Electro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 14 tháng 7",
+    "constellation": "Kanzen Shou",
+    "region": "Inazuma",
+    "affiliations": [
+        "Kujo Clan",
+        "Shogun's Army"
+    ],
+    "specialDish": "Kujou Sara’s Specialty",
+    "namecard": "Kujou Sara: Shogun’s Protector",
+    "howToObtain": "Sự kiện Wish — Reign of Serenity",
+    "releaseDate": "Ngày 06 tháng 10, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Kujo Clan",
+    "voiceActors": {
+        "English": "Nariyuki Sakurada",
+        "Chinese": "Yao Yao (姚姚)",
+        "Japanese": "Miku Ito (伊藤美来)",
+        "Korean": "Jung Hye-sung (정혜성)"
+    },
+    "profile": {
+        "description": "Kujou Sara là một chỉ huy đáng tin cậy và là nhân vật chủ chốt của Shogun's Army. Cô nổi bật với khả năng chiến đấu mạnh mẽ và lòng trung thành với Shogun.",
+        "personality": "Kujou Sara có tính cách kiên quyết và đầy nhiệt huyết. Cô rất tận tâm với nhiệm vụ của mình và luôn sẵn sàng bảo vệ những gì quan trọng nhất với cô.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Tengu Stormcall",
+                "description": "Thực hiện các đòn tấn công bằng cung, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Tengu Juurai: Stormcluster",
+                "description": "Triệu hồi một con quạ Electro để gây sát thương và tăng cường sức mạnh cho đồng đội."
+            },
+            "elementalBurst": {
+                "name": "Tengu Juurai: Titanbreaker",
+                "description": "Tạo ra một vùng hiệu ứng Electro gây sát thương lớn và tăng sức mạnh cho đồng đội trong khu vực."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Aozora no Kaze",
+                    "description": "Tăng cường sức mạnh của Tengu Juurai: Stormcluster và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Shinryuu no Tatsumaki",
+                    "description": "Tăng hiệu quả của Tengu Juurai: Titanbreaker khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Tengu’s Favor",
+            "c2": "Stormcall’s Grace",
+            "c3": "Oath of Protection",
+            "c4": "Lightning Arrow",
+            "c5": "Divine Storm",
+            "c6": "Shogun’s Honor"
+        }
+    }
+}

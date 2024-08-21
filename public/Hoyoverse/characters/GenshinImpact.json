@@ -1,18 +1,129 @@
-[
-    {
-        "id": 1,
-        "name": "Yae Miko",
-        "game": "Genshin Impact",
-        "element": "Electro",
-        "weapon": "Catalyst",
-        "description": "A high priestess of the Grand Narukami Shrine."
-    },
-    {
-        "id": 2,
-        "name": "Kazuha",
-        "game": "Genshin Impact",
-        "element": "Anemo",
-        "weapon": "Sword",
-        "description": "A wandering swordsman from Inazuma."
-    }
-]
+{
+    "characters": [
+        {
+            "name": "Yae Miko",
+            "title": "Guuji của Đền Narukami Grand",
+            "quality": "5 Sao",
+            "weapon": "Catalyst",
+            "element": "Electro",
+            "modelType": "Nữ Cao",
+            "birthday": "Ngày 27 tháng 6",
+            "constellation": "Divina Vulpes",
+            "region": "Inazuma",
+            "affiliations": [
+                "Đền Narukami Grand",
+                "Nhà xuất bản Yae"
+            ],
+            "specialDish": "Fukuuchi Udon",
+            "namecard": "Yae Miko: Giấc Mơ Kitsune",
+            "howToObtain": "Sự kiện Wish — Everbloom Violet",
+            "releaseDate": "Ngày 16 tháng 2, 2022",
+            "geniusInvokationTCG": "Thẻ Nhân Vật",
+            "ancestry": "Gia tộc Hakushin",
+            "voiceActors": {
+                "English": "Ratana",
+                "Chinese": "Du Mingya (杜冥鸦)",
+                "Japanese": "Sakura Ayane (佐倉綾音)",
+                "Korean": "Moon Yoo-jeong (문유정)"
+            },
+            "profile": {
+                "description": "Yae Miko là Guuji của Đền Narukami Grand và là người đứng đầu Nhà xuất bản Yae. Cô nổi tiếng với tính cách vui nhộn và sự kết nối sâu sắc với nguyên tố Electro.",
+                "personality": "Yae Miko nổi tiếng với tính cách tinh nghịch và bí ẩn. Cô là một người điều khiển tài tình và có hiểu biết sâu sắc về thế giới xung quanh mình.",
+                "abilities": {
+                    "normalAttack": {
+                        "name": "Spiritfox Sin-Eater",
+                        "description": "Thực hiện tới ba cú tấn công bằng bùa chú của mình, gây sát thương Electro."
+                    },
+                    "elementalSkill": {
+                        "name": "Kitsune's Sprint",
+                        "description": "Triệu hồi Sesshou Sakura gây sát thương Electro cho kẻ thù gần đó."
+                    },
+                    "elementalBurst": {
+                        "name": "Great Secret Art: Tenko Kenshin",
+                        "description": "Kênh một lượng lớn năng lượng Electro, gây sát thương Electro lớn và triệu hồi nhiều Sesshou Sakura."
+                    },
+                    "passiveTalents": [
+                        {
+                            "name": "Eminence of the Kitsune",
+                            "description": "Tăng cấp độ của Sesshou Sakura và số lượng cú đánh gây ra."
+                        },
+                        {
+                            "name": "Servant of the Great Shrine",
+                            "description": "Giảm thời gian hồi chiêu của Kitsune's Sprint và tăng sát thương của nó."
+                        }
+                    ]
+                },
+                "constellations": {
+                    "c1": "Con Cáo Xảo Quyệt",
+                    "c2": "Ánh Sáng Thiêng Liêng",
+                    "c3": "Nghệ Thuật Bí Mật: Tenko",
+                    "c4": "Con Cáo Vĩnh Cửu",
+                    "c5": "Lời Đề Nghị Bí Mật",
+                    "c6": "Con Cáo Huyền Bí"
+                }
+            }
+        },
+        {
+            "name": "Raiden Shogun",
+            "title": "Raiden Makoto",
+            "quality": "5 Sao",
+            "weapon": "Polearm",
+            "element": "Electro",
+            "modelType": "Nữ Cao",
+            "birthday": "Ngày 26 tháng 2",
+            "constellation": "Meditative Silence",
+            "region": "Inazuma",
+            "affiliations": [
+                "Shogunate"
+            ],
+            "specialDish": "Raiden Shogun’s Delicious Sushi",
+            "namecard": "Raiden Shogun: Eternal Eternity",
+            "howToObtain": "Sự kiện Wish — Reign of Serenity",
+            "releaseDate": "Ngày 02 tháng 9, 2021",
+            "geniusInvokationTCG": "Thẻ Nhân Vật",
+            "ancestry": "N/A",
+            "voiceActors": {
+                "English": "Anne Yatco",
+                "Chinese": "Kris (桂小狼)",
+                "Japanese": "Kawakami Tomoko (川上智子)",
+                "Korean": "Lee Kyu-sun (이규선)"
+            },
+            "profile": {
+                "description": "Raiden Shogun là vị Shogun của Inazuma, nổi tiếng với quyền lực và sự lãnh đạo vững chắc của mình. Cô là hình mẫu của sức mạnh và chính nghĩa.",
+                "personality": "Raiden Shogun thể hiện sự nghiêm khắc và quyết đoán. Cô rất nghiêm túc về nhiệm vụ của mình và có mục tiêu rõ ràng trong việc duy trì hòa bình và trật tự.",
+                "abilities": {
+                    "normalAttack": {
+                        "name": "Secret Art: Musou Shinsetsu",
+                        "description": "Raiden Shogun thực hiện một loạt các đòn đánh bằng polearm, gây sát thương Electro và tăng sức mạnh cho đồng đội."
+                    },
+                    "elementalSkill": {
+                        "name": "Secret Art: Musou Shinsetsu",
+                        "description": "Gây sát thương Electro cho kẻ thù gần đó và triệu hồi một thanh kiếm Electro mạnh mẽ."
+                    },
+                    "elementalBurst": {
+                        "name": "Secret Art: Musou Shinsetsu",
+                        "description": "Kích hoạt một cơn bão Electro mạnh mẽ, gây sát thương lớn và tăng cường khả năng của đồng đội."
+                    },
+                    "passiveTalents": [
+                        {
+                            "name": "Musou Shinsetsu",
+                            "description": "Tăng cường sức mạnh và giảm thời gian hồi chiêu của các kỹ năng của Raiden Shogun."
+                        },
+                        {
+                            "name": "Eternity’s End",
+                            "description": "Tăng sức mạnh và hiệu quả của các kỹ năng khi Raiden Shogun sử dụng kỹ năng elemental burst."
+                        }
+                    ]
+                },
+                "constellations": {
+                    "c1": "Eternal Thundering Fury",
+                    "c2": "All-Seer’s Judgment",
+                    "c3": "Ember of Eternity",
+                    "c4": "Silent Warrior",
+                    "c5": "Dawn of Eternity",
+                    "c6": "End of All Things"
+                }
+            }
+        }
+    ]
+}

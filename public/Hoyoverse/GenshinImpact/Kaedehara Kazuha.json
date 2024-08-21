@@ -1,0 +1,62 @@
+{
+    "name": "Kaedehara Kazuha",
+    "title": "Chiến Binh Lãng Du",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Anemo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 29 tháng 10",
+    "constellation": "Acer Palmatum",
+    "region": "Inazuma",
+    "affiliations": [
+        "Crux Fleet"
+    ],
+    "specialDish": "All-Weather Beauty",
+    "namecard": "Kaedehara Kazuha: Autumn Maple Leaf",
+    "howToObtain": "Sự kiện Wish — Leaves in the Wind",
+    "releaseDate": "Ngày 29 tháng 6, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Kaedehara Clan",
+    "voiceActors": {
+        "English": "Mark Whitten",
+        "Chinese": "Shin Yong-woo (申永祐)",
+        "Japanese": "Nobunaga Shimazaki (島﨑信長)",
+        "Korean": "Choi Seung-hoon (최승훈)"
+    },
+    "profile": {
+        "description": "Kaedehara Kazuha là một chiến binh lãng du từ Inazuma, nổi tiếng với sự tinh tế và tính cách nhẹ nhàng. Anh là người theo đuổi sự tự do và thường đi khắp nơi để khám phá thế giới.",
+        "personality": "Kaedehara Kazuha là người trầm lặng, yêu thiên nhiên và luôn tìm kiếm sự tự do. Anh có khả năng nhìn thấu bản chất sự việc và giữ một thái độ bình tĩnh trong mọi hoàn cảnh.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Garyuu Bladework",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Anemo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Chihayaburu",
+                "description": "Kéo kẻ thù và vật thể gần đó về phía Kazuha và gây sát thương Anemo, sau đó đưa Kazuha lên không trung."
+            },
+            "elementalBurst": {
+                "name": "Kazuha Slash",
+                "description": "Tạo ra một cơn lốc xoáy với sát thương Anemo lớn và hấp thụ nguyên tố xung quanh."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Poetics of Fuubutsu",
+                    "description": "Tăng sát thương nguyên tố cho các nhân vật khác trong đội dựa trên Elemental Mastery của Kazuha."
+                },
+                {
+                    "name": "Soumon Swordsmanship",
+                    "description": "Giảm thời gian hồi chiêu của Chihayaburu và tăng sát thương của nó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Scarlet Hills",
+            "c2": "Yamaarashi Tailwind",
+            "c3": "Maple Monogatari",
+            "c4": "Oozora Genpou",
+            "c5": "Hane no Chigiri",
+            "c6": "Kaedehara Kishin"
+        }
+    }
+}

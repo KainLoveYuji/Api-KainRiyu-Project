@@ -1,0 +1,63 @@
+{
+    "name": "Kirara",
+    "title": "Nhân vật thần bí",
+    "quality": "4 Sao",
+    "weapon": "Sword",
+    "element": "Geo",
+    "modelType": "Nữ Thấp",
+    "birthday": "Ngày 15 tháng 5",
+    "constellation": "Mysterious Kitsune",
+    "region": "Inazuma",
+    "affiliations": [
+        "Hội Thiên lý",
+        "Giao Thông Vận Tải"
+    ],
+    "specialDish": "Kirara’s Delight",
+    "namecard": "Kirara: Đóa Hoa Bí Ẩn",
+    "howToObtain": "Sự kiện Wish — Fortune's Favor",
+    "releaseDate": "Ngày 18 tháng 11, 2023",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Kitsune",
+    "voiceActors": {
+        "English": "Amanda Lee",
+        "Chinese": "Li Xiaoyun (李晓云)",
+        "Japanese": "Nana Mizuki (水樹奈々)",
+        "Korean": "Choi Yuri (최유리)"
+    },
+    "profile": {
+        "description": "Kirara là một nhân vật thần bí đến từ Inazuma, nổi bật với sự thông minh và tính cách vui nhộn. Cô luôn sẵn lòng giúp đỡ mọi người và được coi là một người bạn đáng tin cậy.",
+        "personality": "Kirara có tính cách thân thiện và lạc quan. Cô luôn mang đến niềm vui và sự bất ngờ cho mọi người xung quanh.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Kirara Art: Neko Slash",
+                "description": "Tấn công kẻ thù bằng các nhát kiếm nhanh, gây sát thương Geo."
+            },
+            "elementalSkill": {
+                "name": "Kirara Art: Mystic Paw",
+                "description": "Triệu hồi một bàn tay đá lớn để đập vào kẻ thù, gây sát thương Geo."
+            },
+            "elementalBurst": {
+                "name": "Kirara Art: Neko Storm",
+                "description": "Gây sát thương Geo lớn trong phạm vi rộng, tạo ra một cơn bão đá."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Mystic Insight",
+                    "description": "Tăng sát thương của Kirara Art: Mystic Paw và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Stone Guardian",
+                    "description": "Tăng sức mạnh và hiệu quả của Kirara Art: Neko Storm khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Neko Protector",
+            "c2": "Mysterious Whiskers",
+            "c3": "Silent Step",
+            "c4": "Neko Leap",
+            "c5": "Guardian of Inazuma",
+            "c6": "Nine Lives"
+        }
+    }
+}

@@ -10,15 +10,17 @@ exports.index = async (req, res, next) => {
         return res.json({ error: 'Thiếu tham số "game" hoặc "name"' });
     }
 
-    // Xác định đường dẫn đến thư mục chứa các tệp JSON của nhân vật theo trò chơi
+    // Xác định đường dẫn tới thư mục chứa dữ liệu nhân vật
     const charactersDir = path.join(__dirname, game);
     const characterFilePath = path.join(charactersDir, `${name}.json`);
 
+    // Kiểm tra sự tồn tại của tệp JSON
     if (!fs.existsSync(characterFilePath)) {
         return res.json({ error: 'Không tìm thấy dữ liệu nhân vật này!' });
     }
 
     try {
+        // Đọc và phân tích dữ liệu từ tệp JSON
         const characterData = JSON.parse(fs.readFileSync(characterFilePath, 'utf8'));
         return res.json(characterData);
     } catch (error) {

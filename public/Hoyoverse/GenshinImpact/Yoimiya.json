@@ -1,0 +1,62 @@
+{
+    "name": "Yoimiya",
+    "title": "Nữ Hoàng Pháo Hoa Naganohara",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Pyro",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 21 tháng 6",
+    "constellation": "Carassius Auratus",
+    "region": "Inazuma",
+    "affiliations": [
+        "Naganohara Fireworks"
+    ],
+    "specialDish": "Summer Festival Fish",
+    "namecard": "Yoimiya: Auratus Spark",
+    "howToObtain": "Sự kiện Wish — Tapestry of Golden Flames",
+    "releaseDate": "Ngày 10 tháng 8, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Naganohara Clan",
+    "voiceActors": {
+        "English": "Jenny Yokobori",
+        "Chinese": "Hanser (韩夏)",
+        "Japanese": "Kana Ueda (植田佳奈)",
+        "Korean": "Kim Yeon-woo (김연우)"
+    },
+    "profile": {
+        "description": "Yoimiya là người thừa kế của tiệm pháo hoa Naganohara nổi tiếng tại Inazuma. Cô nổi tiếng với khả năng tạo ra những màn pháo hoa rực rỡ và có một tâm hồn phóng khoáng, yêu tự do.",
+        "personality": "Yoimiya có tính cách tươi sáng và sôi nổi, luôn mang lại niềm vui và sự phấn khởi cho mọi người xung quanh. Cô là người rất đam mê và tận tâm với nghề chế tạo pháo hoa.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Firework Flare-Up",
+                "description": "Thực hiện các đòn tấn công bằng cung, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Niwabi Fire-Dance",
+                "description": "Yoimiya thực hiện một điệu múa pháo hoa đặc biệt, khiến mũi tên bắn ra trong thời gian ngắn trở thành những đòn tấn công Pyro mạnh mẽ."
+            },
+            "elementalBurst": {
+                "name": "Ryuukin Saxifrage",
+                "description": "Gây sát thương Pyro lớn cho kẻ thù và đánh dấu mục tiêu bằng Ryuukin Flare. Mục tiêu bị đánh dấu sẽ phát nổ khi nhận sát thương từ đòn tấn công của đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Blazing Match",
+                    "description": "Tăng sát thương của Niwabi Fire-Dance và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Summer Scorch",
+                    "description": "Tăng sát thương cho các đòn tấn công bắn ra khi Niwabi Fire-Dance đang hoạt động."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Agate Ryuukin",
+            "c2": "A Procession of Bonfires",
+            "c3": "Trickster's Flare",
+            "c4": "Pyrotechnic Professional",
+            "c5": "A Summer Festival's Eve",
+            "c6": "Naganohara Meteor Swarm"
+        }
+    }
+}

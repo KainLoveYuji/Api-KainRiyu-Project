@@ -14,14 +14,5 @@
         "element": "Anemo",
         "weapon": "Sword",
         "description": "A wandering swordsman from Inazuma."
-    },
-    {
-        "id": 3,
-        "name": "Xiao",
-        "game": "Genshin Impact",
-        "element": "Anemo",
-        "weapon": "Polearm",
-        "description": "A vigilant Yaksha who protects Liyue."
     }
-    // Thêm các nhân vật khác vào đây
 ]

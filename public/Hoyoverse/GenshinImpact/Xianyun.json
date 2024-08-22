@@ -1,0 +1,62 @@
+{
+    "name": "Xianyun",
+    "title": "Ngọc Linh Xianyun",
+    "quality": "5 Sao",
+    "weapon": "Polearm",
+    "element": "Geo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 16 tháng 3",
+    "constellation": "Mountain's Echo",
+    "region": "Liyue",
+    "affiliations": [
+        "Qingce Village"
+    ],
+    "specialDish": "Xianyun’s Specialty",
+    "namecard": "Xianyun: Mountain's Echo",
+    "howToObtain": "Sự kiện Wish — The Mountain’s Call",
+    "releaseDate": "Ngày 15 tháng 9, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Roger Craig Smith",
+        "Chinese": "Zhang Jie (张杰)",
+        "Japanese": "Takahiro Sakurai (櫻井孝宏)",
+        "Korean": "Jung Joon-ho (정준호)"
+    },
+    "profile": {
+        "description": "Xianyun là một chiến binh mạnh mẽ từ Liyue, nổi bật với khả năng điều khiển nguyên tố Geo. Ông được biết đến với sức mạnh vượt trội và lòng trung thành với quê hương.",
+        "personality": "Xianyun là người kiên cường và quyết đoán. Ông có tinh thần chiến đấu cao và luôn sẵn sàng bảo vệ quê hương khỏi mọi hiểm họa.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Geo Strike",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Geo Shield",
+                "description": "Triệu hồi một lớp chắn địa chất để bảo vệ đồng đội và gây sát thương Geo cho kẻ thù gần đó."
+            },
+            "elementalBurst": {
+                "name": "Mountain’s Fury",
+                "description": "Gây sát thương Geo lớn trong phạm vi rộng và tạo ra một cơn địa chấn."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Mountain’s Endurance",
+                    "description": "Tăng hiệu quả của Geo Shield và kéo dài thời gian tác dụng của nó."
+                },
+                {
+                    "name": "Echo of the Peaks",
+                    "description": "Tăng sức mạnh và hiệu quả của Mountain’s Fury khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Mountain's Echo",
+            "c2": "Rock's Embrace",
+            "c3": "Tectonic Might",
+            "c4": "Earth’s Wrath",
+            "c5": "Quake’s Gaze",
+            "c6": "Summit’s Triumph"
+        }
+    }
+}

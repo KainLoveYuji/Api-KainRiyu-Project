@@ -1,0 +1,62 @@
+{
+    "name": "Noelle",
+    "title": "Maid of Favonius",
+    "quality": "4 Sao",
+    "weapon": "Claymore",
+    "element": "Geo",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 21 tháng 3",
+    "constellation": "Parma Cordis",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Invigorating Pizza",
+    "namecard": "Noelle: Chivalric Blossom",
+    "howToObtain": "Sự kiện Wish — Beginners' Wish hoặc Wanderlust Invocation",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Không rõ",
+    "voiceActors": {
+        "English": "Laura Faye Smith",
+        "Chinese": "Hu Tao (胡桃)",
+        "Japanese": "Kanon Takao (高尾奏音)",
+        "Korean": "Lee Hyun-jin (이현진)"
+    },
+    "profile": {
+        "description": "Noelle là một cô hầu gái tận tâm của Hiệp Sĩ Đoàn Favonius. Mặc dù chưa được phong chức chính thức, cô vẫn luôn phấn đấu để trở thành một Hiệp Sĩ thực thụ và bảo vệ mọi người.",
+        "personality": "Noelle luôn tận tâm và siêng năng trong mọi nhiệm vụ. Cô ấy có trái tim nhân hậu và luôn sẵn sàng giúp đỡ người khác, thậm chí có thể đặt sự an toàn của bản thân sau cùng.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Favonius Bladework - Maid",
+                "description": "Thực hiện các đòn tấn công bằng kiếm lớn, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Breastplate",
+                "description": "Triệu hồi một khiên đá bảo vệ, đồng thời gây sát thương cho kẻ thù trong phạm vi nhỏ và hồi máu cho Noelle dựa trên sức phòng thủ của cô."
+            },
+            "elementalBurst": {
+                "name": "Sweeping Time",
+                "description": "Noelle vung kiếm lớn và biến nó thành một vũ khí Geo khổng lồ, tăng tấn công và gây sát thương lớn cho kẻ thù trong phạm vi rộng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Devotion",
+                    "description": "Khi HP của Noelle dưới 30%, tạo ra một lá chắn bảo vệ tự động. Hiệu ứng này có thể kích hoạt một lần mỗi 60 giây."
+                },
+                {
+                    "name": "Nice and Clean",
+                    "description": "Khi kết thúc thời gian hoạt động của Breastplate, nếu lá chắn không bị phá vỡ, nó sẽ hồi một lượng HP tương ứng với phòng thủ của Noelle."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "I Got Your Back",
+            "c2": "Combat Maid",
+            "c3": "Invulnerable Maid",
+            "c4": "To Be Cleaned",
+            "c5": "Favonius Sweeper Master",
+            "c6": "Must Be Spotless"
+        }
+    }
+}

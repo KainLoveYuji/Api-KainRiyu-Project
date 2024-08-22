@@ -1,0 +1,62 @@
+{
+    "name": "Lyney",
+    "title": "Ngôi Sao Phương Đông",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Pyro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 13 tháng 7",
+    "constellation": "Radiant Blaze",
+    "region": "Fontaine",
+    "affiliations": [
+        "Troupe of Flames"
+    ],
+    "specialDish": "Lyney’s Special Dish",
+    "namecard": "Lyney: Radiant Blaze",
+    "howToObtain": "Sự kiện Wish — Flames of the Horizon",
+    "releaseDate": "Ngày 05 tháng 5, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Matthew Mercer",
+        "Chinese": "Zhou Yu (周宇)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Jung Hae-in (정해인)"
+    },
+    "profile": {
+        "description": "Lyney là một cung thủ tài năng đến từ Fontaine, nổi bật với khả năng điều khiển nguyên tố Pyro và những màn biểu diễn ấn tượng. Anh là một biểu tượng của sức nóng và sự quyến rũ trong thế giới nghệ thuật.",
+        "personality": "Lyney được biết đến với sự lôi cuốn và tính cách nổi bật. Anh có khả năng thu hút sự chú ý của mọi người và thường gây ấn tượng mạnh với màn trình diễn của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Blazing Arrow",
+                "description": "Sử dụng cung tên để tấn công từ xa, gây sát thương Pyro cho kẻ địch."
+            },
+            "elementalSkill": {
+                "name": "Inferno Trick",
+                "description": "Triệu hồi một quả cầu lửa để tấn công kẻ địch gần đó và gây hiệu ứng Pyro."
+            },
+            "elementalBurst": {
+                "name": "Flame Serenade",
+                "description": "Bắn ra một loạt mũi tên lửa mạnh mẽ, gây sát thương Pyro lớn trong phạm vi rộng và tạo ra một cơn bão lửa."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Fire Dance",
+                    "description": "Tăng sát thương của Inferno Trick và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Radiant Performance",
+                    "description": "Tăng sức mạnh của Flame Serenade và mở rộng phạm vi ảnh hưởng của nó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Radiant Blaze",
+            "c2": "Eternal Flame",
+            "c3": "Phoenix's Embrace",
+            "c4": "Inferno Rebirth",
+            "c5": "Blazing Heart",
+            "c6": "Flame Sovereign"
+        }
+    }
+}

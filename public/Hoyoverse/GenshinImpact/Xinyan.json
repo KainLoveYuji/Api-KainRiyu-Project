@@ -1,0 +1,62 @@
+{
+    "name": "Xinyan",
+    "title": "Nữ Nhạc Sĩ Lửa",
+    "quality": "4 Sao",
+    "weapon": "Claymore",
+    "element": "Pyro",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 16 tháng 2",
+    "constellation": "Pyramis",
+    "region": "Liyue",
+    "affiliations": [
+        "The Crux Fleet"
+    ],
+    "specialDish": "Xinyan’s Specialty",
+    "namecard": "Xinyan: Rock 'n' Roll",
+    "howToObtain": "Sự kiện Wish — Moment of Bloom",
+    "releaseDate": "Ngày 23 tháng 11, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Megan Shipman",
+        "Chinese": "Shen (沈磊)",
+        "Japanese": "Kana Hanazawa (花澤香菜)",
+        "Korean": "Jang Seung-joo (장승주)"
+    },
+    "profile": {
+        "description": "Xinyan là một nghệ sĩ rock nổi tiếng từ Liyue, cô kết hợp giữa âm nhạc và chiến đấu để tạo ra những màn trình diễn đầy sức mạnh và lửa.",
+        "personality": "Xinyan là một cá tính mạnh mẽ và đầy năng lượng, với niềm đam mê mãnh liệt cho âm nhạc và biểu diễn. Cô không ngại thể hiện bản thân và luôn tìm cách để phá vỡ những quy tắc truyền thống.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Normal Attack: Secret Talent",
+                "description": "Thực hiện các đòn tấn công bằng claymore, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Riff Revolution",
+                "description": "Triệu hồi một cú đánh mạnh mẽ để gây sát thương Pyro và tạo ra một vùng ảnh hưởng Pyro."
+            },
+            "elementalBurst": {
+                "name": "Searing Onslaught",
+                "description": "Gây sát thương Pyro lớn và tạo ra một đám cháy trong khu vực ảnh hưởng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Shattering Crush",
+                    "description": "Kích hoạt Riff Revolution sẽ giảm thời gian hồi chiêu của Xinyan."
+                },
+                {
+                    "name": "Lunar Fall",
+                    "description": "Kỹ năng Searing Onslaught sẽ tăng sát thương khi đối mặt với kẻ thù."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Rock 'n' Roll",
+            "c2": "Goodnight Song",
+            "c3": "A New Song",
+            "c4": "Performer’s Melody",
+            "c5": "Musical Talent",
+            "c6": "Lasting Melody"
+        }
+    }
+}

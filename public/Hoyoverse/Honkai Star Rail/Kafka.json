@@ -1,0 +1,62 @@
+{
+    "name": "Kafka",
+    "title": "The Mesmerizing Dreamer",
+    "quality": "5 Star",
+    "weapon": "Bow",
+    "element": "Lightning",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 23 tháng 7",
+    "constellation": "Ethereal Dream",
+    "region": "Astral Express",
+    "affiliations": [
+        "Astral Express"
+    ],
+    "specialDish": "Kafka’s Specialty",
+    "namecard": "Kafka: The Mesmerizing Dreamer",
+    "howToObtain": "Sự kiện Wish — Dreams of the Thunderstorm",
+    "releaseDate": "Ngày 5 tháng 6, 2024",
+    "geniusInvokationTCG": "Character Card",
+    "ancestry": "Astral Express",
+    "voiceActors": {
+        "English": "Megan Shipman",
+        "Chinese": "Yin Yao (尹耀)",
+        "Japanese": "Maaya Uchida (内田真礼)",
+        "Korean": "Kim Min-ji (김민지)"
+    },
+    "profile": {
+        "description": "Kafka là một nhà cung cấp tài năng trên Astral Express với khả năng sử dụng sức mạnh sấm sét để chiến đấu. Cô có thể làm cho kẻ thù bị chóng mặt và rối loạn.",
+        "personality": "Kafka nổi bật với tính cách bí ẩn và lôi cuốn. Cô thường dùng trí thông minh và sự quyến rũ của mình để đạt được mục tiêu.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Storm’s Whisper",
+                "description": "Sử dụng cung để tấn công từ xa, gây sát thương sấm sét cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Thunder Strike",
+                "description": "Gây ra một cú bắn sấm sét, làm cho kẻ thù bị choáng và nhận thêm sát thương từ điện."
+            },
+            "elementalBurst": {
+                "name": "Lightning Tempest",
+                "description": "Giải phóng một cơn bão sấm sét, gây sát thương lớn và tạo ra hiệu ứng sét xung quanh kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Electrified Edge",
+                    "description": "Tăng sát thương của Thunder Strike và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Tempest's Embrace",
+                    "description": "Tăng sức mạnh và hiệu quả của Lightning Tempest khi sử dụng kỹ năng nộ."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Ethereal Dream",
+            "c2": "Stormbringer",
+            "c3": "Thunder's Embrace",
+            "c4": "Celestial Fury",
+            "c5": "Tempest's Grace",
+            "c6": "Divine Lightning"
+        }
+    }
+}

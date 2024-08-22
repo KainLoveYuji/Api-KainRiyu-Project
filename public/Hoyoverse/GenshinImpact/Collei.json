@@ -1,0 +1,62 @@
+{
+    "name": "Collei",
+    "title": "Người Bảo Vệ Rừng Xanh",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Dendro",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 8 tháng 5",
+    "constellation": "Leptailurus Cervarius",
+    "region": "Sumeru",
+    "affiliations": [
+        "Amurta Darshan"
+    ],
+    "specialDish": "Collei’s Specialty",
+    "namecard": "Collei: Leptailurus Cervarius",
+    "howToObtain": "Sự kiện Wish — Forest Ranger",
+    "releaseDate": "Ngày 24 tháng 8, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Mondstadt",
+    "voiceActors": {
+        "English": "Christie Cate",
+        "Chinese": "Mao Xuanling (毛瑄玲)",
+        "Japanese": "Miyu Irino (入野自由)",
+        "Korean": "Lee Sae-byeok (이새벽)"
+    },
+    "profile": {
+        "description": "Collei là một học trò của Tighnari tại Sumeru. Với tính cách vui tươi và năng động, cô luôn làm việc chăm chỉ để bảo vệ khu rừng và duy trì hòa bình cho Sumeru.",
+        "personality": "Collei là một người hoạt bát, giàu tình cảm và luôn hết mình với nhiệm vụ của mình. Dù có quá khứ đau buồn, cô vẫn luôn lạc quan và nỗ lực hướng tới tương lai.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Twirling Vines",
+                "description": "Bắn một mũi tên với sát thương Dendro cho kẻ thù. Khi trúng đích, mũi tên có thể phát tán thêm các hạt giống gây sát thương thêm."
+            },
+            "elementalSkill": {
+                "name": "Floral Brush",
+                "description": "Ném một chiếc boomerang với hiệu ứng Dendro, gây sát thương cho mọi kẻ địch trên đường đi và quay lại."
+            },
+            "elementalBurst": {
+                "name": "Trump-Card Kitty",
+                "description": "Triệu hồi một con mèo gỗ đặc biệt, nó sẽ chạy xung quanh chiến trường, gây sát thương Dendro liên tục cho tất cả các kẻ thù nó chạm vào."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Sprout’s Return",
+                    "description": "Tăng sát thương của Floral Brush và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Leaf's Blessing",
+                    "description": "Khi sử dụng Trump-Card Kitty, tăng khả năng miễn nhiễm Dendro và hồi phục một lượng nhỏ HP cho đồng đội."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Leptailurus Cervarius",
+            "c2": "Leafy Alliance",
+            "c3": "Sprouting Green",
+            "c4": "Blooming Catnip",
+            "c5": "Evergreen Shade",
+            "c6": "Jungle Guardian"
+        }
+    }
+}

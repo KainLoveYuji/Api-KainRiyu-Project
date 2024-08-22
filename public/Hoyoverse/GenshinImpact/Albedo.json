@@ -1,0 +1,62 @@
+{
+    "name": "Albedo",
+    "title": "Nhà Hóa Học Tinh Tú",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Geo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 13 tháng 9",
+    "constellation": "Kreideprinz",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knight of Favonius"
+    ],
+    "specialDish": "Albedo’s Specialty",
+    "namecard": "Albedo: Kreideprinz",
+    "howToObtain": "Sự kiện Wish — Banner of the Traveler",
+    "releaseDate": "Ngày 23 tháng 12, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Không rõ",
+    "voiceActors": {
+        "English": "Kaiji Tang",
+        "Chinese": "Yao Di (姚迪)",
+        "Japanese": "Ryohei Kimura (木村良平)",
+        "Korean": "Park Hyun-sik (박현식)"
+    },
+    "profile": {
+        "description": "Albedo là một nhà hóa học tài năng thuộc Knight of Favonius, nổi tiếng với khả năng sử dụng element Geo. Anh là người chăm chỉ và luôn tìm kiếm các bí mật của thế giới.",
+        "personality": "Albedo có tính cách điềm tĩnh, lý trí và ít nói. Anh là một nhà nghiên cứu đam mê và có tính cách nghiêm túc, nhưng cũng rất quan tâm đến những người xung quanh.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Favonius Bladework - Weiss",
+                "description": "Sử dụng kiếm để thực hiện các đòn tấn công liên tiếp, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Abiogenesis: Solar Isotoma",
+                "description": "Tạo ra một vùng Geo, gây sát thương Geo và tạo ra một hạt kẽm. Kẻ thù trong vùng ảnh hưởng bị sát thương và giảm hiệu quả của các kỹ năng."
+            },
+            "elementalBurst": {
+                "name": "Rite of Progeniture: Tectonic Tide",
+                "description": "Gây sát thương Geo cho các kẻ thù xung quanh và tạo ra một khu vực tác động lâu dài với hiệu ứng Geo."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Homuncular Nature",
+                    "description": "Tăng khả năng gây sát thương của Abiogenesis: Solar Isotoma và giảm thời gian hồi chiêu."
+                },
+                {
+                    "name": "Flash of Genius",
+                    "description": "Giảm thời gian hồi chiêu của Rite of Progeniture: Tectonic Tide khi sử dụng khả năng Elemental Burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Kreideprinz",
+            "c2": "Art of the Alchemist",
+            "c3": "Tectonic Tide",
+            "c4": "Genesis Form",
+            "c5": "The Star of the Alchemist",
+            "c6": "The Scholar's Spire"
+        }
+    }
+}

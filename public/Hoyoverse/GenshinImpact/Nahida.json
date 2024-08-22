@@ -1,0 +1,62 @@
+{
+    "name": "Nahida",
+    "title": "Nhà Hiền Triết Nhỏ",
+    "quality": "5 Sao",
+    "weapon": "Catalyst",
+    "element": "Dendro",
+    "modelType": "Nữ Thấp",
+    "birthday": "Ngày 27 tháng 10",
+    "constellation": "Sapientia Oromasdis",
+    "region": "Sumeru",
+    "affiliations": [
+        "Học Viện Sumeru"
+    ],
+    "specialDish": "Halvamazd",
+    "namecard": "Nahida: Dream of Knowledge",
+    "howToObtain": "Sự kiện Wish — The Moongrass’ Enlightenment",
+    "releaseDate": "Ngày 02 tháng 11, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Kimberly Anne Campbell",
+        "Chinese": "Hana (花玲)",
+        "Japanese": "Yukari Tamura (田村ゆかり)",
+        "Korean": "Kim Ha-na (김하나)"
+    },
+    "profile": {
+        "description": "Nahida là Nhân Vật Dendro Archon hiện tại của Sumeru, còn được biết đến với cái tên Lesser Lord Kusanali. Dù sở hữu hình dáng trẻ thơ, cô là một trí tuệ vô song và luôn mong muốn bảo vệ và phát triển vùng đất của mình.",
+        "personality": "Nahida rất hiền lành, thông minh và luôn tìm kiếm tri thức. Cô có lòng từ bi lớn và luôn mong muốn giúp đỡ mọi người. Tuy nhiên, cô cũng mang trong mình nỗi buồn sâu sắc vì những sự kiện trong quá khứ.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Form of the Kindling",
+                "description": "Tấn công bằng sức mạnh của Dendro, gây sát thương Dendro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "All Schemes to Know",
+                "description": "Sử dụng khả năng kết nối với cây cối để điều khiển các nhân vật bị ảnh hưởng bởi Dendro, gây sát thương và tạo ra hiệu ứng Dendro."
+            },
+            "elementalBurst": {
+                "name": "Illusory Heart",
+                "description": "Kích hoạt sức mạnh của các giấc mơ, tạo ra một vùng không gian ảnh hưởng đến các đối tượng trong vùng, gây sát thương Dendro và hỗ trợ đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "On All Things Meditated",
+                    "description": "Khi sử dụng kỹ năng Elemental Skill, tăng cường sức mạnh cho kỹ năng này nếu có các đồng đội thuộc nguyên tố khác nhau."
+                },
+                {
+                    "name": "The Shrine’s Sacred Shade",
+                    "description": "Tăng thời gian hiệu quả của Elemental Burst, giúp các kỹ năng và sát thương Dendro kéo dài hơn."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "The Root of All Fullness",
+            "c2": "The Stem of Manifest Inference",
+            "c3": "The Shoot of Conscious Attainment",
+            "c4": "The Leaf of All Illumination",
+            "c5": "The Fruit of Reason’s Fealty",
+            "c6": "The All-Knowing"
+        }
+    }
+}

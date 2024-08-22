@@ -1,0 +1,62 @@
+{
+    "name": "Candace",
+    "title": "Guardian of Aaru Village",
+    "quality": "4 Sao",
+    "weapon": "Polearm",
+    "element": "Hydro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 3 tháng 10",
+    "constellation": "Sagitta Scutum",
+    "region": "Sumeru",
+    "affiliations": [
+        "Aaru Village"
+    ],
+    "specialDish": "Utmost Care",
+    "namecard": "Candace: Silver Crescent",
+    "howToObtain": "Sự kiện Wish — Gilded Dreams",
+    "releaseDate": "Ngày 28 tháng 9, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Desert People",
+    "voiceActors": {
+        "English": "Shara Kirby",
+        "Chinese": "Yang Menglu (杨梦露)",
+        "Japanese": "Rie Takahashi (高橋李依)",
+        "Korean": "Kim Ga-ryeong (김가령)"
+    },
+    "profile": {
+        "description": "Candace là người bảo vệ của Làng Aaru, nổi tiếng với lòng dũng cảm và sức mạnh. Cô bảo vệ ngôi làng của mình khỏi mọi mối đe dọa và là biểu tượng của lòng trung thành.",
+        "personality": "Candace là người kiên định và có lòng nhân ái. Cô luôn tận tụy bảo vệ những người mình yêu thương và đối xử với mọi người một cách công bằng.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Gleaming Spear",
+                "description": "Thực hiện các đòn tấn công bằng vũ khí polearm, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Sacred Rite: Heron’s Sanctum",
+                "description": "Gây sát thương Hydro trong một vùng nhỏ và tạo ra khiên bảo vệ đồng đội trong một khoảng thời gian."
+            },
+            "elementalBurst": {
+                "name": "Sacred Rite: Wagtail’s Tide",
+                "description": "Triệu hồi sức mạnh nước để gây sát thương lớn cho kẻ thù và hồi phục sức khỏe cho đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Overflowing Wellspring",
+                    "description": "Tăng sức mạnh của khiên bảo vệ và hồi máu nhiều hơn khi sử dụng kỹ năng elemental skill Sacred Rite: Heron’s Sanctum."
+                },
+                {
+                    "name": "Waters of Unbroken Faith",
+                    "description": "Tăng tốc độ di chuyển và khả năng hồi máu khi Candace sử dụng kỹ năng elemental burst Sacred Rite: Wagtail’s Tide."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Returning Warrior",
+            "c2": "Moonlight Blazing",
+            "c3": "Silver Protection",
+            "c4": "Aaru’s Hope",
+            "c5": "Scales of Justice",
+            "c6": "Eternal Vigil"
+        }
+    }
+}

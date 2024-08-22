@@ -1,0 +1,63 @@
+{
+    "name": "Nilou",
+    "title": "Star of Zubayr Theater",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Hydro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 3 tháng 12",
+    "constellation": "Lotos Somno",
+    "region": "Sumeru",
+    "affiliations": [
+        "Zubayr Theater"
+    ],
+    "specialDish": "Swirling Steps",
+    "namecard": "Nilou: Lotus Dance",
+    "howToObtain": "Sự kiện Wish — Twirling Lotus",
+    "releaseDate": "Ngày 14 tháng 10, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Dani Chambers",
+        "Chinese": "Guiniang (鬼娘)",
+        "Japanese": "Hisako Kanemoto (金元寿子)",
+        "Korean": "Jeong Yu-mi (정유미)"
+    },
+    "profile": {
+        "description": "Nilou là ngôi sao của Nhà hát Zubayr, nổi tiếng với các điệu múa đầy quyến rũ và tài năng xuất sắc trong việc kết hợp nghệ thuật và chiến đấu. Cô là biểu tượng của vẻ đẹp và sự duyên dáng tại Sumeru.",
+        "personality": "Nilou có tính cách dịu dàng, cởi mở và luôn mong muốn mang đến niềm vui và hòa bình cho mọi người xung quanh. Cô luôn thể hiện lòng yêu thương và tôn trọng người khác thông qua nghệ thuật và vũ đạo của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Dance of the Moonlight",
+                "description": "Thực hiện các đòn tấn công bằng kiếm với sự uyển chuyển, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Dance of Haftkarsvar",
+                "description": "Triển khai một loạt các bước nhảy gây sát thương Hydro, đồng thời kích hoạt trạng thái Golden Chalice’s Bounty."
+            },
+            "elementalBurst": {
+                "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+                "description": "Thực hiện một điệu nhảy cuối cùng, tạo ra bông hoa Lotos gây sát thương lớn cho kẻ thù trong một phạm vi rộng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Court of Dancing Petals",
+                    "description": "Khi có ít nhất một nhân vật trong đội sử dụng nguyên tố Dendro, Nilou sẽ tăng sát thương của tất cả các thành viên trong đội trong một thời gian."
+                },
+                {
+                    "name": "Dreamy Dance of Aeons",
+                    "description": "Tăng sức mạnh và hiệu quả của Dance of Abzendegi khi Nilou thực hiện Elemental Burst, tạo thêm sát thương cho kẻ thù bị ảnh hưởng bởi Hydro."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Dance of the Sunlit Waters",
+            "c2": "Joyful the Flowing Dews",
+            "c3": "Dream of the Golden Chalice",
+            "c4": "Swirling Lotus, Waterfall’s Gracious",
+            "c5": "Dawn to Dusk",
+            "c6": "Lotus Purification"
+        }
+    }
+}
+

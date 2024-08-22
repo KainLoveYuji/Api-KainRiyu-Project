@@ -1,0 +1,62 @@
+{
+    "name": "Bennett",
+    "title": "Trailblazer",
+    "quality": "4 Sao",
+    "weapon": "Sword",
+    "element": "Pyro",
+    "modelType": "Nam Thấp",
+    "birthday": "Ngày 29 tháng 2",
+    "constellation": "Rota Calamitas",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Adventurers' Guild"
+    ],
+    "specialDish": "Teyvat Charred Egg",
+    "namecard": "Bennett: Adventurous Flames",
+    "howToObtain": "Sự kiện Wish — Sparkling Steps",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Không rõ",
+    "voiceActors": {
+        "English": "Cristina Vee",
+        "Chinese": "Hua Ling (华凌)",
+        "Japanese": "Ryota Osaka (逢坂良太)",
+        "Korean": "Yoon Eun-seo (윤은서)"
+    },
+    "profile": {
+        "description": "Bennett là một nhà thám hiểm trẻ tuổi đến từ Mondstadt, nổi tiếng với sự nhiệt huyết và quyết tâm dù luôn gặp xui xẻo. Anh luôn mơ ước về những chuyến phiêu lưu và trở thành một người hùng thực thụ.",
+        "personality": "Bennett có tính cách lạc quan và dũng cảm, luôn sẵn sàng đối mặt với mọi thử thách bất chấp sự xui xẻo không ngừng bám đuổi.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Strike of Fortune",
+                "description": "Thực hiện một chuỗi đòn tấn công bằng kiếm, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Passion Overload",
+                "description": "Bennett dồn sức mạnh vào thanh kiếm, gây sát thương Pyro và có thể tự gây thương tổn cho chính mình nếu tích tụ quá lâu."
+            },
+            "elementalBurst": {
+                "name": "Fantastic Voyage",
+                "description": "Bennett tạo ra một vòng lửa quanh mình, hồi máu cho đồng đội và tăng sát thương khi đứng trong vòng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Rekindle",
+                    "description": "Giảm thời gian hồi chiêu của Fantastic Voyage."
+                },
+                {
+                    "name": "Fearnaught",
+                    "description": "Khi đứng trong vòng của Fantastic Voyage, Bennett không thể bị đánh bay hoặc làm gián đoạn."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Grand Expectation",
+            "c2": "Impasse Conqueror",
+            "c3": "Unstoppable Fervor",
+            "c4": "Unexpected Odyssey",
+            "c5": "True Explorer",
+            "c6": "Fire Ventures with Me"
+        }
+    }
+}

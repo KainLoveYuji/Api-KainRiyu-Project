@@ -1,0 +1,62 @@
+{
+    "name": "Venti",
+    "title": "Thần Gió Tự Do",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Anemo",
+    "modelType": "Nam Trung",
+    "birthday": "Ngày 16 tháng 6",
+    "constellation": "Carmen Dei",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Mondstadt"
+    ],
+    "specialDish": "A Buoyant Breeze",
+    "namecard": "Venti: Azure Sky",
+    "howToObtain": "Sự kiện Wish — Ballad in Goblets",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Erika Harlacher",
+        "Chinese": "Miao Jiang (姜广涛)",
+        "Japanese": "Ayumu Murase (村瀬歩)",
+        "Korean": "Min Seong-woo (민승우)"
+    },
+    "profile": {
+        "description": "Venti là Thần Gió của Mondstadt, biểu tượng của tự do và nghệ thuật. Với ngoại hình trẻ trung và tinh thần vui tươi, anh luôn mang đến những giai điệu bay bổng và tự do.",
+        "personality": "Venti là một người vui vẻ, tinh nghịch và đôi khi rất tinh tế. Dù mang vẻ ngoài bình dị nhưng thực chất anh là Thần Gió Barbatos, một trong Bảy Thần mạnh nhất.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Divine Marksmanship",
+                "description": "Thực hiện các đòn tấn công bằng cung, gây sát thương Anemo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Skyward Sonnet",
+                "description": "Gây sát thương Anemo và tạo ra một cơn gió mạnh đẩy lùi kẻ thù và đưa Venti lên không trung."
+            },
+            "elementalBurst": {
+                "name": "Wind's Grand Ode",
+                "description": "Triệu hồi một cơn bão Anemo khổng lồ hút tất cả kẻ thù vào và gây sát thương liên tục."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Embrace of Winds",
+                    "description": "Kéo dài thời gian hiệu lực của Skyward Sonnet khi giữ kỹ năng."
+                },
+                {
+                    "name": "Stormeye",
+                    "description": "Hồi lại một phần năng lượng cho Venti khi Wind's Grand Ode kết thúc."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Splitting Gales",
+            "c2": "Breeze of Reminiscence",
+            "c3": "Ode to Thousand Winds",
+            "c4": "Hurricane of Freedom",
+            "c5": "Concerto dal Cielo",
+            "c6": "Storm of Defiance"
+        }
+    }
+}

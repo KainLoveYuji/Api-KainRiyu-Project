@@ -1,0 +1,62 @@
+{
+    "name": "Alhaitham",
+    "title": "Nhà Nghiên Cứu Cấp Cao",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Dendro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 22 tháng 9",
+    "constellation": "Sumeru’s Sage",
+    "region": "Sumeru",
+    "affiliations": [
+        "Sumeru Akademiya"
+    ],
+    "specialDish": "Sumeru’s Specialty",
+    "namecard": "Alhaitham: Sage’s Vision",
+    "howToObtain": "Sự kiện Wish — Wisdom of the Ages",
+    "releaseDate": "Ngày 6 tháng 1, 2023",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Abby Trott",
+        "Chinese": "Jia Yi (贾一)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Kim Min-jun (김민준)"
+    },
+    "profile": {
+        "description": "Alhaitham là một học giả hàng đầu tại Akademiya của Sumeru, nổi tiếng với kiến thức sâu rộng về các lĩnh vực khác nhau, đặc biệt là trong nghiên cứu về Dendro.",
+        "personality": "Alhaitham là người nghiêm túc và thông minh, luôn coi trọng kiến thức và nghiên cứu. Anh có phần lạnh lùng nhưng rất tận tâm với công việc của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Irrigation Sword",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Dendro cho kẻ địch."
+            },
+            "elementalSkill": {
+                "name": "Dendro Knowledge",
+                "description": "Triệu hồi một cấu trúc Dendro để gây sát thương và hỗ trợ đồng đội trong trận chiến."
+            },
+            "elementalBurst": {
+                "name": "Sumeru’s Legacy",
+                "description": "Gây sát thương Dendro diện rộng và tạo ra một vùng ảnh hưởng Dendro giúp tăng cường hiệu quả các kỹ năng khác."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Increased Insight",
+                    "description": "Tăng sức mạnh của Dendro Knowledge và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Sage’s Wisdom",
+                    "description": "Tăng sát thương của Sumeru’s Legacy và cải thiện các hiệu ứng Dendro trong khu vực kỹ năng."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Enlightened Scholar",
+            "c2": "Ancient Wisdom",
+            "c3": "Sumeru’s Insight",
+            "c4": "Knowledge’s Embrace",
+            "c5": "Legacy of the Dendro",
+            "c6": "Divine Understanding"
+        }
+    }
+}

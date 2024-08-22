@@ -1,0 +1,62 @@
+{
+    "name": "Hu Tao",
+    "title": "Lãnh Chúa Tuyết Ngọc",
+    "quality": "5 Sao",
+    "weapon": "Polearm",
+    "element": "Pyro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 15 tháng 2",
+    "constellation": "Papilio Charontis",
+    "region": "Liyue",
+    "affiliations": [
+        "Wangsheng Funeral Parlor"
+    ],
+    "specialDish": "Liuyun’s Glee",
+    "namecard": "Hu Tao: Papilio Charontis",
+    "howToObtain": "Sự kiện Wish — Moment of Bloom",
+    "releaseDate": "Ngày 02 tháng 3, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Nariyuki Tani",
+        "Chinese": "Kikyo (姬琼)",
+        "Japanese": "Aoi Yūki (悠木碧)",
+        "Korean": "Kim So-yeon (김소연)"
+    },
+    "profile": {
+        "description": "Hu Tao là trưởng phòng của Wangsheng Funeral Parlor ở Liyue, nổi tiếng với tính cách vui vẻ và sự am hiểu về hồn ma. Cô sở hữu sức mạnh Pyro và sử dụng vũ khí polearm trong chiến đấu.",
+        "personality": "Hu Tao là một nhân vật vui vẻ và hơi nghịch ngợm, nhưng cũng rất nghiêm túc trong công việc của mình. Cô luôn cân bằng giữa sự vui tươi và trách nhiệm của mình trong Wangsheng Funeral Parlor.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Secret Spear of Wangsheng",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Guide to Afterlife",
+                "description": "Tạo ra một đám mây hồn ma, gây sát thương Pyro và giảm HP của Hu Tao để tăng sức mạnh của đòn tấn công."
+            },
+            "elementalBurst": {
+                "name": "Spirit Soother",
+                "description": "Gây sát thương Pyro lớn trên diện rộng và tạo ra một đám mây hồn ma giúp hồi phục HP nếu đòn tấn công trúng đích."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Crimson Bouquet",
+                    "description": "Kỹ năng Guide to Afterlife tăng sát thương Pyro khi đánh trúng kẻ thù."
+                },
+                {
+                    "name": "Sanguine Rouge",
+                    "description": "Tăng sức mạnh của Spirit Soother và cung cấp hiệu ứng hồi phục HP khi gây sát thương Pyro."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Crimson Bouquet",
+            "c2": "Floral Incense",
+            "c3": "Crimson Bouquet - Phase 2",
+            "c4": "Crimson Bouquet - Phase 3",
+            "c5": "Crimson Bouquet - Phase 4",
+            "c6": "Crimson Bouquet - Phase 5"
+        }
+    }
+}

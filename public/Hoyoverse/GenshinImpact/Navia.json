@@ -1,0 +1,62 @@
+{
+    "name": "Navia",
+    "title": "Nữ Hầu của Vùng Đất",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Geo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 14 tháng 4",
+    "constellation": "Guardian of the Earth",
+    "region": "Fontaine",
+    "affiliations": [
+        "The Guardian's Guild"
+    ],
+    "specialDish": "Navia’s Feast",
+    "namecard": "Navia: Guardian of the Earth",
+    "howToObtain": "Sự kiện Wish — Guardian's Choice",
+    "releaseDate": "Ngày 15 tháng 8, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Cassandra Lee Morris",
+        "Chinese": "Zhang Zhe (张哲)",
+        "Japanese": "Miyuki Sawashiro (沢城みゆき)",
+        "Korean": "Choi Ji-yoon (최지윤)"
+    },
+    "profile": {
+        "description": "Navia là một nữ hầu cao quý đến từ Sumeru, nổi tiếng với sự vững chãi và khả năng điều khiển nguyên tố Geo. Cô là biểu tượng của sự ổn định và bảo vệ.",
+        "personality": "Navia có tính cách nghiêm túc và đáng tin cậy. Cô là một người bảo vệ tận tâm và luôn sẵn sàng hỗ trợ người khác trong mọi tình huống.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Geo Strike",
+                "description": "Thực hiện các đòn tấn công bằng claymore, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Geo Barrier",
+                "description": "Tạo ra một rào chắn Geo bảo vệ đồng đội và làm chậm kẻ địch trong phạm vi."
+            },
+            "elementalBurst": {
+                "name": "Earthquake",
+                "description": "Gây sát thương Geo lớn và tạo ra một vụ nổ địa chấn làm rung chuyển khu vực xung quanh."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Geo Protection",
+                    "description": "Tăng sức mạnh của Geo Barrier và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Quake's Embrace",
+                    "description": "Tăng sát thương và hiệu quả của Earthquake khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Guardian of the Earth",
+            "c2": "Stone's Embrace",
+            "c3": "Geo Surge",
+            "c4": "Earth's Shield",
+            "c5": "Quake's Wrath",
+            "c6": "Eternal Guardian"
+        }
+    }
+}

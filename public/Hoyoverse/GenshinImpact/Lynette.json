@@ -1,0 +1,62 @@
+{
+    "name": "Lynette",
+    "title": "Người Hành Khúc",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Anemo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 22 tháng 5",
+    "constellation": "Stormsong",
+    "region": "Fontaine",
+    "affiliations": [
+        "Lynette's Vanguard"
+    ],
+    "specialDish": "Lynette’s Specialty",
+    "namecard": "Lynette: Stormsong",
+    "howToObtain": "Sự kiện Wish — Echoes of the Wind",
+    "releaseDate": "Ngày 12 tháng 6, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Kira Buckland",
+        "Chinese": "Liu Zihong (刘子宏)",
+        "Japanese": "Maaya Sakamoto (坂本真綾)",
+        "Korean": "Kim So-eun (김소은)"
+    },
+    "profile": {
+        "description": "Lynette là một cung thủ tài năng đến từ Fontaine, nổi bật với khả năng điều khiển nguyên tố Anemo và những màn biểu diễn ấn tượng. Cô là một biểu tượng của sự nhanh nhẹn và tinh tế trong chiến đấu.",
+        "personality": "Lynette được biết đến với tính cách nhẹ nhàng và trí tuệ sắc sảo. Cô luôn giữ được sự bình tĩnh và có khả năng phân tích tình hình nhanh chóng.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Stormshot",
+                "description": "Sử dụng cung tên để tấn công từ xa, gây sát thương Anemo cho kẻ địch."
+            },
+            "elementalSkill": {
+                "name": "Windcall",
+                "description": "Triệu hồi một cơn gió mạnh để tấn công kẻ địch gần đó và tạo ra hiệu ứng Anemo."
+            },
+            "elementalBurst": {
+                "name": "Gale Symphony",
+                "description": "Bắn ra một loạt mũi tên gió mạnh mẽ, gây sát thương Anemo lớn trong phạm vi rộng và tạo ra một cơn bão gió."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Aerial Precision",
+                    "description": "Tăng sát thương của Windcall và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Gale's Embrace",
+                    "description": "Tăng sức mạnh của Gale Symphony và mở rộng phạm vi ảnh hưởng của nó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Stormsong",
+            "c2": "Wind's Whisper",
+            "c3": "Gale Burst",
+            "c4": "Tempest Dance",
+            "c5": "Storm's Embrace",
+            "c6": "Windswept Sovereign"
+        }
+    }
+}

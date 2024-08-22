@@ -1,0 +1,62 @@
+{
+    "name": "Neuvillette",
+    "title": "Đại Diện Nước Fontaine",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Hydro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 23 tháng 4",
+    "constellation": "Guardian of the Abyss",
+    "region": "Fontaine",
+    "affiliations": [
+        "Fontaine Marine Corps"
+    ],
+    "specialDish": "Neuvillette’s Specialty",
+    "namecard": "Neuvillette: Guardian of the Abyss",
+    "howToObtain": "Sự kiện Wish — Tides of Fate",
+    "releaseDate": "Ngày 15 tháng 6, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "David Lodge",
+        "Chinese": "Chen Xian (陈宪)",
+        "Japanese": "Kenjiro Tsuda (津田健次郎)",
+        "Korean": "Kim Yong-woo (김용우)"
+    },
+    "profile": {
+        "description": "Neuvillette là một chiến binh xuất sắc của Fontaine, nổi bật với khả năng điều khiển nguyên tố Hydro và kỹ năng chiến đấu bằng claymore. Anh là biểu tượng của sự mạnh mẽ và uy nghi trong quân đội Fontaine.",
+        "personality": "Neuvillette được biết đến với tính cách nghiêm khắc và sự quyết đoán. Anh có khả năng lãnh đạo tốt và luôn sẵn sàng chiến đấu vì sự an nguy của Fontaine.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Abyssal Slash",
+                "description": "Sử dụng claymore để thực hiện các đòn tấn công mạnh mẽ, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Hydro Surge",
+                "description": "Triệu hồi một cột nước mạnh mẽ để tấn công kẻ địch gần đó và tạo ra hiệu ứng Hydro."
+            },
+            "elementalBurst": {
+                "name": "Abyssal Deluge",
+                "description": "Gây sát thương Hydro lớn trong phạm vi rộng và tạo ra một cơn sóng lớn gây hiệu ứng Hydro."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Tide’s Embrace",
+                    "description": "Tăng sát thương của Hydro Surge và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Deluge’s Favor",
+                    "description": "Tăng sức mạnh của Abyssal Deluge và mở rộng phạm vi ảnh hưởng của nó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Guardian of the Abyss",
+            "c2": "Tidecaller’s Blessing",
+            "c3": "Abyssal Fury",
+            "c4": "Ocean’s Embrace",
+            "c5": "Deluge’s Might",
+            "c6": "Wave’s Sovereignty"
+        }
+    }
+}

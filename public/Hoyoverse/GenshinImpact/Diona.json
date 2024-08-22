@@ -1,0 +1,62 @@
+{
+    "name": "Diona",
+    "title": "Kỹ Sư Bia Đá",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 18 tháng 1",
+    "constellation": "Cicins",
+    "region": "Mondstadt",
+    "affiliations": [
+        "The Cat's Tail"
+    ],
+    "specialDish": "Diona’s Specialty",
+    "namecard": "Diona: The Cat's Tail",
+    "howToObtain": "Sự kiện Wish — Farewell of Snezhnaya",
+    "releaseDate": "Ngày 23 tháng 12, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Không rõ",
+    "voiceActors": {
+        "English": "Brittany Cox",
+        "Chinese": "Yiran (依然)",
+        "Japanese": "Miku Nakashima (中島美久)",
+        "Korean": "Kim Ji-woo (김지우)"
+    },
+    "profile": {
+        "description": "Diona là một cô gái yêu thích đồ uống và làm việc tại The Cat's Tail, quán bar nổi tiếng ở Mondstadt. Cô có khả năng điều khiển Cryo và là một người có tính cách cứng rắn và mạnh mẽ.",
+        "personality": "Diona có tính cách quyết đoán và thường giữ khoảng cách với người khác. Cô rất chăm chỉ và có phần tự phụ, nhưng thực tế là cô rất quan tâm đến bạn bè và công việc của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Kätzlein Style",
+                "description": "Sử dụng cung để thực hiện các đòn tấn công liên tiếp và gây sát thương Cryo."
+            },
+            "elementalSkill": {
+                "name": "Icy Paws",
+                "description": "Tạo ra một vùng Cryo bao quanh, gây sát thương Cryo cho kẻ thù và làm giảm sát thương mà đồng minh nhận được từ đối thủ."
+            },
+            "elementalBurst": {
+                "name": "Signature Mix",
+                "description": "Ném một bình rượu Cryo, tạo ra một vùng đông lạnh làm giảm tốc độ di chuyển của kẻ thù và hồi phục sức khỏe cho đồng minh."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Righteous Proof",
+                    "description": "Giảm thời gian hồi chiêu của Icy Paws và tăng sát thương Cryo của Signature Mix."
+                },
+                {
+                    "name": "Cat’s Tail Secret Menu",
+                    "description": "Tăng khả năng phục hồi và sát thương Cryo của Signature Mix."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frosty Paws",
+            "c2": "Cat's Tail Secret",
+            "c3": "Winter's End",
+            "c4": "Everlasting Freeze",
+            "c5": "Crystalize",
+            "c6": "One True Cat"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Fischl",
+    "title": "Prinzessin der Verurteilung",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Electro",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 27 tháng 5",
+    "constellation": "Corvus",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Adventurers' Guild"
+    ],
+    "specialDish": "Die Heilige Sinfonie",
+    "namecard": "Fischl: Stella Fortuna",
+    "howToObtain": "Sự kiện Wish — Wanderlust Invocation",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Không rõ",
+    "voiceActors": {
+        "English": "Brittany Cox",
+        "Chinese": "Mao Mao (Mao) (猫猫)",
+        "Japanese": "Maaya Uchida (内田真礼)",
+        "Korean": "Kim Hae-seong (김해성)"
+    },
+    "profile": {
+        "description": "Fischl, hay còn gọi là Prinzessin der Verurteilung, là một thành viên của Hội Mạo Hiểm Mondstadt. Cô thường xuất hiện cùng với Oz, một chú quạ đen ma thuật, và có tài năng đặc biệt trong việc sử dụng sức mạnh Electro.",
+        "personality": "Fischl có tính cách kỳ lạ và thường xuyên tự nhận mình là công chúa của một vương quốc huyền bí. Tuy nhiên, cô là một nhà thám hiểm tận tụy và không ngừng cố gắng để chứng minh năng lực của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Bolts of Downfall",
+                "description": "Thực hiện các đòn tấn công bằng cung, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Nightrider",
+                "description": "Triệu hồi Oz, chú quạ đen ma thuật, để tấn công kẻ thù bằng sấm sét và gây sát thương Electro."
+            },
+            "elementalBurst": {
+                "name": "Midnight Phantasmagoria",
+                "description": "Fischl hợp nhất với Oz, biến thành một tia sét và di chuyển với tốc độ cao, gây sát thương cho tất cả kẻ thù trên đường đi."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Stellar Predator",
+                    "description": "Khi sử dụng Nightrider trong lúc Oz đang hiện diện, Oz sẽ gây thêm sát thương."
+                },
+                {
+                    "name": "Undone Be Thy Sinful Hex",
+                    "description": "Tăng sát thương của Midnight Phantasmagoria và kéo dài thời gian hiện diện của Oz."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Gaze of the Deep",
+            "c2": "Devourer of All Sins",
+            "c3": "Wings of Nightmare",
+            "c4": "Her Pilgrimage of Bleak",
+            "c5": "Against the Fleeing Light",
+            "c6": "Evernight Raven"
+        }
+    }
+}

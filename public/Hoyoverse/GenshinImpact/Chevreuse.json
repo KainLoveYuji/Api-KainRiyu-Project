@@ -1,0 +1,62 @@
+{
+    "name": "Chevreusa",
+    "title": "Người Thực Thi Công Lý",
+    "quality": "4 Sao",
+    "weapon": "Polearm",
+    "element": "Pyro",
+    "modelType": "Nữ Thiếu Niên",
+    "birthday": "Ngày 10 tháng 01",
+    "constellation": "Sclopetum Ensiferum",
+    "region": "Fontaine",
+    "affiliations": [
+        "Special Security and Surveillance Patrol"
+    ],
+    "specialDish": "Sin: The Kind that Doesn't Need to be Dealt With",
+    "namecard": "Chevreuse: Type II",
+    "howToObtain": "Wishes",
+    "releaseDate": "Ngày 09 tháng 01, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Erica Lindbeck",
+        "Chinese": "Pan Danni (潘丹妮)",
+        "Japanese": "Shimoji Shino (下地紫野)",
+        "Korean": "Chae Min-ji (채민지)"
+    },
+    "profile": {
+        "description": "Chevreuse là Đội trưởng hiện tại của Đội Tuần Tra Đặc Biệt và là khách quen của Xưởng Beaumont; cô thường đặt rèn súng hỏa mai bằng những nguyên liệu đắt tiền.",
+        "personality": "Chevreusa có tính cách sắc sảo và quyết đoán. Cô luôn thể hiện sự tự tin và là người bảo vệ mạnh mẽ của sự công lý và trí tuệ.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Lưỡi Lê Cải Tiến",
+                "description": "Tấn Công Thường - Thực hiện tối đa 4 lần đánh liên tiếp. Trọng Kích - Tiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi. Tấn Công Khi Đáp - Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+            },
+            "elementalSkill": {
+                "name": "Đánh Chặn Nhanh Tầm Gần",
+                "description": "Chevreuse giơ cao súng hỏa mai để bắn kẻ địch, gây Sát Thương Phạm Vi Nguyên Tố Hỏa. Trong một khoảng thời gian sau khi Chevreuse bắn sẽ liên tục hồi phục HP cho nhân vật trong trận hiện tại, lượng hồi phục căn cứ vào giới hạn HP của Chevreuse. Khi Nhấn Giữ sẽ thi triển theo cách thức khác."
+            },
+            "elementalBurst": {
+                "name": "Bom Chùm Oanh Tạc",
+                "description": "Chevreuse dùng súng hỏa mai bắn Bom Đạn Chùm vào kẻ địch, gây Sát Thương Phạm Vi Nguyên Tố Hỏa. Bom Đạn Chùm khi trúng sẽ phân tách thành nhiều quả Bom Nổ Kép. Bom Nổ Kép sẽ phát nổ sau một thời gian ngắn, gây Sát Thương Nguyên Tố Hỏa cho kẻ địch gần đó."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Chiến Thuật Phối Hợp Tiên Phong",
+                    "description": "Khi loại nguyên tố của tất cả nhân vật trong đội là Hỏa hoặc Lôi, đồng thời có ít nhất một nhân vật nguyên tố Hỏa và một nguyên tố Lôi trong đó: Chevreuse sẽ cung cấp hiệu quả Chiến Thuật Phối Hợp cho nhân vật trong đội gần đó: Sau khi nhân vật kích hoạt phản ứng Quá Tải, sẽ khiến kẻ địch chịu ảnh hưởng bởi lần phản ứng này giảm Kháng Nguyên Tố Hỏa và Lôi đi 40% trong 6s. Khi loại nguyên tố của nhân vật trong đội hiện tại không phù hợp với điều kiện thiên phú vốn có, sẽ xóa đi hiệu quả Chiến Thuật Phối Hợp đã có."
+                },
+                {
+                    "name": "Phối Hợp Vũ Lực Xuyên Thấu",
+                    "description": "Chevreuse sau khi bắn Đầu Đạn Quá Tải của kỹ năng Đánh Chặn Nhanh Tầm Gần, sẽ khiến tất cả nhân vật nguyên tố Hỏa và Lôi trong đội gần đó tăng 1% tấn công mỗi 1000 điểm giới hạn HP của Chevreuse trong 30s. Tối đa có thể tăng 40% tấn công bằng cách này."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Sách Lược Ổn Định Trận Hình",
+            "c2": "Phương Pháp Đánh Úp Dẫn Nổ",
+            "c3": "Kỹ Thuật Nạp Đạn Thuần Thục",
+            "c4": "Bí Quyết Bắn Nhanh Nhiều Lần",
+            "c5": "Tăng Cường Hỏa Lực Đạn Dược",
+            "c6": "Truy Nã Tội Ác Cùng Cực"
+        }
+    }
+}

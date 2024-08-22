@@ -1,0 +1,62 @@
+{
+    "name": "Klee",
+    "title": "Spark Knight",
+    "quality": "5 Sao",
+    "weapon": "Catalyst",
+    "element": "Pyro",
+    "modelType": "Nữ Lùn",
+    "birthday": "Ngày 27 tháng 7",
+    "constellation": "Trifolium",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Fish-Flavored Toast",
+    "namecard": "Klee: Explosive Spark",
+    "howToObtain": "Sự kiện Wish — Sparkling Steps",
+    "releaseDate": "Ngày 20 tháng 10, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Poonam Basu",
+        "Chinese": "Hanae Natsuki (花江夏樹)",
+        "Japanese": "Misaki Kuno (久野美咲)",
+        "Korean": "Yoon Eun-seo (윤은서)"
+    },
+    "profile": {
+        "description": "Klee là một hiệp sĩ nhỏ tuổi thuộc Đội Kỵ Sĩ Tây Phong. Cô là một thiên tài về chất nổ, luôn mang theo mình những quả bom nhỏ và thích tạo ra những vụ nổ lớn. Sự tinh nghịch và sức mạnh của Klee đã trở thành biểu tượng trong thành Mondstadt.",
+        "personality": "Klee là một cô bé tinh nghịch, hiếu động và luôn tò mò về mọi thứ xung quanh. Cô yêu thích việc khám phá và chơi đùa, nhưng đôi khi điều đó dẫn đến những rắc rối lớn.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Kaboom!",
+                "description": "Klee tung ra những vụ nổ nhỏ từ các quả bom, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Jumpy Dumpty",
+                "description": "Klee ném một quả bom nhảy tạo ra nhiều vụ nổ khi chạm đất, gây sát thương Pyro diện rộng."
+            },
+            "elementalBurst": {
+                "name": "Sparks 'n' Splash",
+                "description": "Gây ra một loạt vụ nổ lớn xung quanh Klee, gây sát thương Pyro cho tất cả kẻ thù gần đó."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Pounding Surprise",
+                    "description": "Tăng xác suất gây thêm vụ nổ khi tấn công bằng Jumpy Dumpty."
+                },
+                {
+                    "name": "Sparkling Burst",
+                    "description": "Khi Klee gây một đòn chí mạng, hồi một phần năng lượng nguyên tố."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Chained Reactions",
+            "c2": "Explosive Frags",
+            "c3": "Exquisite Compound",
+            "c4": "Sparkly Explosion",
+            "c5": "Nova Burst",
+            "c6": "Blazing Delight"
+        }
+    }
+}

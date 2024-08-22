@@ -1,0 +1,62 @@
+{
+    "name": "Ningguang",
+    "title": "The Tianquan",
+    "quality": "4 Sao",
+    "weapon": "Catalyst",
+    "element": "Geo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 26 tháng 8",
+    "constellation": "Tianquan",
+    "region": "Liyue",
+    "affiliations": [
+        "Liyue Qixing"
+    ],
+    "specialDish": "Ningguang’s Specialty",
+    "namecard": "Ningguang: The Tianquan",
+    "howToObtain": "Sự kiện Wish — Invitation to Mundane Life",
+    "releaseDate": "Ngày 23 tháng 3, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue Qixing",
+    "voiceActors": {
+        "English": "Samantha Lee",
+        "Chinese": "Yao Shun (姚淳)",
+        "Japanese": "Yui Horie (堀江由衣)",
+        "Korean": "Kim Hye-seo (김혜서)"
+    },
+    "profile": {
+        "description": "Ningguang là Tianquan của Liyue Qixing và nổi tiếng với trí tuệ và sự tinh thông về tài chính. Cô là một người lãnh đạo mạnh mẽ và đầy quyền lực trong Liyue.",
+        "personality": "Ningguang được biết đến với tính cách thông minh, quyết đoán và có phần nghiêm khắc. Cô là người yêu thích sự hoàn hảo và luôn đặt lợi ích của Liyue lên hàng đầu.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Crystallize",
+                "description": "Tấn công kẻ thù bằng các đòn đánh từ catalyst, gây sát thương Geo."
+            },
+            "elementalSkill": {
+                "name": "Jade Screen",
+                "description": "Triệu hồi một tấm màn bảo vệ làm bằng đá quý, gây sát thương Geo cho kẻ thù và bảo vệ đồng đội khỏi sát thương."
+            },
+            "elementalBurst": {
+                "name": "Starshatter",
+                "description": "Tạo ra một mưa sao băng, gây sát thương Geo lớn cho kẻ thù trong phạm vi rộng và tạo ra một vùng bảo vệ với sát thương cao."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Tides of the Sea",
+                    "description": "Khi sử dụng Jade Screen, sẽ tạo ra một hiệu ứng bão bảo vệ giúp giảm sát thương nhận vào và gia tăng sức mạnh của các đòn tấn công."
+                },
+                {
+                    "name": "Rule of Wealth",
+                    "description": "Tăng hiệu quả của Starshatter và giảm thời gian hồi chiêu khi sử dụng kỹ năng Elemental Burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Tianquan",
+            "c2": "Jade Screen",
+            "c3": "Starshatter",
+            "c4": "Rite of Wealth",
+            "c5": "Shining Star",
+            "c6": "Divine Prophecy"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Charlotte",
+    "title": "Nhà Báo Xinh Đẹp",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Cryo",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 15 tháng 4",
+    "constellation": "Frostbound Chronicle",
+    "region": "Fontaine",
+    "affiliations": [
+        "The Steeple"
+    ],
+    "specialDish": "Charlotte’s Specialty",
+    "namecard": "Charlotte: Frostbound Chronicle",
+    "howToObtain": "Sự kiện Wish — The Frozen Journal",
+    "releaseDate": "Ngày 29 tháng 1, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Kira Buckland",
+        "Chinese": "Zhao Wei (赵玮)",
+        "Japanese": "Miku Nakashima (中島美嘉)",
+        "Korean": "Jeong Ha-eun (정하은)"
+    },
+    "profile": {
+        "description": "Charlotte là một nhà báo nổi tiếng từ Fontaine, nổi bật với khả năng điều khiển nguyên tố Cryo và sử dụng cung. Cô là biểu tượng của sự quyết đoán và tài năng báo chí.",
+        "personality": "Charlotte được biết đến với sự thông minh và sắc sảo. Cô luôn tìm kiếm sự thật và không ngại đối mặt với thử thách trong công việc của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Frost Arrow",
+                "description": "Sử dụng cung để thực hiện các đòn tấn công từ xa, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Frostbite Shot",
+                "description": "Bắn một mũi tên Cryo để làm chậm và gây sát thương cho kẻ địch trong phạm vi."
+            },
+            "elementalBurst": {
+                "name": "Snowfall Barrage",
+                "description": "Triệu hồi một trận tuyết lớn gây sát thương Cryo liên tục trong một khu vực rộng lớn."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Frostbound Focus",
+                    "description": "Tăng sát thương của Frostbite Shot và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Snowfall Insight",
+                    "description": "Tăng sức mạnh và hiệu quả của Snowfall Barrage khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frostbound Chronicle",
+            "c2": "Chilling Wind",
+            "c3": "Winter's Echo",
+            "c4": "Blizzard’s Blessing",
+            "c5": "Snowfall's Embrace",
+            "c6": "Eternal Frost"
+        }
+    }
+}

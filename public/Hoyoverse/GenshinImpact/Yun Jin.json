@@ -1,0 +1,62 @@
+{
+    "name": "Yun Jin",
+    "title": "Ngọc Nữ của Liyue",
+    "quality": "4 Sao",
+    "weapon": "Polearm",
+    "element": "Geo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 21 tháng 1",
+    "constellation": "The Rising Moon",
+    "region": "Liyue",
+    "affiliations": [
+        "Theatrical Troupe"
+    ],
+    "specialDish": "Yun Jin’s Specialty",
+    "namecard": "Yun Jin: The Rising Moon",
+    "howToObtain": "Sự kiện Wish — Theatrical Troupe",
+    "releaseDate": "Ngày 14 tháng 1, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Kira Buckland",
+        "Chinese": "Chen Xueling (陈雪玲)",
+        "Japanese": "Aoi Koga (青木香织)",
+        "Korean": "Lim Si-a (임시아)"
+    },
+    "profile": {
+        "description": "Yun Jin là một diễn viên nổi tiếng đến từ Liyue, thuộc Theatrical Troupe. Cô sử dụng khả năng Geo của mình để hỗ trợ và bảo vệ đội hình trong trận chiến.",
+        "personality": "Yun Jin được biết đến với sự chuyên nghiệp và tài năng trong nghệ thuật biểu diễn. Cô rất tận tâm với nghề và có lòng nhân ái sâu sắc.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Theatrical Performance",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Starward Sword",
+                "description": "Triệu hồi một chướng ngại vật Geo để bảo vệ và tăng cường sức mạnh tấn công của đồng đội."
+            },
+            "elementalBurst": {
+                "name": "Cliffbreaker’s Banner",
+                "description": "Tạo ra một rào chắn Geo lớn, giảm sát thương từ kẻ thù và tăng cường khả năng tấn công của đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Famous Melody",
+                    "description": "Tăng sát thương của Starward Sword và kéo dài thời gian tác dụng của nó."
+                },
+                {
+                    "name": "Cliffbreaker’s Reprieve",
+                    "description": "Giảm thời gian hồi chiêu của Cliffbreaker’s Banner khi sử dụng Elemental Burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "The Rising Moon",
+            "c2": "Jubilant Revelry",
+            "c3": "Moonlit Performance",
+            "c4": "Theatrical Encore",
+            "c5": "Splendid Performance",
+            "c6": "Moonlit Triumph"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Tartaglia",
+    "title": "Childe",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Hydro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 20 tháng 7",
+    "constellation": "Childe",
+    "region": "Snezhnaya",
+    "affiliations": [
+        "Fatui"
+    ],
+    "specialDish": "Tartaglia's Specialty",
+    "namecard": "Tartaglia: The Knave",
+    "howToObtain": "Sự kiện Wish — Farewell of Snezhnaya",
+    "releaseDate": "Ngày 11 tháng 11, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Snezhnaya",
+    "voiceActors": {
+        "English": "Keith Silverstein",
+        "Chinese": "Derek (邓乐)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Jung Woo-sung (정우성)"
+    },
+    "profile": {
+        "description": "Tartaglia, còn được biết đến với tên gọi Childe, là một thành viên của Fatui và là một trong những Harbingers của tổ chức này. Anh ta nổi tiếng với phong cách chiến đấu đa dạng và khát khao mạnh mẽ.",
+        "personality": "Tartaglia là một chiến binh vui vẻ và tự mãn, yêu thích việc chiến đấu và khám phá sức mạnh của mình. Anh ta có vẻ ngoài vui vẻ nhưng thường có sự quyết đoán lạnh lùng trong các quyết định.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Foul Legacy: Raging Tide",
+                "description": "Thực hiện các đòn tấn công bằng cung, gây sát thương Hydro cho kẻ thù. Có thể chuyển sang trạng thái chiến đấu cận chiến với các đòn tấn công mạnh mẽ hơn."
+            },
+            "elementalSkill": {
+                "name": "Foul Legacy: Torrent",
+                "description": "Tạo ra một cơn bão nước Hydro xung quanh Tartaglia, gây sát thương Hydro cho kẻ thù gần đó và chuyển sang trạng thái chiến đấu cận chiến."
+            },
+            "elementalBurst": {
+                "name": "Foul Legacy: Inferno",
+                "description": "Tartaglia triệu hồi một nguồn năng lượng Hydro lớn, gây sát thương Hydro trên diện rộng và tạo ra các làn sóng thủy triều có sức mạnh tấn công mạnh mẽ."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Havoc: Annihilation",
+                    "description": "Tăng sát thương và phạm vi tấn công của Foul Legacy: Raging Tide khi Tartaglia ở trạng thái chiến đấu cận chiến."
+                },
+                {
+                    "name": "Tidecaller’s Covenant",
+                    "description": "Giảm thời gian hồi chiêu của Foul Legacy: Torrent và tăng sát thương khi Tartaglia đánh trúng kẻ thù với kỹ năng này."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Foul Legacy: Tide",
+            "c2": "Foul Legacy: Requiem",
+            "c3": "Foul Legacy: Burning Tide",
+            "c4": "Foul Legacy: Aftershock",
+            "c5": "Foul Legacy: Rage",
+            "c6": "Foul Legacy: Vortex"
+        }
+    }
+}

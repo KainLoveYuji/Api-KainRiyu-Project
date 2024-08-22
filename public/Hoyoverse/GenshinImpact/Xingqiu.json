@@ -1,0 +1,62 @@
+{
+    "name": "Xingqiu",
+    "title": "The Rosy and Delicate",
+    "quality": "4 Sao",
+    "weapon": "Sword",
+    "element": "Hydro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 09 tháng 10",
+    "constellation": "Guhua’s Tranquil Star",
+    "region": "Liyue",
+    "affiliations": [
+        "Chongyun's Clan"
+    ],
+    "specialDish": "Xingqiu’s Specialty",
+    "namecard": "Xingqiu: The Rosy and Delicate",
+    "howToObtain": "Sự kiện Wish — Invitation to Mundane Life",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Andrew Morgado",
+        "Chinese": "Huang Yushi (黄钰诗)",
+        "Japanese": "Yoshitsugu Matsuoka (松岡禎丞)",
+        "Korean": "Park Sung-hwan (박성환)"
+    },
+    "profile": {
+        "description": "Xingqiu là một học giả của Guhua Clan và là một chiến binh Hydro tài năng. Anh nổi tiếng với sự thông thái và tài năng trong việc sử dụng kiếm nước.",
+        "personality": "Xingqiu có tính cách điềm đạm và trí thức, với niềm đam mê mạnh mẽ đối với văn học và nghiên cứu. Anh là một chiến binh kiên nhẫn và thông minh, luôn sẵn sàng giúp đỡ người khác.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Guhua Sword: Fatal Rainscreen",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Guhua Sword: Raincutter",
+                "description": "Triệu hồi một lưỡi kiếm nước để tấn công kẻ thù gần đó, tạo ra hiệu ứng Hydro và bảo vệ bản thân khỏi sát thương."
+            },
+            "elementalBurst": {
+                "name": "Guhua Sword: Raincutter",
+                "description": "Triệu hồi một cơn mưa để tấn công kẻ thù trong phạm vi ảnh hưởng và tạo ra hiệu ứng Hydro lớn."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Hydrobarrier",
+                    "description": "Tăng sát thương của Guhua Sword: Raincutter và bảo vệ khỏi một phần sát thương nhận vào."
+                },
+                {
+                    "name": "Rain of the Sword",
+                    "description": "Giảm thời gian hồi chiêu của Guhua Sword: Raincutter khi kỹ năng Elemental Burst được sử dụng."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Guhua’s Tranquil Star",
+            "c2": "Cloudy Rain",
+            "c3": "Serene Clouds",
+            "c4": "Splendid Rain",
+            "c5": "Infinite Rain",
+            "c6": "Rain of the Sword"
+        }
+    }
+}

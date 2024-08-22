@@ -1,0 +1,62 @@
+{
+    "name": "Baizhu",
+    "title": "Ngọc Như Ý",
+    "quality": "5 Sao",
+    "weapon": "Catalyst",
+    "element": "Dendro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 01 tháng 4",
+    "constellation": "The Shining Lotus",
+    "region": "Liyue",
+    "affiliations": [
+        "Bubu Pharmacy"
+    ],
+    "specialDish": "Baizhu’s Specialty",
+    "namecard": "Baizhu: The Shining Lotus",
+    "howToObtain": "Sự kiện Wish — The Shining Lotus’s Grace",
+    "releaseDate": "Ngày 25 tháng 8, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Matthew Mercer",
+        "Chinese": "Wang Heng (王亨)",
+        "Japanese": "Junichi Suwabe (諏訪部順一)",
+        "Korean": "Lee Jong-ki (이종기)"
+    },
+    "profile": {
+        "description": "Baizhu là một bác sĩ nổi tiếng tại Liyue, điều hành Bubu Pharmacy và sở hữu khả năng điều khiển nguyên tố Dendro để hỗ trợ và chữa trị. Ông nổi bật với trí tuệ và tài năng y học.",
+        "personality": "Baizhu được biết đến với tính cách nghiêm túc và thông thái. Ông luôn tập trung vào việc giúp đỡ người khác và có phần bí ẩn.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Herbal Strike",
+                "description": "Thực hiện các đòn tấn công bằng catalyst, gây sát thương Dendro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Pharmaceutical Shield",
+                "description": "Triệu hồi một lá chắn thực vật Dendro để bảo vệ đồng đội và tạo hiệu ứng hồi phục."
+            },
+            "elementalBurst": {
+                "name": "Lotus Bloom",
+                "description": "Gây sát thương Dendro lớn trong phạm vi rộng và cung cấp hiệu ứng hồi phục cho đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Herbal Recovery",
+                    "description": "Tăng hiệu quả hồi phục của Pharmaceutical Shield và kéo dài thời gian tác dụng của nó."
+                },
+                {
+                    "name": "Blooming Knowledge",
+                    "description": "Tăng sức mạnh và hiệu quả của Lotus Bloom khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "The Shining Lotus",
+            "c2": "Bountiful Herbs",
+            "c3": "Eternal Remedy",
+            "c4": "Herbal Harmony",
+            "c5": "Lotus Grace",
+            "c6": "Celestial Cure"
+        }
+    }
+}

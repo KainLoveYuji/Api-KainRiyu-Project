@@ -1,0 +1,62 @@
+{
+    "name": "Yao Yao",
+    "title": "Nhân vật Bí Ẩn",
+    "quality": "4 Sao",
+    "weapon": "Catalyst",
+    "element": "Dendro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 15 tháng 10",
+    "constellation": "The Eternal Flower",
+    "region": "Liyue",
+    "affiliations": [
+        "The Adepti"
+    ],
+    "specialDish": "Yao Yao’s Specialty",
+    "namecard": "Yao Yao: The Eternal Flower",
+    "howToObtain": "Sự kiện Wish — The Eternal Flower’s Embrace",
+    "releaseDate": "Ngày 02 tháng 12, 2023",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Anna Cummer",
+        "Chinese": "Zhu Li (朱丽)",
+        "Japanese": "Kana Hanazawa (花澤香菜)",
+        "Korean": "Kim Hyun-joo (김현주)"
+    },
+    "profile": {
+        "description": "Yao Yao là một Adeptus từ Liyue, nổi bật với khả năng điều khiển nguyên tố Dendro để hỗ trợ và chữa trị. Cô là một hình mẫu của sự nhẹ nhàng và trí tuệ.",
+        "personality": "Yao Yao được biết đến với tính cách thân thiện và thông thái. Cô luôn giúp đỡ người khác và thể hiện sự ân cần trong mọi hành động.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Floral Strike",
+                "description": "Thực hiện các đòn tấn công bằng catalyst, gây sát thương Dendro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Verdant Embrace",
+                "description": "Triệu hồi một loại thực vật Dendro để hỗ trợ đồng đội và tạo hiệu ứng hồi phục."
+            },
+            "elementalBurst": {
+                "name": "Eternal Bloom",
+                "description": "Gây sát thương Dendro lớn trong phạm vi rộng và cung cấp hiệu ứng hồi phục liên tục cho đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Floral Restoration",
+                    "description": "Tăng hiệu quả hồi phục của Verdant Embrace và kéo dài thời gian tác dụng của nó."
+                },
+                {
+                    "name": "Eternal Affection",
+                    "description": "Tăng sức mạnh và hiệu quả của Eternal Bloom khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "The Eternal Flower",
+            "c2": "Blossom of Healing",
+            "c3": "Verdant Insight",
+            "c4": "Eternal Growth",
+            "c5": "Floral Grace",
+            "c6": "Eternal Harmony"
+        }
+    }
+}

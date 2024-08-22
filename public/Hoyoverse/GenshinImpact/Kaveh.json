@@ -1,0 +1,62 @@
+{
+    "name": "Kaveh",
+    "title": "Ngôi Sao Sáng",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Dendro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 17 tháng 5",
+    "constellation": "Starlit Architect",
+    "region": "Sumeru",
+    "affiliations": [
+        "Sumeru Scholars"
+    ],
+    "specialDish": "Kaveh’s Special Dish",
+    "namecard": "Kaveh: Starlit Architect",
+    "howToObtain": "Sự kiện Wish — Light of the Stars",
+    "releaseDate": "Ngày 08 tháng 6, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sumeru",
+    "voiceActors": {
+        "English": "Matthew Mercer",
+        "Chinese": "Wang Wei (王伟)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Lee Seung-jae (이승재)"
+    },
+    "profile": {
+        "description": "Kaveh là một kiến trúc sư vĩ đại ở Sumeru, nổi bật với tài năng thiết kế xuất sắc và khả năng sử dụng nguyên tố Dendro. Anh là một người có tâm hồn nhạy cảm và sự sáng tạo không ngừng.",
+        "personality": "Kaveh được biết đến với tính cách sáng tạo và yêu thích nghệ thuật. Anh luôn tìm kiếm cái đẹp trong mọi thứ và có phần cầu toàn trong công việc.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Architect's Edge",
+                "description": "Thực hiện các đòn tấn công bằng đại kiếm, gây sát thương Dendro cho kẻ địch."
+            },
+            "elementalSkill": {
+                "name": "Verdant Shield",
+                "description": "Triệu hồi một lớp chắn Dendro để bảo vệ bản thân và đồng đội, đồng thời gây sát thương Dendro cho kẻ thù gần đó."
+            },
+            "elementalBurst": {
+                "name": "Celestial Design",
+                "description": "Tạo ra một cấu trúc Dendro khổng lồ gây sát thương diện rộng và tăng cường sức mạnh của các đòn tấn công bằng Dendro."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Architect's Precision",
+                    "description": "Tăng sát thương của Verdant Shield và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Designer's Touch",
+                    "description": "Tăng sức mạnh của Celestial Design và mở rộng phạm vi ảnh hưởng của nó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Starlit Architect",
+            "c2": "Luminous Blueprint",
+            "c3": "Eternal Inspiration",
+            "c4": "Radiant Construction",
+            "c5": "Architect's Vision",
+            "c6": "Celestial Perfection"
+        }
+    }
+}

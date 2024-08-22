@@ -1,0 +1,62 @@
+{
+    "name": "Himeko",
+    "title": "The Crimson Queen",
+    "quality": "5 Star",
+    "weapon": "Greatsword",
+    "element": "Fire",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 16 tháng 11",
+    "constellation": "Crimson Queen",
+    "region": "Astral Express",
+    "affiliations": [
+        "Astral Express"
+    ],
+    "specialDish": "Himeko’s Specialty",
+    "namecard": "Himeko: The Crimson Queen",
+    "howToObtain": "Sự kiện Wish — To the Ends of the Earth",
+    "releaseDate": "Ngày 17 tháng 5, 2023",
+    "geniusInvokationTCG": "Character Card",
+    "ancestry": "Astral Express",
+    "voiceActors": {
+        "English": "Amy K. (Aimee K.)",
+        "Chinese": "Kara (佳佳)",
+        "Japanese": "Mikako Komatsu (小松未可子)",
+        "Korean": "Jung Chae-kyung (정채경)"
+    },
+    "profile": {
+        "description": "Himeko là một nhân vật mạnh mẽ và đáng kính trong Astral Express. Cô là một chỉ huy dũng mãnh với khả năng sử dụng sức mạnh lửa để chiến đấu.",
+        "personality": "Himeko có tính cách kiên định và lãnh đạo. Cô ấy rất nghiêm khắc nhưng cũng rất quan tâm đến đồng đội và những người xung quanh.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Crimson Blade",
+                "description": "Thực hiện các đòn tấn công bằng thanh kiếm lớn, gây sát thương lửa cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Inferno Slash",
+                "description": "Tạo ra một đợt tấn công mạnh mẽ bằng lửa, gây sát thương cao và thiêu đốt kẻ thù."
+            },
+            "elementalBurst": {
+                "name": "Phoenix Rebirth",
+                "description": "Giải phóng sức mạnh lửa trong phạm vi rộng, gây sát thương lớn và tạo hiệu ứng cháy trên kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Infernal Fury",
+                    "description": "Tăng sát thương của Inferno Slash và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Phoenix's Blessing",
+                    "description": "Tăng sức mạnh và hiệu quả của Phoenix Rebirth khi sử dụng kỹ năng nộ."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Crimson Queen",
+            "c2": "Infernal Majesty",
+            "c3": "Blazing Dawn",
+            "c4": "Eternal Flame",
+            "c5": "Phoenix’s Embrace",
+            "c6": "Ascendant Inferno"
+        }
+    }
+}

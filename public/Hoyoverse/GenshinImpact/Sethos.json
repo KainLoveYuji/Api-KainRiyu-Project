@@ -1,0 +1,62 @@
+{
+    "name": "Sethos",
+    "title": "Ngôi Sao Đêm",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Electro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 15 tháng 3",
+    "constellation": "Celestial Starlight",
+    "region": "Sumeru",
+    "affiliations": [
+        "Astral Guardians"
+    ],
+    "specialDish": "Sethos’s Special Dish",
+    "namecard": "Sethos: Celestial Starlight",
+    "howToObtain": "Sự kiện Wish — Night of the Stars",
+    "releaseDate": "Ngày 12 tháng 8, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sumeru",
+    "voiceActors": {
+        "English": "Chris Hackney",
+        "Chinese": "Li Xuan (李轩)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Lee Dong-gun (이동건)"
+    },
+    "profile": {
+        "description": "Sethos là một cung thủ vĩ đại từ Sumeru, nổi bật với khả năng điều khiển nguyên tố Electro và tài bắn cung siêu phàm. Anh là người bảo vệ các vì sao và là biểu tượng của sự vĩ đại trong vùng trời đêm.",
+        "personality": "Sethos được biết đến với tính cách bí ẩn và quyết đoán. Anh luôn giữ một phong thái điềm tĩnh và có phần xa cách, nhưng rất tận tâm với nhiệm vụ bảo vệ vùng trời đêm.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Stellar Shot",
+                "description": "Sử dụng cung tên để tấn công từ xa, gây sát thương Electro cho kẻ địch."
+            },
+            "elementalSkill": {
+                "name": "Starfall Trap",
+                "description": "Triệu hồi một cạm bẫy Electro trên mặt đất, gây sát thương và tạo ra một vụ nổ khi kẻ địch tiếp cận."
+            },
+            "elementalBurst": {
+                "name": "Celestial Barrage",
+                "description": "Bắn ra một loạt mũi tên Electro, gây sát thương lớn trong phạm vi rộng và tạo ra một cơn bão sao."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Astral Precision",
+                    "description": "Tăng sát thương của Starfall Trap và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Starlight Enhancement",
+                    "description": "Tăng sức mạnh của Celestial Barrage và mở rộng phạm vi ảnh hưởng của nó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Celestial Starlight",
+            "c2": "Nebula's Embrace",
+            "c3": "Meteor Shower",
+            "c4": "Astral Eclipse",
+            "c5": "Galactic Flash",
+            "c6": "Eternal Night"
+        }
+    }
+}

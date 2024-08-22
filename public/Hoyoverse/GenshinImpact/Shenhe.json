@@ -1,0 +1,62 @@
+{
+    "name": "Shenhe",
+    "title": "Sương Mù Băng Lãnh",
+    "quality": "5 Sao",
+    "weapon": "Polearm",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 10 tháng 3",
+    "constellation": "The Frosted Verge",
+    "region": "Liyue",
+    "affiliations": [
+        "Liyue Adeptus"
+    ],
+    "specialDish": "Chicken-Mushroom Skewer",
+    "namecard": "Shenhe: Frosted Verge",
+    "howToObtain": "Sự kiện Wish — The Heron's Court",
+    "releaseDate": "Ngày 05 tháng 1, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Shino Shimoji",
+        "Chinese": "Xie Lin (谢霆)",
+        "Japanese": "Sakura Ayane (櫻井亜弥)",
+        "Korean": "Lim Si-a (임시아)"
+    },
+    "profile": {
+        "description": "Shenhe là một Adeptus từ Liyue, nổi tiếng với khả năng điều khiển Cryo và sức mạnh chiến đấu mạnh mẽ. Cô có một mối liên kết sâu sắc với băng giá và sự cô đơn.",
+        "personality": "Shenhe là một người trầm lặng và nghiêm túc, thường tỏ ra xa cách và lạnh lùng. Tuy nhiên, cô có một trái tim nhân hậu và luôn nỗ lực bảo vệ người khác.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Divine Maiden's Deliverance",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Spring Spirit Summoning",
+                "description": "Triệu hồi một tinh linh băng để tấn công kẻ thù gần đó và tạo ra hiệu ứng Cryo. Tinh linh cũng có khả năng giảm sát thương Cryo cho Shenhe."
+            },
+            "elementalBurst": {
+                "name": "Divine Maiden's Deliverance",
+                "description": "Gây sát thương Cryo lớn trong phạm vi rộng và tạo ra một cơn bão băng giá, làm giảm phòng thủ của kẻ thù và tăng cường khả năng tấn công của đồng đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "The Frosted Verge",
+                    "description": "Tăng sát thương Cryo và giảm thời gian hồi chiêu của Spring Spirit Summoning khi Shenhe sử dụng Elemental Burst."
+                },
+                {
+                    "name": "Icicle Vortex",
+                    "description": "Tăng sát thương của Divine Maiden's Deliverance dựa trên số lượng hiệu ứng Cryo trên kẻ thù."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frosted Verge",
+            "c2": "Blazing Snow",
+            "c3": "Winter’s Embrace",
+            "c4": "Frozen Edge",
+            "c5": "Crystal Ice",
+            "c6": "Eternal Frost"
+        }
+    }
+}

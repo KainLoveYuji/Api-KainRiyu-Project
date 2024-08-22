@@ -1,0 +1,62 @@
+{
+    "name": "Mona",
+    "title": "Astrologist Megistus",
+    "quality": "5 Sao",
+    "weapon": "Catalyst",
+    "element": "Hydro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 31 tháng 8",
+    "constellation": "Astrolabos",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Der Weisheit Letzter Schluss",
+    "namecard": "Mona: Astrolabos",
+    "howToObtain": "Sự kiện Wish — Wanderlust Invocation",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Không rõ",
+    "voiceActors": {
+        "English": "Felecia Angelle",
+        "Chinese": "Feng Ting (冯婷)",
+        "Japanese": "Konomi Kohara (小原好美)",
+        "Korean": "Kim Ha-ru (김하루)"
+    },
+    "profile": {
+        "description": "Mona là một nhà chiêm tinh học tài ba nhưng nghèo khó. Cô có tài tiên tri chính xác nhưng lại gặp khó khăn trong việc quản lý tài chính cá nhân. Mona sở hữu trí tuệ sắc bén và niềm đam mê không giới hạn đối với kiến thức.",
+        "personality": "Mona là người tự hào và hơi kiêu ngạo về khả năng của mình, nhưng cô cũng rất chân thành và không bao giờ từ bỏ lòng tìm hiểu sự thật. Tuy nhiên, cuộc sống khó khăn của cô đã làm cho cô trở nên keo kiệt về tài chính.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Ripple of Fate",
+                "description": "Tấn công bằng các đòn Hydro, gây sát thương cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Mirror Reflection of Doom",
+                "description": "Tạo ra một ảo ảnh Hydro để thu hút và gây sát thương liên tục cho kẻ thù."
+            },
+            "elementalBurst": {
+                "name": "Stellaris Phantasm",
+                "description": "Triệu hồi một ngôi sao định mệnh khổng lồ, gây sát thương lớn và áp đặt trạng thái Omen, tăng sát thương nhận phải của kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Come 'n' Get Me, Hag!",
+                    "description": "Tăng tốc độ di chuyển trong trạng thái Illusory Torrent."
+                },
+                {
+                    "name": "Waterborne Destiny",
+                    "description": "Tăng Tinh Thông Nguyên Tố dựa trên lượng Hiệu Quả Nạp Nguyên Tố của Mona."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Prophecy of Submersion",
+            "c2": "Lunar Chain",
+            "c3": "Restless Revolution",
+            "c4": "Prophecy of Oblivion",
+            "c5": "Mockery of Fortuna",
+            "c6": "Rhetorics of Calamitas"
+        }
+    }
+}

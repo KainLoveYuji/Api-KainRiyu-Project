@@ -1,0 +1,62 @@
+{
+    "name": "Mika",
+    "title": "The Last Son of the Sealed Realm",
+    "quality": "4 Sao",
+    "weapon": "Polearm",
+    "element": "Cryo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 17 tháng 3",
+    "constellation": "Star of the Sealed Realm",
+    "region": "Sumeru",
+    "affiliations": [
+        "The Last Realm"
+    ],
+    "specialDish": "Mika’s Specialty",
+    "namecard": "Mika: The Last Son of the Sealed Realm",
+    "howToObtain": "Sự kiện Wish — For the Sealed Realm",
+    "releaseDate": "Ngày 14 tháng 8, 2023",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "The Last Realm",
+    "voiceActors": {
+        "English": "Ryan W. Cormier",
+        "Chinese": "Lin Yusheng (林宇生)",
+        "Japanese": "Yoshimasa Hosoya (細谷佳正)",
+        "Korean": "Kim Yong-woo (김용우)"
+    },
+    "profile": {
+        "description": "Mika là một chiến binh tài năng đến từ The Last Realm, nổi tiếng với sự mạnh mẽ và lòng trung thành. Anh được biết đến với kỹ năng chiến đấu xuất sắc và tinh thần bảo vệ quê hương của mình.",
+        "personality": "Mika là người dũng cảm và quyết đoán, luôn sẵn sàng đối mặt với mọi thử thách để bảo vệ những gì quan trọng với mình. Anh có một tinh thần mạnh mẽ và lòng trung thành cao cả.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Sealed Realm Strike",
+                "description": "Thực hiện các đòn tấn công bằng thương, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Realm's Vengeance",
+                "description": "Gây sát thương Cryo cho kẻ thù xung quanh và tạo ra một vùng hiệu ứng Cryo giúp giảm khả năng tấn công của kẻ thù."
+            },
+            "elementalBurst": {
+                "name": "Frozen Shield",
+                "description": "Tạo ra một lá chắn Cryo bảo vệ Mika và đồng đội khỏi sát thương, đồng thời phản lại một phần sát thương Cryo cho kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Frozen Resolve",
+                    "description": "Tăng cường sức mạnh và hiệu quả của Realm's Vengeance khi Mika sử dụng kỹ năng elemental skill."
+                },
+                {
+                    "name": "Shield of the Realm",
+                    "description": "Khi sử dụng Frozen Shield, lá chắn sẽ tăng cường sức mạnh cho các đòn tấn công của Mika."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Star of the Sealed Realm",
+            "c2": "Eclipse",
+            "c3": "Realm’s Might",
+            "c4": "Shield’s Embrace",
+            "c5": "Frozen Endurance",
+            "c6": "Crown of the Realm"
+        }
+    }
+}

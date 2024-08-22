@@ -1,0 +1,62 @@
+{
+    "name": "Dehya",
+    "title": "Ngọn Lửa Rực Rỡ",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Pyro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 24 tháng 3",
+    "constellation": "Blazing Lion",
+    "region": "Sumeru",
+    "affiliations": [
+        "Mercenaries"
+    ],
+    "specialDish": "Dehya’s Special Dish",
+    "namecard": "Dehya: Blazing Lion",
+    "howToObtain": "Sự kiện Wish — Flames of the Battlefield",
+    "releaseDate": "Ngày 19 tháng 4, 2023",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sumeru",
+    "voiceActors": {
+        "English": "Laura Stahl",
+        "Chinese": "Sisi (希希)",
+        "Japanese": "Rie Kugimiya (釘宮理恵)",
+        "Korean": "Kim So-yeon (김소연)"
+    },
+    "profile": {
+        "description": "Dehya là một lính đánh thuê nổi tiếng ở Sumeru, nổi bật với khả năng chiến đấu mạnh mẽ và sức mạnh lửa bùng cháy. Cô là một biểu tượng của sự nhiệt huyết và quyết tâm.",
+        "personality": "Dehya được biết đến với tính cách mạnh mẽ và kiên cường. Cô có phần bốc đồng nhưng luôn giữ vững tinh thần chiến đấu và sự trung thành.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Blazing Slash",
+                "description": "Thực hiện các đòn tấn công bằng đại kiếm, gây sát thương Pyro cho kẻ địch."
+            },
+            "elementalSkill": {
+                "name": "Flame Shield",
+                "description": "Triệu hồi một lá chắn lửa bảo vệ bản thân và đồng đội, đồng thời gây sát thương Pyro cho kẻ thù gần đó."
+            },
+            "elementalBurst": {
+                "name": "Inferno Strike",
+                "description": "Gây sát thương Pyro diện rộng và tạo ra một cơn bão lửa tấn công kẻ thù trong phạm vi."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Raging Flame",
+                    "description": "Tăng sát thương của Flame Shield và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Inferno’s Might",
+                    "description": "Tăng sức mạnh của Inferno Strike và cải thiện hiệu quả lửa trong khu vực kỹ năng."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Blazing Lion",
+            "c2": "Inferno’s Roar",
+            "c3": "Flame Guardian",
+            "c4": "Ember Burst",
+            "c5": "Phoenix’s Wrath",
+            "c6": "Raging Inferno"
+        }
+    }
+}

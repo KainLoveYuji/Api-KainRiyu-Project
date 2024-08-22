@@ -1,0 +1,62 @@
+{
+    "name": "Tighnari",
+    "title": "Người Bảo Vệ Rừng Tighnari",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Dendro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 29 tháng 8",
+    "constellation": "Guardian of the Forest",
+    "region": "Sumeru",
+    "affiliations": [
+        "Sumeru Academia"
+    ],
+    "specialDish": "Tighnari’s Specialty",
+    "namecard": "Tighnari: Guardian of the Forest",
+    "howToObtain": "Sự kiện Wish — The Forest’s Guardian",
+    "releaseDate": "Ngày 18 tháng 8, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sumeru",
+    "voiceActors": {
+        "English": "Matthew Mercer",
+        "Chinese": "Chen Xing (陈星)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Kim Myung-soo (김명수)"
+    },
+    "profile": {
+        "description": "Tighnari là một nhà nghiên cứu tại Sumeru Academia và là người bảo vệ khu rừng. Ông nổi tiếng với sự hiểu biết sâu rộng về thực vật và khả năng chiến đấu mạnh mẽ.",
+        "personality": "Tighnari là người thông minh và tận tụy với công việc của mình. Ông luôn chú trọng đến việc bảo vệ và duy trì sự cân bằng trong tự nhiên.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Dendro Shot",
+                "description": "Bắn tên bằng cung, gây sát thương Dendro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Verdant Surge",
+                "description": "Triệu hồi một trận mưa tên Dendro, tạo ra một khu vực ảnh hưởng có thể gây sát thương Dendro và làm chậm kẻ thù."
+            },
+            "elementalBurst": {
+                "name": "Forest's Embrace",
+                "description": "Gây sát thương Dendro lớn trong phạm vi rộng và triệu hồi một đám mây bảo vệ giảm sát thương từ kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Verdant Affinity",
+                    "description": "Tăng sát thương của Verdant Surge và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Forest's Blessing",
+                    "description": "Tăng sức mạnh và hiệu quả của Forest's Embrace khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Guardian of the Forest",
+            "c2": "Verdant Harmony",
+            "c3": "Nature’s Echo",
+            "c4": "Sylvan Shield",
+            "c5": "Emerald Strike",
+            "c6": "Verdant Sovereignty"
+        }
+    }
+}

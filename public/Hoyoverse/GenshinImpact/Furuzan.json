@@ -1,0 +1,62 @@
+{
+    "name": "Faruzan",
+    "title": "Nhà Giải Mã Cổ Ngữ",
+    "quality": "4 Sao",
+    "weapon": "Bow",
+    "element": "Anemo",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 20 tháng 8",
+    "constellation": "Enigmas Arcanum",
+    "region": "Sumeru",
+    "affiliations": [
+        "Sumeru Akademiya"
+    ],
+    "specialDish": "Meat Lovers’ Mushroom Pizza",
+    "namecard": "Faruzan: Wisdom’s Flow",
+    "howToObtain": "Sự kiện Wish — Secret Wisdoms",
+    "releaseDate": "Ngày 7 tháng 12, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Cheryl Texiera",
+        "Chinese": "Ji Guanlin (季冠霖)",
+        "Japanese": "Hiromi Igarashi (五十嵐 裕美)",
+        "Korean": "Lee Sae-bom (이새봄)"
+    },
+    "profile": {
+        "description": "Faruzan là một học giả uyên bác của Học Viện Sumeru, nổi tiếng với kiến thức sâu rộng về cơ khí học cổ đại và khả năng giải mã những văn tự bí ẩn.",
+        "personality": "Faruzan có tính cách nhiệt huyết và đầy đam mê nghiên cứu. Cô luôn tự tin vào kiến thức của mình và không ngần ngại thể hiện sự thông minh trước mọi người.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Tactical Shot",
+                "description": "Bắn liên tục các mũi tên, gây sát thương Anemo cho kẻ địch."
+            },
+            "elementalSkill": {
+                "name": "Wind Realm of Nasamjnin",
+                "description": "Triệu hồi một trường gió tạo ra sát thương Anemo và khuếch đại các hiệu ứng nguyên tố khác."
+            },
+            "elementalBurst": {
+                "name": "The Wind’s Secret Ways",
+                "description": "Gây sát thương Anemo diện rộng, giảm sức kháng nguyên tố của kẻ địch trong phạm vi kỹ năng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Impetuous Flow",
+                    "description": "Tăng sức mạnh của Wind Realm of Nasamjnin và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Lost Wisdom of the Seven Caverns",
+                    "description": "Tăng sát thương của The Wind’s Secret Ways khi có phản ứng nguyên tố xảy ra."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Truth’s Resplendence",
+            "c2": "Mystic of the Wild Winds",
+            "c3": "Curious Phenomenon",
+            "c4": "Divine Knowledge",
+            "c5": "Adventurous Expedition",
+            "c6": "Veracity of the Anemoi"
+        }
+    }
+}

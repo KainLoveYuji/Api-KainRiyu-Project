@@ -1,0 +1,62 @@
+{
+    "name": "Keqing",
+    "title": "The Yuheng of the Liyue Qixing",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Electro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 09 tháng 11",
+    "constellation": "Khanri'ah's Star",
+    "region": "Liyue",
+    "affiliations": [
+        "Liyue Qixing"
+    ],
+    "specialDish": "Keqing's Specialty",
+    "namecard": "Keqing: The Yuheng of the Liyue Qixing",
+    "howToObtain": "Sự kiện Wish — Sparkling Steps",
+    "releaseDate": "Ngày 17 tháng 10, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Kira Buckland",
+        "Chinese": "Wang Xin (王新)",
+        "Japanese": "Sakura Ayane (櫻井海音)",
+        "Korean": "Kim Bo-ra (김보라)"
+    },
+    "profile": {
+        "description": "Keqing là một thành viên của Liyue Qixing, nổi tiếng với sự năng động và quyết đoán. Cô giữ vai trò quan trọng trong việc quản lý và phát triển Liyue.",
+        "personality": "Keqing là người thực dụng và cầu toàn, thường xuyên tìm cách cải thiện công việc của mình và điều chỉnh các quy tắc hiện có để phù hợp với thời đại mới.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Normal Attack: Stardust Sword",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Starward Sword",
+                "description": "Gây sát thương Electro và tạo ra một lĩnh vực bão điện để tấn công kẻ thù gần đó."
+            },
+            "elementalBurst": {
+                "name": "Starward Sword: Lightning Stiletto",
+                "description": "Tạo ra một điểm ánh sáng của Electro và dịch chuyển tới đó, gây sát thương Electro cho kẻ thù trong khu vực và tăng sát thương của đòn tấn công."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Thundering Penance",
+                    "description": "Giảm thời gian hồi chiêu của Starward Sword và tăng sát thương cho đòn tấn công kế tiếp."
+                },
+                {
+                    "name": "Breaking the Lightning",
+                    "description": "Tăng sát thương Electro cho Starward Sword và giảm thời gian hồi chiêu khi Keqing đánh trúng kẻ thù với Electro."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Khanri'ah's Star",
+            "c2": "Cloud-strider",
+            "c3": "Dew of Repentance",
+            "c4": "Lightning Stiletto",
+            "c5": "Stars of the Damned",
+            "c6": "Horizon of Stars"
+        }
+    }
+}

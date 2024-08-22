@@ -1,0 +1,62 @@
+{
+    "name": "Kẻ Lang Thang",
+    "title": "Chúa Tể Không Gian",
+    "quality": "5 Sao",
+    "weapon": "Catalyst",
+    "element": "Anemo",
+    "modelType": "Nam Trung",
+    "birthday": "Ngày 3 tháng 1",
+    "constellation": "Peripeteia",
+    "region": "Sumeru",
+    "affiliations": [
+        "Fatui"
+    ],
+    "specialDish": "Shimi Chazuke",
+    "namecard": "Kẻ Lang Thang: Cánh Gió Tự Do",
+    "howToObtain": "Sự kiện Wish — From Ashes Reborn",
+    "releaseDate": "Ngày 7 tháng 12, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Patrick Pedraza",
+        "Chinese": "Hồ Khả (胡歌)",
+        "Japanese": "Ayumu Murase (村瀬 歩)",
+        "Korean": "Kim Min-jong (김민종)"
+    },
+    "profile": {
+        "description": "Kẻ Lang Thang, từng là Scaramouche, là một nhân vật đầy bí ẩn và quyền lực, kẻ được biết đến với lòng kiêu ngạo và sự ám ảnh với quyền lực tối cao. Hắn đã trải qua những biến đổi lớn và giờ đây sở hữu sức mạnh nguyên tố Anemo.",
+        "personality": "Kẻ Lang Thang mang trong mình một tâm hồn cô độc, thường bộc lộ tính cách lạnh lùng và tàn nhẫn. Tuy nhiên, sâu bên trong, hắn là người bị giằng xé giữa tham vọng và sự cô đơn.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Kẻ Lang Thang: Phong Lưu",
+                "description": "Tấn công liên tục bằng quyền lực Anemo, gây sát thương nguyên tố này cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Gió Lưu Động",
+                "description": "Sử dụng sức mạnh Anemo để bay lên không trung và tấn công kẻ thù từ xa bằng các đợt gió mạnh."
+            },
+            "elementalBurst": {
+                "name": "Gió Cuốn Tàn Tạ",
+                "description": "Gây sát thương Anemo diện rộng và tạo ra cơn bão lớn, hút kẻ địch vào trung tâm."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Lơ Lửng Trên Không",
+                    "description": "Tăng thời gian bay và giảm tiêu hao năng lượng khi sử dụng Gió Lưu Động."
+                },
+                {
+                    "name": "Sự Tĩnh Lặng Của Không Gian",
+                    "description": "Tăng sức mạnh của Gió Cuốn Tàn Tạ và kéo dài thời gian hiệu ứng hút kẻ địch."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Hận Thù Tận Cùng",
+            "c2": "Gió Tan Nát",
+            "c3": "Không Gian Vô Tận",
+            "c4": "Bóng Đêm Đổ Nát",
+            "c5": "Cơn Bão Kinh Hoàng",
+            "c6": "Tàn Tạ Cuối Cùng"
+        }
+    }
+}

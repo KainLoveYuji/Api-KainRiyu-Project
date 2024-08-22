@@ -1,0 +1,62 @@
+{
+    "name": "Chiori",
+    "title": "Nhà Thiết Kế Sấm Chớp",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Geo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 17 tháng 8",
+    "constellation": "Ti Thiết Kiệp",
+    "region": "Fontaine",
+    "affiliations": [
+        "Tiệm Thời Trang Chioriya"
+    ],
+    "specialDish": "Fashion Show",
+    "namecard": "Chiori: Spectacular Sleeves",
+    "howToObtain": "Event Wish — Of Silken Clouds Woven",
+    "releaseDate": "Ngày 13 tháng 3, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Brittany Lauda",
+        "Chinese": "Chen Yang (陈阳)",
+        "Japanese": "Taketatsu Ayana (竹達彩奈)",
+        "Korean": "Lee Da-eun (이다은)"
+    },
+    "profile": {
+        "description": "Chiori là một nhà thiết kế nổi tiếng đến từ Inazuma, hiện tại cô đang quản lý Tiệm Thời Trang Chioriya tại Fontaine và là một trong những khách hàng quen thuộc của Công Ty Chuyển Phát Komaniya.",
+        "personality": "Chiori thường nói chuyện một cách thẳng thắn và không bận tâm đến những việc nhỏ nhặt xung quanh. Cô rất quan tâm đến chất lượng vải của mình, không muốn chúng bị hỏng, thậm chí cô đã từng mắng Lyney vì anh ấy làm hỏng trang phục trong lúc biểu diễn.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Đòn đánh thường: Lưỡi dệt",
+                "description": "Đòn tấn công thông thường của cô thực hiện tối đa bốn đòn tấn công nhanh, lưỡi kiếm thứ hai luôn biến mất sau khi cô thực hiện xong. Đòn tấn công tiêu tốn thể lực của Chiori và tung ra hai đòn tấn công nhanh chóng."
+            },
+            "elementalSkill": {
+                "name": "Kỹ năng nguyên tố: Hasode rung chuyển",
+                "description": "Hasode rung chuyển, nhìn chung với một đòn tấn công gây sát thương AoE hữu ích có thể được sử dụng cùng với các nhân vật khác. Bằng cách chạm vào kỹ năng này, Chiori sẽ lao về phía trước và thực hiện một nhát chém hướng lên trên gây sát thương AoE Geo . Nếu người chơi nắm giữ kỹ năng này, họ có thể nhắm lao theo các hướng cụ thể, thậm chí phía trên kẻ thù. Điều này rõ ràng trở nên hữu ích khi kết hợp với hai khả năng bổ sung được cấp cho Chiori khi cô sử dụng Hasode rung chuyển."
+            },
+            "elementalBurst": {
+                "name": "Kỹ năng nộ Hiyoku – Song Đao Thức",
+                "description": "Với kỹ năng nộ của Chiori sẽ có tên gọi là Hiyoku – Song Đao Thức, cô ấy sẽ sử dụng đến 2 thanh kiếm để tấn công. Đòn tấn công này gây sát thương AoE Geo dựa trên chỉ số tấn công và phòng thủ của Chiori. Sát thương có hiệu lực theo vòng tròn xung quanh Chiori, có thể so sánh với kỹ năng nộ của Kazuha , nhưng với thời gian tồn tại nhanh hơn."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Thiên Phú 1",
+                    "description": "Weaving Brocade - Lập tức đổi sang nhân vật kế tiếp trong đội hình. Tạo trạng thái buff cho tất cả nhân vật trong đội: khi nhân vật đứng sân đánh trúng kẻ địch bằng đánh thường, trọng kích, hay tấn công khi đáp thì con rối sẽ thực hiện một đòn tấn công tại vị trí kẻ địch, gây sát thương Nham AOE. Trạng thái này tồn tại 8s, đòn đánh có thể được kích hoạt một lần mỗi 2s, tối đa 2 đòn đánh. Trimming Brocade -Chiori nhận đính kèm nguyên tố Nham trong 5s. Nếu Chiori không nhấn E hay đánh thường trong một thời gian ngắn sau khi kích hoạt E, hiệu ứng Trimming Brocade sẽ được kích hoạt."
+                },
+                {
+                    "name": "Thiên Phú 2",
+                    "description": "Khi nhân vật khác trong đội tạo công trình Nham, Chiori nhận 20% sát thương Nham trong 20 giây."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Sáu Khổ Lụa Là",
+            "c2": "Năm Màu Thuốc Nhuộm",
+            "c3": "Bốn Bộ Trang Sức",
+            "c4": "Ba Phần Cung Kính",
+            "c5": "Hai Tầng Trang Phục",
+            "c6": "Một Lòng Tuân Thủ"
+        }
+    }
+}

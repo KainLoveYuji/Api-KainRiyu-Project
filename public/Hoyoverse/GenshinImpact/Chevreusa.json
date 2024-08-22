@@ -1,0 +1,62 @@
+{
+    "name": "Chevreusa",
+    "title": "Hậu Duyệt của Chân Lý",
+    "quality": "5 Sao",
+    "weapon": "Polearm",
+    "element": "Electro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 12 tháng 11",
+    "constellation": "Eagle of Truth",
+    "region": "Fontaine",
+    "affiliations": [
+        "Chevreuse's House"
+    ],
+    "specialDish": "Chevreusa’s Delight",
+    "namecard": "Chevreusa: Eagle of Truth",
+    "howToObtain": "Sự kiện Wish — Guardian's Choice",
+    "releaseDate": "Ngày 22 tháng 8, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Erica Lindbeck",
+        "Chinese": "Zhao Lu (赵露)",
+        "Japanese": "Aoi Yuuki (悠木碧)",
+        "Korean": "Park Soo-jin (박수진)"
+    },
+    "profile": {
+        "description": "Chevreusa là một thành viên quan trọng của Chevreuse's House ở Fontaine, nổi tiếng với khả năng điều khiển nguyên tố Electro và kỹ năng chiến đấu xuất sắc. Cô là biểu tượng của trí tuệ và sự quyết đoán.",
+        "personality": "Chevreusa có tính cách sắc sảo và quyết đoán. Cô luôn thể hiện sự tự tin và là người bảo vệ mạnh mẽ của sự công lý và trí tuệ.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Electro Lunge",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Thunderbolt Strike",
+                "description": "Tạo ra một cú đánh mạnh bằng điện, gây sát thương Electro lớn và làm choáng kẻ địch gần đó."
+            },
+            "elementalBurst": {
+                "name": "Lightning Justice",
+                "description": "Gây sát thương Electro lớn trong phạm vi rộng và triệu hồi một cơn bão điện tạo ra hiệu ứng dồn nén."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Electro Empowerment",
+                    "description": "Tăng sát thương của Thunderbolt Strike và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Justice's Shield",
+                    "description": "Tăng sức mạnh và hiệu quả của Lightning Justice khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Eagle of Truth",
+            "c2": "Thunder's Grace",
+            "c3": "Storm's Call",
+            "c4": "Electro's Wrath",
+            "c5": "Lightning's Embrace",
+            "c6": "Judgement Day"
+        }
+    }
+}

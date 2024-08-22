@@ -1,0 +1,62 @@
+{
+    "name": "Freminet",
+    "title": "Vị Anh Hùng Nước Biển",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Hydro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 10 tháng 8",
+    "constellation": "Abyssal Tide",
+    "region": "Fontaine",
+    "affiliations": [
+        "Fontaine Marine Corps"
+    ],
+    "specialDish": "Freminet’s Specialty",
+    "namecard": "Freminet: Abyssal Tide",
+    "howToObtain": "Sự kiện Wish — Echoes of the Ocean",
+    "releaseDate": "Ngày 15 tháng 5, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Matthew Mercer",
+        "Chinese": "Li Yang (李扬)",
+        "Japanese": "Hiroshi Kamiya (神谷浩史)",
+        "Korean": "Jang Seung-jae (장승재)"
+    },
+    "profile": {
+        "description": "Freminet là một chiến binh xuất sắc của Fontaine Marine Corps, nổi bật với khả năng điều khiển nguyên tố Hydro và kỹ năng chiến đấu bằng claymore. Anh là biểu tượng của sự mạnh mẽ và sự khéo léo trong chiến đấu dưới nước.",
+        "personality": "Freminet được biết đến với tính cách nghiêm túc và sự quyết đoán. Anh có khả năng phân tích tình hình chiến đấu một cách nhanh chóng và hiệu quả.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Tidal Strike",
+                "description": "Sử dụng claymore để thực hiện các đòn tấn công mạnh mẽ, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Ocean’s Grasp",
+                "description": "Triệu hồi một cột nước mạnh mẽ để tấn công kẻ địch gần đó và tạo ra hiệu ứng Hydro."
+            },
+            "elementalBurst": {
+                "name": "Abyssal Surge",
+                "description": "Gây sát thương Hydro lớn trong phạm vi rộng và tạo ra một cơn sóng lớn gây hiệu ứng Hydro."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Tidal Precision",
+                    "description": "Tăng sát thương của Ocean’s Grasp và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Surge’s Blessing",
+                    "description": "Tăng sức mạnh của Abyssal Surge và mở rộng phạm vi ảnh hưởng của nó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Abyssal Tide",
+            "c2": "Marine Echo",
+            "c3": "Ocean’s Fury",
+            "c4": "Tidal Wave",
+            "c5": "Surge’s Embrace",
+            "c6": "Waves of Glory"
+        }
+    }
+}

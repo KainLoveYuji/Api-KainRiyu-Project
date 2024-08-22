@@ -1,0 +1,62 @@
+{
+    "name": "Beidou",
+    "title": "The Conqueror of the Seas",
+    "quality": "4 Sao",
+    "weapon": "Claymore",
+    "element": "Electro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 14 tháng 2",
+    "constellation": "Victorious Crusade",
+    "region": "Liyue",
+    "affiliations": [
+        "Crux Fleet"
+    ],
+    "specialDish": "Beidou’s Specialty",
+    "namecard": "Beidou: The Conqueror of the Seas",
+    "howToObtain": "Sự kiện Wish — Invincible in One Strike",
+    "releaseDate": "Ngày 23 tháng 3, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Crux Fleet",
+    "voiceActors": {
+        "English": "Cassandra Lee Morris",
+        "Chinese": "Shao Yuhua (邵雨薇)",
+        "Japanese": "Mikako Komatsu (小松未可子)",
+        "Korean": "Lee Jeong-ju (이정주)"
+    },
+    "profile": {
+        "description": "Beidou là thủ lĩnh của Crux Fleet và nổi tiếng với sức mạnh và tính cách mạnh mẽ. Cô là một trong những người đứng đầu mạnh mẽ của Liyue, luôn sẵn sàng bảo vệ những người dưới quyền.",
+        "personality": "Beidou có tính cách tự tin và quyết đoán. Cô là một người lãnh đạo mạnh mẽ và có sức hút, nhưng cũng rất tận tâm và quan tâm đến đồng đội của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Charged Thrust",
+                "description": "Thực hiện các đòn tấn công bằng gươm, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Tidal Shadow",
+                "description": "Kích hoạt một đòn tấn công bảo vệ, giảm sát thương nhận vào và phản đòn sát thương Electro cho kẻ thù khi bị tấn công."
+            },
+            "elementalBurst": {
+                "name": "Rite of the Stormbreaker",
+                "description": "Gây sát thương Electro diện rộng và triệu hồi một cơn bão điện, tạo ra một vùng bảo vệ và gia tăng sát thương cho Beidou."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Lightning Overload",
+                    "description": "Khi sử dụng Tidal Shadow, Beidou sẽ tạo ra hiệu ứng bảo vệ lâu dài và gia tăng sát thương từ các đòn đánh tiếp theo."
+                },
+                {
+                    "name": "Bane of All Evil",
+                    "description": "Khi sử dụng Rite of the Stormbreaker, Beidou sẽ nhận được thêm một lượng sát thương Electro từ các đòn tấn công khi ở trong vùng bảo vệ."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Conqueror of the Seas",
+            "c2": "Oceanborne",
+            "c3": "Stormbreaker",
+            "c4": "Nautical Tribute",
+            "c5": "Tidecaller",
+            "c6": "Stormbreaker: Critic’s Edge"
+        }
+    }
+}

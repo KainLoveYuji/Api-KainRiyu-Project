@@ -1,0 +1,62 @@
+{
+    "name": "Chongyun",
+    "title": "The Frostborn Ninja",
+    "quality": "4 Sao",
+    "weapon": "Claymore",
+    "element": "Cryo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 07 tháng 9",
+    "constellation": "Frozen Tide",
+    "region": "Liyue",
+    "affiliations": [
+        "Chongyun’s Clan"
+    ],
+    "specialDish": "Chongyun’s Specialty",
+    "namecard": "Chongyun: The Frostborn Ninja",
+    "howToObtain": "Sự kiện Wish — Invitation to Mundane Life",
+    "releaseDate": "Ngày 09 tháng 10, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Sean Chiplock",
+        "Chinese": "Zhang Jie (张杰)",
+        "Japanese": "Yoshitsugu Matsuoka (松岡禎丞)",
+        "Korean": "Kim Hyun-woo (김현우)"
+    },
+    "profile": {
+        "description": "Chongyun là một võ sĩ Cryo nổi tiếng với khả năng chiến đấu bằng kiếm và kỹ năng sử dụng băng. Anh là một thành viên của Chongyun Clan ở Liyue.",
+        "personality": "Chongyun được biết đến với tính cách nghiêm túc và quyết tâm. Anh có niềm tin mạnh mẽ vào công lý và thường xuyên chiến đấu để bảo vệ Liyue khỏi cái ác.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Charged Attack",
+                "description": "Sử dụng Claymore để thực hiện các đòn tấn công Cryo, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Frostbiting Strike",
+                "description": "Triệu hồi một vòng băng để tấn công kẻ thù và tạo ra hiệu ứng Cryo, gây sát thương Cryo lớn."
+            },
+            "elementalBurst": {
+                "name": "Frostborn Judgment",
+                "description": "Gây sát thương Cryo lớn trong phạm vi ảnh hưởng và tạo ra một hiệu ứng băng mạnh mẽ, làm đóng băng kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Rimebound Swords",
+                    "description": "Tăng sát thương của Frostborn Judgment khi các kỹ năng Cryo được sử dụng liên tục."
+                },
+                {
+                    "name": "Frostbiting Strike",
+                    "description": "Tăng hiệu quả của Frostborn Judgment và giảm thời gian hồi chiêu của nó khi có kẻ thù bị đóng băng."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frozen Tide",
+            "c2": "Bitter Frost",
+            "c3": "Storm of the Frost",
+            "c4": "Chilling Strike",
+            "c5": "Frostborn Judgement",
+            "c6": "Frostbound"
+        }
+    }
+}

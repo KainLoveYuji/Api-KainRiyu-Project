@@ -1,0 +1,62 @@
+{
+    "name": "Sucrose",
+    "title": "Harmless Sweetie",
+    "quality": "4 Sao",
+    "weapon": "Catalyst",
+    "element": "Anemo",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 26 tháng 11",
+    "constellation": "Ampulla",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Nutritious Meal (V. 593)",
+    "namecard": "Sucrose: Bio Alchemy",
+    "howToObtain": "Sự kiện Wish — Wanderlust Invocation",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Không rõ",
+    "voiceActors": {
+        "English": "Valeria Rodriguez",
+        "Chinese": "Hu Tao (胡桃)",
+        "Japanese": "Akane Fujita (藤田 茜)",
+        "Korean": "Park Ji-yoon (박지윤)"
+    },
+    "profile": {
+        "description": "Sucrose là một nhà giả kim thuật làm việc dưới sự chỉ đạo của Albedo tại Knights of Favonius. Cô có niềm đam mê lớn đối với các thí nghiệm, đặc biệt là những thí nghiệm liên quan đến Anemo và sự biến đổi.",
+        "personality": "Sucrose có tính cách hiền lành và nhút nhát, nhưng khi nhắc đến công việc của mình, cô lại thể hiện sự nhiệt huyết và quyết tâm cao. Cô luôn tò mò và khao khát tìm hiểu những bí ẩn của thế giới.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Wind Spirit Creation",
+                "description": "Tấn công bằng các đòn phép thuật gió, gây sát thương Anemo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Astable Anemohypostasis Creation - 6308",
+                "description": "Sucrose triệu hồi một lốc xoáy nhỏ để kéo kẻ thù và gây sát thương Anemo."
+            },
+            "elementalBurst": {
+                "name": "Forbidden Creation - Isomer 75 / Type II",
+                "description": "Sucrose tạo ra một cơn lốc xoáy lớn, hút kẻ thù vào và gây sát thương Anemo trong một phạm vi rộng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Catalyst Conversion",
+                    "description": "Khi kích hoạt phản ứng Swirl, Sucrose sẽ tăng 20% Tinh Thông Nguyên Tố cho toàn bộ đội."
+                },
+                {
+                    "name": "Mollis Favonius",
+                    "description": "Tăng sát thương của kỹ năng Anemo khi Sucrose sử dụng khả năng Elemental Skill."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Clustered Vacuum Field",
+            "c2": "Beth: Unbound Form",
+            "c3": "Flawless Condensation",
+            "c4": "Alchemania",
+            "c5": "Caution: Standard Flask",
+            "c6": "Chaotic Entropy"
+        }
+    }
+}

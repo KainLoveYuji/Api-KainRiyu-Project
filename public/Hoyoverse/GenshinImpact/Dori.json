@@ -1,0 +1,62 @@
+{
+    "name": "Dori",
+    "title": "Người Buôn Bán Tài Ba",
+    "quality": "4 Sao",
+    "weapon": "Claymore",
+    "element": "Electro",
+    "modelType": "Nữ Thấp",
+    "birthday": "Ngày 21 tháng 3",
+    "constellation": "Magicae Lucerna",
+    "region": "Sumeru",
+    "affiliations": [
+        "Merchant"
+    ],
+    "specialDish": "Dori’s Specialty",
+    "namecard": "Dori: Magicae Lucerna",
+    "howToObtain": "Sự kiện Wish — Sparkling Steps",
+    "releaseDate": "Ngày 24 tháng 8, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sumeru",
+    "voiceActors": {
+        "English": "Anjali Kunapaneni",
+        "Chinese": "Han Xin (韩欣)",
+        "Japanese": "Kohara Konomi (小原好美)",
+        "Korean": "Kim Ha-yeong (김하영)"
+    },
+    "profile": {
+        "description": "Dori là một thương nhân tài ba tại Sumeru, nổi tiếng với khả năng tìm ra những món hàng quý hiếm và thỏa thuận có lợi nhất cho mình. Cô luôn mang theo một chiếc đèn kỳ diệu có thể phát ra ánh sáng kỳ ảo.",
+        "personality": "Dori là người thông minh và tinh ranh, luôn biết cách đàm phán để có lợi nhất cho mình. Cô ấy không bao giờ bỏ lỡ cơ hội kinh doanh nào, dù là nhỏ nhất.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Marvelous Sword Art",
+                "description": "Thực hiện các đòn tấn công bằng kiếm lớn, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Spirit-Warding Lamp: Troubleshooter Cannon",
+                "description": "Triệu hồi một khẩu súng năng lượng từ chiếc đèn kỳ diệu để tấn công kẻ thù, gây sát thương Electro."
+            },
+            "elementalBurst": {
+                "name": "Alcazarzaray’s Exactitude",
+                "description": "Triệu hồi một cỗ máy đặc biệt từ chiếc đèn để hỗ trợ chiến đấu, hồi phục HP và năng lượng nguyên tố cho đồng đội gần đó."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Unexpected Order",
+                    "description": "Giảm thời gian hồi chiêu của Spirit-Warding Lamp: Troubleshooter Cannon khi sử dụng Elemental Burst."
+                },
+                {
+                    "name": "Compound Interest",
+                    "description": "Khi sử dụng Alcazarzaray’s Exactitude, tăng khả năng hồi năng lượng và hồi phục HP của các đồng đội gần đó."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Additional Investment",
+            "c2": "Special Offer",
+            "c3": "Extra Bonus",
+            "c4": "Great Fortune",
+            "c5": "Unexpected Rewards",
+            "c6": "Golden Touch"
+        }
+    }
+}

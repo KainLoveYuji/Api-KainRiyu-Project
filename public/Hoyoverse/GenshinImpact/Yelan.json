@@ -1,0 +1,62 @@
+{
+    "name": "Yelan",
+    "title": "Nhân vật Bí Ẩn",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Hydro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 20 tháng 3",
+    "constellation": "The Yuheng",
+    "region": "Liyue",
+    "affiliations": [
+        "The Ministry of Civil Affairs"
+    ],
+    "specialDish": "Yelan’s Specialty",
+    "namecard": "Yelan: The Yuheng",
+    "howToObtain": "Sự kiện Wish — The Secret of the Stone",
+    "releaseDate": "Ngày 27 tháng 4, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Minae Noji",
+        "Chinese": "Yin Xiu (殷秀)",
+        "Japanese": "Yui Horie (堀江由衣)",
+        "Korean": "Park So-jin (박소진)"
+    },
+    "profile": {
+        "description": "Yelan là một nhân vật bí ẩn đến từ Liyue, làm việc cho The Ministry of Civil Affairs. Cô sử dụng khả năng Hydro để tấn công và hỗ trợ đội hình.",
+        "personality": "Yelan nổi tiếng với sự bí ẩn và khả năng điều tra xuất sắc. Cô là người kiên định và luôn tìm cách giải quyết mọi vấn đề một cách hiệu quả.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Swift Arrow",
+                "description": "Thực hiện các đòn tấn công bằng cung, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Lingering Peril",
+                "description": "Triệu hồi một quả cầu Hydro để tấn công kẻ thù và tạo ra hiệu ứng Hydro xung quanh."
+            },
+            "elementalBurst": {
+                "name": "Depth-Clarion Dice",
+                "description": "Gây sát thương Hydro lớn trong phạm vi rộng và tạo ra hiệu ứng giảm sát thương từ kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Swift Pursuit",
+                    "description": "Tăng sát thương của Lingering Peril và kéo dài thời gian tác dụng của nó."
+                },
+                {
+                    "name": "Depth’s Embrace",
+                    "description": "Tăng sức mạnh và hiệu quả của Depth-Clarion Dice khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "The Yuheng",
+            "c2": "Shrouded Threat",
+            "c3": "Reinforced Defenses",
+            "c4": "Mysterious Realm",
+            "c5": "Unraveling Mystery",
+            "c6": "Ocean’s Embrace"
+        }
+    }
+}

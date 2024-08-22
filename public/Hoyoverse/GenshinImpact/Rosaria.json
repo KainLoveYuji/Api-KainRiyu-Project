@@ -1,0 +1,62 @@
+{
+    "name": "Rosaria",
+    "title": "Sát Thủ Băng Giá",
+    "quality": "4 Sao",
+    "weapon": "Polearm",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 24 tháng 1",
+    "constellation": "Rimebiter",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Church of Favonius"
+    ],
+    "specialDish": "Rosaria’s Specialty",
+    "namecard": "Rosaria: Rimebiter",
+    "howToObtain": "Sự kiện Wish — Banner of the Traveler",
+    "releaseDate": "Ngày 23 tháng 12, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Mondstadt",
+    "voiceActors": {
+        "English": "Christine Cabanas",
+        "Chinese": "Ning Ning (宁宁)",
+        "Japanese": "Yui Ishikawa (石川由依)",
+        "Korean": "Kang Hee-jung (강희정)"
+    },
+    "profile": {
+        "description": "Rosaria là một nữ tu sĩ của Church of Favonius, nổi tiếng với sự tận tụy trong việc bảo vệ Mondstadt khỏi những thế lực bóng tối. Cô sử dụng sức mạnh Cryo để thực hiện nhiệm vụ của mình.",
+        "personality": "Rosaria có tính cách nghiêm túc, cứng rắn và thường không mấy quan tâm đến cảm xúc của người khác. Cô luôn tập trung vào nhiệm vụ của mình và cam kết bảo vệ Mondstadt.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Rite of Termination",
+                "description": "Thực hiện các đòn tấn công bằng giáo, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Rite of Dandelion",
+                "description": "Tạo ra một cơn bão Cryo để gây sát thương Cryo cho kẻ thù gần đó và làm chậm chúng."
+            },
+            "elementalBurst": {
+                "name": "Rite of Ice",
+                "description": "Triệu hồi một cơn bão Cryo lớn, gây sát thương Cryo và giảm tốc độ của kẻ thù trong khu vực."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Rite of Ice: Iceborn",
+                    "description": "Tăng sát thương Cryo của các kỹ năng và giảm thời gian hồi chiêu của kỹ năng elemental burst."
+                },
+                {
+                    "name": "Rite of Ice: Seraphic Flame",
+                    "description": "Tăng sức mạnh của Rite of Dandelion và giúp tăng cường các kỹ năng Cryo."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Rimebiter",
+            "c2": "Frostborne",
+            "c3": "Shivering Thorn",
+            "c4": "Winter’s Reprieve",
+            "c5": "Cryo Purgation",
+            "c6": "Endless Winter"
+        }
+    }
+}

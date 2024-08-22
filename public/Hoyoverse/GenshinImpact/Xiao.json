@@ -1,0 +1,62 @@
+{
+    "name": "Xiao",
+    "title": "The Vigilant Yaksha",
+    "quality": "5 Sao",
+    "weapon": "Polearm",
+    "element": "Anemo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 17 tháng 4",
+    "constellation": "Conqueror of Demons",
+    "region": "Liyue",
+    "affiliations": [
+        "The Yakshas"
+    ],
+    "specialDish": "Xiao's Specialty",
+    "namecard": "Xiao: The Vigilant Yaksha",
+    "howToObtain": "Sự kiện Wish — Invitation to Mundane Life",
+    "releaseDate": "Ngày 23 tháng 2, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "The Yakshas",
+    "voiceActors": {
+        "English": "Daman Mills",
+        "Chinese": "Huang Yushi (黄义诗)",
+        "Japanese": "Kazuya Nakai (中井和哉)",
+        "Korean": "Kim Min-gi (김민기)"
+    },
+    "profile": {
+        "description": "Xiao là một trong những Yakshas, các chiến binh bảo vệ Liyue khỏi các thế lực hắc ám. Anh nổi tiếng với khả năng chiến đấu vượt trội và tinh thần bảo vệ cao cả.",
+        "personality": "Xiao rất nghiêm túc và ít giao tiếp. Anh có trách nhiệm lớn với nhiệm vụ của mình và đôi khi tỏ ra lạnh lùng, nhưng sâu thẳm bên trong là lòng trung thành và sự quan tâm đến những người anh bảo vệ.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Whirlwind Thrust",
+                "description": "Thực hiện các đòn tấn công bằng thương, gây sát thương Anemo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Lemniscatic Wind Cycling",
+                "description": "Nhảy lên không trung và tấn công kẻ thù xung quanh bằng Anemo, gây sát thương và tạo ra hiệu ứng Anemo."
+            },
+            "elementalBurst": {
+                "name": "Bane of All Evil",
+                "description": "Tăng cường sức mạnh tấn công của Xiao và gây sát thương Anemo diện rộng. Đồng thời, giảm máu của Xiao dần trong suốt thời gian kỹ năng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Conqueror of Evil: Taming",
+                    "description": "Khi sử dụng Lemniscatic Wind Cycling, Xiao sẽ nhận được một lượng sát thương Anemo tăng thêm dựa trên số lượng kẻ thù bị trúng đòn."
+                },
+                {
+                    "name": "Dissolution Eon: Heaven Fall",
+                    "description": "Khi sử dụng Bane of All Evil, Xiao sẽ tăng cường sức mạnh tấn công và giảm thời gian hồi chiêu của Lemniscatic Wind Cycling."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Conqueror of Demons",
+            "c2": "Evil-Conquering Stance",
+            "c3": "Lemniscatic Wind Cycling",
+            "c4": "Transcendence: Gravity Defier",
+            "c5": "Dissolution Eon: Heaven Fall",
+            "c6": "Bane of All Evil"
+        }
+    }
+}

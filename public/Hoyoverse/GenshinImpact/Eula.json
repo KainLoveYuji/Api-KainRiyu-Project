@@ -1,0 +1,62 @@
+{
+    "name": "Eula",
+    "title": "The Spindrift Knight",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 25 tháng 10",
+    "constellation": "Lupus Borealis",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "specialDish": "Eula’s Specialty",
+    "namecard": "Eula: The Spindrift Knight",
+    "howToObtain": "Sự kiện Wish — Dance of Lanterns",
+    "releaseDate": "Ngày 18 tháng 5, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Mondstadt",
+    "voiceActors": {
+        "English": "Cherami Leigh",
+        "Chinese": "Meng Yao (梦瑶)",
+        "Japanese": "Kana Hanazawa (花澤香菜)",
+        "Korean": "Yoon So-jung (윤소정)"
+    },
+    "profile": {
+        "description": "Eula là một hiệp sĩ của Knights of Favonius, nổi tiếng với kỹ năng chiến đấu tuyệt vời và một phong thái lạnh lùng. Cô là người kế thừa của Clan Lawrence, một gia đình danh giá từng là kẻ thù của Mondstadt.",
+        "personality": "Eula có tính cách mạnh mẽ và nghiêm túc. Cô ít nói và thường giữ khoảng cách với người khác, nhưng vẫn rất tận tâm với công việc của mình. Dù có vẻ ngoài lạnh lùng, Eula rất quan tâm đến sự công bằng.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Favonius Bladework – Piercing Thunder",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Cryo cho kẻ thù và tích lũy sức mạnh để tạo ra đòn tấn công mạnh mẽ hơn."
+            },
+            "elementalSkill": {
+                "name": "Frostflake Seki no To",
+                "description": "Tạo ra một băng trụ lớn, gây sát thương Cryo và giảm tốc độ kẻ thù. Sử dụng khả năng này có thể tích lũy điểm cho các đòn tấn công đặc biệt."
+            },
+            "elementalBurst": {
+                "name": "Glacial Illumination",
+                "description": "Gây sát thương Cryo mạnh mẽ trong một khu vực lớn và tạo ra một vùng hiệu ứng Cryo kéo dài. Tăng cường các đòn tấn công của Eula dựa trên số điểm tích lũy."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Roiling Rumble",
+                    "description": "Tăng sát thương Cryo của Eula trong một khoảng thời gian sau khi sử dụng Frostflake Seki no To."
+                },
+                {
+                    "name": "Frostbearing",
+                    "description": "Giảm thời gian hồi chiêu của Glacial Illumination và tăng sức mạnh của nó nếu sử dụng kỹ năng Elemental Burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Lupus Borealis",
+            "c2": "Roiling Rumble",
+            "c3": "Frostbearing",
+            "c4": "Glacial Illumination",
+            "c5": "Lupus Borealis: Rime",
+            "c6": "Winter’s Sigh"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Zhongli",
+    "title": "Vị Thần Đất",
+    "quality": "5 Sao",
+    "weapon": "Polearm",
+    "element": "Geo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 26 tháng 12",
+    "constellation": "Lapis Dei",
+    "region": "Liyue",
+    "affiliations": [
+        "Geo Archon"
+    ],
+    "specialDish": "Zhongli’s Specialty",
+    "namecard": "Zhongli: The Geo Archon",
+    "howToObtain": "Sự kiện Wish — Gentry of Hermitage",
+    "releaseDate": "Ngày 23 tháng 11, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "David Matranga",
+        "Chinese": "Shen (沈磊)",
+        "Japanese": "Tomokazu Sugita (杉田智和)",
+        "Korean": "Kim Hyeong-seok (김형석)"
+    },
+    "profile": {
+        "description": "Zhongli, cũng được biết đến với tên gọi Morax, là một trong những Archons của Liyue và là thần của địa chất. Ông là một người lãnh đạo uy nghiêm và cũng là người bảo vệ Liyue.",
+        "personality": "Zhongli có một phong thái điềm tĩnh và nghiêm túc, thường tỏ ra trí thức và sâu sắc. Ông là người kiên định và có trách nhiệm cao trong việc bảo vệ người dân của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Normal Attack: Fist of Stone",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Geo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Dominus Lapidis",
+                "description": "Triệu hồi một viên đá Geo để tạo ra một lá chắn và gây sát thương Geo cho kẻ thù gần đó."
+            },
+            "elementalBurst": {
+                "name": "Planet Befall",
+                "description": "Triệu hồi một cột đá lớn để tạo ra sát thương Geo trong phạm vi rộng và tạo ra một lá chắn Geo."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Recruit’s Insight",
+                    "description": "Tăng sát thương của Dominus Lapidis và hiệu quả của lá chắn khi Zhongli ở gần khu vực triệu hồi."
+                },
+                {
+                    "name": "Resonant Waves",
+                    "description": "Tăng sát thương của Planet Befall khi đối diện với kẻ thù."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Rockbreaker’s Sceptre",
+            "c2": "Eclipse of the Earth",
+            "c3": "Scion of the Earth",
+            "c4": "Rite of the Land",
+            "c5": "Insolation of the Earth",
+            "c6": "Imperial Rest"
+        }
+    }
+}

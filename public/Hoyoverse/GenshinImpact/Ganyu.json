@@ -1,0 +1,62 @@
+{
+    "name": "Ganyu",
+    "title": "Nữ Thần Băng Giá",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 02 tháng 12",
+    "constellation": "Crescent",
+    "region": "Liyue",
+    "affiliations": [
+        "Liyue Adepti"
+    ],
+    "specialDish": "Ganyu’s Specialty",
+    "namecard": "Ganyu: Crescent Moon",
+    "howToObtain": "Sự kiện Wish — Moment of Bloom",
+    "releaseDate": "Ngày 23 tháng 12, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Eileen Kim",
+        "Chinese": "Wang Xin (王欣)",
+        "Japanese": "Tomori Kusunoki (楠木ともり)",
+        "Korean": "Kim Bo-ra (김보라)"
+    },
+    "profile": {
+        "description": "Ganyu là một Adeptus từ Liyue, được biết đến với sức mạnh băng giá và khả năng bắn cung siêu hạng. Cô là một trong những người bảo vệ Liyue, kết hợp giữa sự dịu dàng và sức mạnh băng giá.",
+        "personality": "Ganyu là một nhân vật nghiêm túc và chăm chỉ, luôn nỗ lực hết mình để bảo vệ Liyue. Cô có tính cách dịu dàng và lịch thiệp, nhưng cũng rất mạnh mẽ trong chiến đấu.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Normal Attack: Liutian Archery",
+                "description": "Thực hiện các đòn tấn công bằng cung, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Frostflake Arrow",
+                "description": "Bắn một mũi tên băng giá gây sát thương Cryo và tạo ra một vụ nổ băng khi mũi tên chạm vào mục tiêu."
+            },
+            "elementalBurst": {
+                "name": "Celestial Shower",
+                "description": "Triệu hồi một cơn mưa băng giá gây sát thương Cryo lớn trong phạm vi rộng và giảm khả năng phòng thủ của kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Undivided Heart",
+                    "description": "Kỹ năng Frostflake Arrow sẽ gây thêm sát thương Cryo nếu bị trúng đích."
+                },
+                {
+                    "name": "West Wind's Surprise",
+                    "description": "Tăng sát thương của Celestial Shower khi đánh trúng kẻ thù bằng mũi tên băng giá."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "The Sacred Cryo Pearl",
+            "c2": "The Sacred Cryo Pearl - Phase 2",
+            "c3": "The Sacred Cryo Pearl - Phase 3",
+            "c4": "The Sacred Cryo Pearl - Phase 4",
+            "c5": "The Sacred Cryo Pearl - Phase 5",
+            "c6": "The Sacred Cryo Pearl - Phase 6"
+        }
+    }
+}

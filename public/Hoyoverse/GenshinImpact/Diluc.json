@@ -1,0 +1,62 @@
+{
+    "name": "Diluc",
+    "title": "The Darknight Hero",
+    "quality": "5 Sao",
+    "weapon": "Claymore",
+    "element": "Pyro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 30 tháng 4",
+    "constellation": "Noctua",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Dawn Winery"
+    ],
+    "specialDish": "Diluc’s Specialty",
+    "namecard": "Diluc: Darknight Hero",
+    "howToObtain": "Sự kiện Wish — Ballad in Goblets",
+    "releaseDate": "Ngày 28 tháng 5, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Nhà Ragnvindr",
+    "voiceActors": {
+        "English": "Sean Chiplock",
+        "Chinese": "Jiawei Zhang (张家伟)",
+        "Japanese": "Kensho Ono (小野賢章)",
+        "Korean": "Choi Sang-hoon (최상훈)"
+    },
+    "profile": {
+        "description": "Diluc là chủ sở hữu của Dawn Winery, và được biết đến là người hùng bí ẩn của Mondstadt, Darknight Hero. Anh nổi tiếng với sự mạnh mẽ và quyết tâm trong việc bảo vệ quê hương khỏi mọi nguy hiểm.",
+        "personality": "Diluc có tính cách nghiêm túc, cứng rắn và đầy quyết tâm. Anh không ngần ngại đối đầu với kẻ thù để bảo vệ hòa bình cho Mondstadt.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Tempered Sword",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Searing Onslaught",
+                "description": "Diluc tấn công kẻ thù bằng một loạt các đòn tấn công liên tiếp, gây sát thương Pyro."
+            },
+            "elementalBurst": {
+                "name": "Dawn",
+                "description": "Triệu hồi một ngọn lửa rực cháy, gây sát thương Pyro rộng lớn và thổi bay kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Relentless",
+                    "description": "Giảm tiêu hao năng lượng khi dùng Elemental Skill liên tiếp."
+                },
+                {
+                    "name": "Blessing of Phoenix",
+                    "description": "Tăng thời gian duy trì và phạm vi tấn công của kỹ năng Elemental Burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Conviction",
+            "c2": "Searing Ember",
+            "c3": "Fire and Steel",
+            "c4": "Flowing Flame",
+            "c5": "Phoenix, Harbinger of Dawn",
+            "c6": "Flaming Sword, Nemesis of Dark"
+        }
+    }
+}

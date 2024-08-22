@@ -1,0 +1,62 @@
+{
+    "name": "Cyno",
+    "title": "General Mahamatra",
+    "quality": "5 Sao",
+    "weapon": "Polearm",
+    "element": "Electro",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 23 tháng 6",
+    "constellation": "Lupus Aureus",
+    "region": "Sumeru",
+    "affiliations": [
+        "Sumeru Akademiya"
+    ],
+    "specialDish": "Teyvat Charcoal-Baked Ajilenakh Cake",
+    "namecard": "Cyno: Secretorum",
+    "howToObtain": "Sự kiện Wish — Twilight Arbiter",
+    "releaseDate": "Ngày 28 tháng 9, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sumeru",
+    "voiceActors": {
+        "English": "Alejandro Saab",
+        "Chinese": "Shen Dian Yao (沈殿瑶)",
+        "Japanese": "Irino Miyu (入野自由)",
+        "Korean": "Yoo Min-hyeong (유민형)"
+    },
+    "profile": {
+        "description": "Cyno là Tướng Mahamatra của Học viện Sumeru, nổi tiếng với khả năng thực thi công lý và sự nghiêm khắc. Anh là một chiến binh tài ba với năng lực điều khiển nguyên tố điện.",
+        "personality": "Cyno được biết đến là người nghiêm túc, công bằng và quyết đoán. Anh không bao giờ ngần ngại thực hiện nhiệm vụ của mình, ngay cả khi điều đó có nghĩa là phải đối đầu với kẻ thù mạnh mẽ.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Invoker’s Spear",
+                "description": "Thực hiện các đòn tấn công bằng vũ khí polearm, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Secret Rite: Chasmic Soulfarer",
+                "description": "Gây sát thương Electro trong một vùng nhỏ và tăng cường khả năng tấn công của Cyno trong một khoảng thời gian ngắn."
+            },
+            "elementalBurst": {
+                "name": "Sacred Rite: Wolf’s Swiftness",
+                "description": "Cyno nhập vào hình thái Thần Sói, tăng sức mạnh và tốc độ của các đòn tấn công, đồng thời gây sát thương lớn cho kẻ thù trong một khu vực rộng."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Featherfall Judgment",
+                    "description": "Tăng sát thương cho đòn tấn công thường khi sử dụng kỹ năng elemental skill Secret Rite: Chasmic Soulfarer."
+                },
+                {
+                    "name": "Authority Over the Nine Bows",
+                    "description": "Khi sử dụng Sacred Rite: Wolf’s Swiftness, tăng tốc độ di chuyển và giảm thời gian hồi chiêu cho kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Ordinance: Unceasing Vigil",
+            "c2": "Ceremony: Sacred Devotion",
+            "c3": "Rite: Penitent’s Chains",
+            "c4": "Featherfall Reprise",
+            "c5": "Austerity: Forbidding Guard",
+            "c6": "Mortuary Rite: Crimson Sun"
+        }
+    }
+}

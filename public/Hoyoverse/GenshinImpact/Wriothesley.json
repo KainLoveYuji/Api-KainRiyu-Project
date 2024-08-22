@@ -1,0 +1,62 @@
+{
+    "name": "Wriothesley",
+    "title": "Thẩm Phán Dưới Đáy Đại Dương",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Cryo",
+    "modelType": "Nam Cao",
+    "birthday": "Ngày 6 tháng 8",
+    "constellation": "Warden of the Abyss",
+    "region": "Fontaine",
+    "affiliations": [
+        "Fontaine Judiciary"
+    ],
+    "specialDish": "Wriothesley’s Specialty",
+    "namecard": "Wriothesley: Warden of the Abyss",
+    "howToObtain": "Sự kiện Wish — Justice’s Call",
+    "releaseDate": "Ngày 28 tháng 2, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Matthew Mercer",
+        "Chinese": "Yang Tian (杨田)",
+        "Japanese": "Takahiro Sakurai (桜井孝宏)",
+        "Korean": "Lee Jung-gi (이정기)"
+    },
+    "profile": {
+        "description": "Wriothesley là một thẩm phán quyền lực tại Fontaine, nổi bật với khả năng điều khiển nguyên tố Cryo và kỹ năng chiến đấu bằng kiếm. Anh là biểu tượng của công lý và quyền lực trong hệ thống tư pháp của Fontaine.",
+        "personality": "Wriothesley được biết đến với tính cách nghiêm khắc và công bằng. Anh luôn giữ vững lập trường và có trách nhiệm cao trong việc duy trì trật tự và công lý.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Judgment Slash",
+                "description": "Sử dụng kiếm để thực hiện các đòn tấn công mạnh mẽ, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Frost Judgment",
+                "description": "Triệu hồi một cơn bão Cryo để tấn công kẻ địch gần đó và tạo ra hiệu ứng Cryo."
+            },
+            "elementalBurst": {
+                "name": "Abyssal Judgment",
+                "description": "Gây sát thương Cryo lớn trong phạm vi rộng và tạo ra một cơn sóng băng mạnh mẽ."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Cryo Verdict",
+                    "description": "Tăng sát thương của Frost Judgment và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Abyssal Authority",
+                    "description": "Tăng sức mạnh và hiệu quả của Abyssal Judgment khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Warden of the Abyss",
+            "c2": "Frost Sentinel",
+            "c3": "Justice’s Echo",
+            "c4": "Abyssal Echo",
+            "c5": "Cryo Sovereign",
+            "c6": "Judgment’s Reign"
+        }
+    }
+}

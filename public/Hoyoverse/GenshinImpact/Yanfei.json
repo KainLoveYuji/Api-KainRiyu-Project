@@ -1,0 +1,62 @@
+{
+    "name": "Yanfei",
+    "title": "Nữ Luật Sư Từ Bi",
+    "quality": "4 Sao",
+    "weapon": "Catalyst",
+    "element": "Pyro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 28 tháng 3",
+    "constellation": "Blazing Stars",
+    "region": "Liyue",
+    "affiliations": [
+        "Rite of Prodigy"
+    ],
+    "specialDish": "Sakura Shrimp Crackers",
+    "namecard": "Yanfei: Blazing Stars",
+    "howToObtain": "Sự kiện Wish — Moment of Bloom",
+    "releaseDate": "Ngày 16 tháng 2, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Nariyuki Tani",
+        "Chinese": "Ningzi (宁子)",
+        "Japanese": "Aoi Yūki (悠木碧)",
+        "Korean": "Kim So-yeon (김소연)"
+    },
+    "profile": {
+        "description": "Yanfei là một luật sư nổi tiếng tại Liyue, chuyên về pháp lý và là một chuyên gia trong việc giải quyết các vấn đề pháp lý. Cô sở hữu sức mạnh Pyro và sử dụng catalyst trong chiến đấu.",
+        "personality": "Yanfei nổi tiếng với sự thông minh và kỹ năng pháp lý xuất sắc. Cô luôn nỗ lực để bảo vệ quyền lợi của khách hàng và giữ gìn công lý.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Seal of Approval",
+                "description": "Thực hiện các đòn tấn công bằng catalyst, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Signed Edict",
+                "description": "Triệu hồi một dải lửa để tấn công kẻ thù và tạo ra hiệu ứng Pyro, đồng thời tạo ra một lớp lá chắn."
+            },
+            "elementalBurst": {
+                "name": "Forbidden Curse",
+                "description": "Gây sát thương Pyro lớn trên diện rộng và tạo ra hiệu ứng Pyro kéo dài."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Blazing Judgment",
+                    "description": "Tăng sát thương của Signed Edict dựa trên số lượng dấu ấn Pyro trên kẻ thù."
+                },
+                {
+                    "name": "Litigation Expert",
+                    "description": "Tăng hiệu quả của Forbidden Curse khi lượng HP của kẻ thù thấp."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Blazing Stars",
+            "c2": "Horizon Lantern",
+            "c3": "Flowing Flame",
+            "c4": "Blazing Sword",
+            "c5": "Flaming Insight",
+            "c6": "Blazing Knowledge"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Xiangling",
+    "title": "The Pyronado",
+    "quality": "4 Sao",
+    "weapon": "Polearm",
+    "element": "Pyro",
+    "modelType": "Nữ Thấp",
+    "birthday": "Ngày 02 tháng 11",
+    "constellation": "Protector of the Crux",
+    "region": "Liyue",
+    "affiliations": [
+        "Wangshu Inn"
+    ],
+    "specialDish": "Chili Brew",
+    "namecard": "Xiangling: The Pyronado",
+    "howToObtain": "Sự kiện Wish — Invitation to Mundane Life",
+    "releaseDate": "Ngày 23 tháng 11, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Laura Stahl",
+        "Chinese": "Jing Tian (井田)",
+        "Japanese": "Kanemoto Hisako (金元寿子)",
+        "Korean": "Kang Ji-yoon (강지윤)"
+    },
+    "profile": {
+        "description": "Xiangling là đầu bếp của Wangshu Inn và là một chiến binh Pyro tài năng. Cô nổi tiếng với khả năng nấu ăn và niềm đam mê với các món ăn cay.",
+        "personality": "Xiangling rất nhiệt tình và vui vẻ, với tình yêu lớn đối với ẩm thực và việc chiến đấu. Cô luôn sẵn sàng thử nghiệm các món ăn mới và yêu thích việc chia sẻ món ăn của mình với người khác.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Dough-Fu",
+                "description": "Thực hiện các đòn tấn công bằng polearm, gây sát thương Pyro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Pyronado",
+                "description": "Triệu hồi một vòng xoáy lửa quanh mình, gây sát thương Pyro liên tục cho kẻ thù trong phạm vi ảnh hưởng."
+            },
+            "elementalBurst": {
+                "name": "Guoba's Fire",
+                "description": "Triệu hồi Guoba, một con gấu lửa, để tạo ra một vụ nổ Pyro lớn và gây sát thương diện rộng cho kẻ thù."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Flaming Ingredients",
+                    "description": "Khi sử dụng Pyronado, các đòn tấn công của Xiangling sẽ tạo ra thêm sát thương Pyro cho kẻ thù trong phạm vi."
+                },
+                {
+                    "name": "Chef's Special",
+                    "description": "Tăng sát thương của Guoba's Fire và giảm thời gian hồi chiêu khi sử dụng kỹ năng Elemental Burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Fury of the Pyronado",
+            "c2": "Guoba's Fire",
+            "c3": "Flaming Pursuit",
+            "c4": "Pyronado's Guard",
+            "c5": "Guoba's Flare",
+            "c6": "The Burning Pyronado"
+        }
+    }
+}

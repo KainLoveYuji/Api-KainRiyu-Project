@@ -1,0 +1,62 @@
+{
+    "name": "Barbara",
+    "title": "Deaconess of the Church of Favonius",
+    "quality": "4 Sao",
+    "weapon": "Catalyst",
+    "element": "Hydro",
+    "modelType": "Nữ Trung",
+    "birthday": "Ngày 5 tháng 7",
+    "constellation": "Crater",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Church of Favonius"
+    ],
+    "specialDish": "Barbara’s Special Dish",
+    "namecard": "Barbara: Shining Idol",
+    "howToObtain": "Có thể nhận được qua sự kiện hoặc Wish Banner",
+    "releaseDate": "Ngày 28 tháng 5, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Nhà Gunnhildr",
+    "voiceActors": {
+        "English": "Laura Stahl",
+        "Chinese": "Ying Xiang (颖翔)",
+        "Japanese": "Akari Kito (鬼頭明里)",
+        "Korean": "Kim Yul (김율)"
+    },
+    "profile": {
+        "description": "Barbara là một nữ thần tượng và là một Deaconess trong Nhà thờ Favonius. Cô được người dân Mondstadt yêu mến vì giọng hát tuyệt vời và sự hiền hòa của mình.",
+        "personality": "Barbara là người tốt bụng, lạc quan và luôn tận tâm với công việc của mình. Cô có mong muốn mang niềm vui và hy vọng đến với mọi người bằng giọng hát của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Whisper of Water",
+                "description": "Thực hiện các đòn tấn công Hydro, gây sát thương cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Let the Show Begin",
+                "description": "Triệu hồi một vòng nước để hồi máu cho đồng đội và tạo ra hiệu ứng Hydro."
+            },
+            "elementalBurst": {
+                "name": "Shining Miracle",
+                "description": "Hồi phục một lượng máu lớn cho tất cả các thành viên trong đội."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Glorious Season",
+                    "description": "Giảm tiêu hao năng lượng khi dùng Elemental Burst của Barbara."
+                },
+                {
+                    "name": "Encore",
+                    "description": "Khi đánh kẻ địch bằng Elemental Skill, Barbara có cơ hội nhận lại một phần năng lượng."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Gleeful Songs",
+            "c2": "Vitality Burst",
+            "c3": "Star of Tomorrow",
+            "c4": "Attentiveness be My Power",
+            "c5": "The Purest Companionship",
+            "c6": "Dedicating Everything to You"
+        }
+    }
+}

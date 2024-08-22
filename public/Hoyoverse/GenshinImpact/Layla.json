@@ -1,0 +1,62 @@
+{
+    "name": "Layla",
+    "title": "Sao Đêm Kỳ Ảo",
+    "quality": "4 Sao",
+    "weapon": "Sword",
+    "element": "Cryo",
+    "modelType": "Nữ Thiếu Niên",
+    "birthday": "Ngày 19 tháng 12",
+    "constellation": "Luscinia",
+    "region": "Sumeru",
+    "affiliations": [
+        "Giáo Viện Sumeru"
+    ],
+    "specialDish": "Quiet Elegance",
+    "namecard": "Layla: Starry Night",
+    "howToObtain": "Sự kiện Wish — Everbloom Violet",
+    "releaseDate": "Ngày 18 tháng 11, 2022",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "None",
+    "voiceActors": {
+        "English": "Ashley Biski",
+        "Chinese": "Su Lin (苏琳)",
+        "Japanese": "Miyu Tomita (富田 美憂)",
+        "Korean": "Jung Yoo-jung (정유정)"
+    },
+    "profile": {
+        "description": "Layla là một học giả tài năng đến từ Sumeru, nổi bật với kiến thức sâu rộng và phong cách làm việc chăm chỉ. Tuy nhiên, cô lại có thói quen ngủ gật trong lúc nghiên cứu vì quá lao lực.",
+        "personality": "Layla là người cẩn trọng, nghiêm túc nhưng lại thường xuyên gặp vấn đề với giấc ngủ. Cô luôn nỗ lực để cân bằng giữa công việc nghiên cứu và nhu cầu nghỉ ngơi.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Sword of the Night",
+                "description": "Tấn công liên tục bằng kiếm, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Nights of Formal Focus",
+                "description": "Triệu hồi một tấm khiên băng để bảo vệ bản thân và đồng đội, đồng thời gây sát thương Cryo cho kẻ thù gần đó."
+            },
+            "elementalBurst": {
+                "name": "Dream of the Star-Stream Shaker",
+                "description": "Gây sát thương Cryo diện rộng và tạo ra các viên băng rơi xuống từ bầu trời, tấn công kẻ địch theo thời gian."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Like a Crescent Moon",
+                    "description": "Tăng hiệu quả của Nights of Formal Focus, giảm thiểu sát thương nhận vào và tăng sát thương Cryo."
+                },
+                {
+                    "name": "Lingering Dreamscape",
+                    "description": "Tăng sức mạnh của Dream of the Star-Stream Shaker và kéo dài thời gian hiệu ứng Cryo."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Fortune’s Smiling Voice",
+            "c2": "Starry Illumination",
+            "c3": "Flow of Consciousness",
+            "c4": "Radiant Sleep",
+            "c5": "Dream’s Calming Light",
+            "c6": "Lucid Stars"
+        }
+    }
+}

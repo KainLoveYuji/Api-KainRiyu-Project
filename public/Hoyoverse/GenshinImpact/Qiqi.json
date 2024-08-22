@@ -1,0 +1,63 @@
+{
+    "name": "Qiqi",
+    "title": "The Frozen Adeptus",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 03 tháng 3",
+    "constellation": "The Herald of Frost",
+    "region": "Liyue",
+    "affiliations": [
+        "Bubu Pharmacy",
+        "Liyue Adepti"
+    ],
+    "specialDish": "Qiqi's Specialty",
+    "namecard": "Qiqi: The Frozen Adeptus",
+    "howToObtain": "Sự kiện Wish — Sparkling Steps",
+    "releaseDate": "Ngày 23 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Liyue",
+    "voiceActors": {
+        "English": "Nariyuki Tsubaki",
+        "Chinese": "Qianxun (钱熙)",
+        "Japanese": "Kana Hanazawa (花澤香菜)",
+        "Korean": "Kim So-hyun (김소현)"
+    },
+    "profile": {
+        "description": "Qiqi là một adeptus băng giá và là một thành viên của Bubu Pharmacy ở Liyue. Cô đã sống từ lâu và sở hữu sức mạnh Cryo mạnh mẽ.",
+        "personality": "Qiqi có tính cách nghiêm túc và đôi khi hơi lạnh lùng do sự thiếu thốn ký ức. Tuy nhiên, cô rất chăm chỉ và tận tâm với công việc của mình tại Bubu Pharmacy.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Normal Attack: Icy Paws",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Icy Paws",
+                "description": "Triệu hồi một tinh thể băng để tấn công kẻ thù và tạo ra hiệu ứng Cryo."
+            },
+            "elementalBurst": {
+                "name": "Frozen Tomb",
+                "description": "Gây sát thương Cryo lớn trong phạm vi và hồi phục HP cho đồng đội dựa trên lượng sát thương gây ra."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Frozen Returns",
+                    "description": "Kỹ năng Icy Paws có thể hồi phục HP cho đồng đội và gây thêm sát thương Cryo khi Qiqi tấn công kẻ thù bị đóng băng."
+                },
+                {
+                    "name": "Frozen Tomb",
+                    "description": "Kỹ năng Frozen Tomb có thể hồi phục HP cho đồng đội dựa trên lượng sát thương Cryo gây ra và giảm thời gian hồi chiêu."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Frozen Adeptus",
+            "c2": "The Icebound Heart",
+            "c3": "The Eternal Life",
+            "c4": "Herald of Frost",
+            "c5": "Frostbitten",
+            "c6": "The Frosted Gift"
+        }
+    }
+}

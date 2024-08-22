@@ -1,0 +1,62 @@
+{
+    "name": "Furina",
+    "title": "Nữ Thần Vũ Điệu",
+    "quality": "5 Sao",
+    "weapon": "Sword",
+    "element": "Hydro",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 22 tháng 2",
+    "constellation": "Dancing Stream",
+    "region": "Fontaine",
+    "affiliations": [
+        "Fountain's Order"
+    ],
+    "specialDish": "Furina’s Delight",
+    "namecard": "Furina: Dancing Stream",
+    "howToObtain": "Sự kiện Wish — The Enigmatic Diva",
+    "releaseDate": "Ngày 01 tháng 5, 2024",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Fontaine",
+    "voiceActors": {
+        "English": "Erica Lindbeck",
+        "Chinese": "Liang Xia (梁夏)",
+        "Japanese": "Ai Kayano (茅野愛衣)",
+        "Korean": "Park So-jin (박소진)"
+    },
+    "profile": {
+        "description": "Furina là một vũ công nổi tiếng từ Fontaine, được biết đến với khả năng điều khiển nguyên tố Hydro và sử dụng kiếm. Cô là biểu tượng của sự quyến rũ và nghệ thuật.",
+        "personality": "Furina sở hữu tính cách kiêu sa và quyến rũ. Cô có niềm đam mê mãnh liệt với nghệ thuật biểu diễn và luôn tỏa sáng trên sân khấu.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Dance of the Tides",
+                "description": "Thực hiện các đòn tấn công bằng kiếm, gây sát thương Hydro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Aqua Serenade",
+                "description": "Gọi lên một cơn sóng Hydro để làm chậm và gây sát thương cho kẻ địch gần đó."
+            },
+            "elementalBurst": {
+                "name": "Hymn of the Stream",
+                "description": "Tạo ra một vùng nước lớn gây sát thương Hydro liên tục và tăng cường sức mạnh cho đồng đội trong khu vực."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Hydro Elegance",
+                    "description": "Tăng sát thương của Aqua Serenade và giảm thời gian hồi chiêu của nó."
+                },
+                {
+                    "name": "Stream's Embrace",
+                    "description": "Tăng sức mạnh và hiệu quả của Hymn of the Stream khi sử dụng kỹ năng elemental burst."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Dancing Stream",
+            "c2": "Melody of Waves",
+            "c3": "Hydro Harmony",
+            "c4": "Cascade’s Embrace",
+            "c5": "Flowing Elegance",
+            "c6": "Eternal Rhapsody"
+        }
+    }
+}

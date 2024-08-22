@@ -1,0 +1,62 @@
+{
+    "name": "Razor",
+    "title": "Wolf Boy",
+    "quality": "4 Sao",
+    "weapon": "Claymore",
+    "element": "Electro",
+    "modelType": "Nam Trung",
+    "birthday": "Ngày 9 tháng 9",
+    "constellation": "Lupus Minor",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Wolvendom"
+    ],
+    "specialDish": "Razor’s Specialty",
+    "namecard": "Razor: Lightning Fang",
+    "howToObtain": "Sự kiện Wish — Wolf’s Gravestone",
+    "releaseDate": "Ngày 28 tháng 9, 2020",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Wolvendom",
+    "voiceActors": {
+        "English": "Todd Haberkorn",
+        "Chinese": "Lei Wu (吴磊)",
+        "Japanese": "Kouki Uchiyama (内山昂輝)",
+        "Korean": "Jang Min-hyeok (장민혁)"
+    },
+    "profile": {
+        "description": "Razor là một cậu bé sống trong rừng với bầy sói, được biết đến với khả năng chiến đấu mạnh mẽ và sự kết nối sâu sắc với thiên nhiên.",
+        "personality": "Razor có tính cách đơn giản, trung thực và khá thận trọng. Cậu ta sống hòa hợp với thiên nhiên và rất bảo vệ những người thân yêu của mình.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Steel Fang",
+                "description": "Thực hiện các đòn tấn công bằng kiếm lớn, gây sát thương Electro cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Claw and Thunder",
+                "description": "Razor tấn công bằng vuốt điện, gây sát thương Electro và tích lũy năng lượng cho Elemental Burst."
+            },
+            "elementalBurst": {
+                "name": "Lightning Fang",
+                "description": "Triệu hồi linh hồn sói khổng lồ tấn công kẻ thù và tăng tốc độ tấn công của Razor."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Awakening",
+                    "description": "Giảm thời gian hồi chiêu của Claw and Thunder và tăng lượng năng lượng Elemental nhận được."
+                },
+                {
+                    "name": "Hunger",
+                    "description": "Tăng tốc độ nạp lại năng lượng của Razor khi năng lượng thấp."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Wolf’s Instinct",
+            "c2": "Suppression",
+            "c3": "Soul Companion",
+            "c4": "Bite",
+            "c5": "Sharpened Claws",
+            "c6": "Lupus Fulguris"
+        }
+    }
+}

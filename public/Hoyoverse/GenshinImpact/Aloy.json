@@ -1,0 +1,62 @@
+{
+    "name": "Aloy",
+    "title": "The Outrider",
+    "quality": "5 Sao",
+    "weapon": "Bow",
+    "element": "Cryo",
+    "modelType": "Nữ Cao",
+    "birthday": "Ngày 04 tháng 2",
+    "constellation": "Katalyst",
+    "region": "Sumeru",
+    "affiliations": [
+        "N/A"
+    ],
+    "specialDish": "Aloy’s Specialty",
+    "namecard": "Aloy: The Outrider",
+    "howToObtain": "Sự kiện Collaboration — For the Outrider",
+    "releaseDate": "Ngày 24 tháng 11, 2021",
+    "geniusInvokationTCG": "Thẻ Nhân Vật",
+    "ancestry": "Sumeru",
+    "voiceActors": {
+        "English": "Ashly Burch",
+        "Chinese": "Zhao Shiyu (赵诗雨)",
+        "Japanese": "Yuki Kaji (梶裕貴)",
+        "Korean": "Kim Hyeon-ji (김현지)"
+    },
+    "profile": {
+        "description": "Aloy là một chiến binh nổi tiếng từ thế giới của Horizon Zero Dawn, hợp tác với Genshin Impact trong một sự kiện đặc biệt. Cô đến từ vùng đất của Sumeru và sở hữu kỹ năng chiến đấu và sinh tồn xuất sắc.",
+        "personality": "Aloy mạnh mẽ và tự tin, luôn sẵn sàng đối mặt với thử thách. Cô là một chiến binh độc lập và có tinh thần khám phá, thường tìm cách giải quyết vấn đề một cách trực diện.",
+        "abilities": {
+            "normalAttack": {
+                "name": "Rapid Fire",
+                "description": "Bắn liên tiếp các mũi tên Cryo, gây sát thương Cryo cho kẻ thù."
+            },
+            "elementalSkill": {
+                "name": "Frozen Wilds",
+                "description": "Tạo ra một vùng hiệu ứng Cryo, làm giảm tốc độ kẻ thù và gây sát thương Cryo liên tục."
+            },
+            "elementalBurst": {
+                "name": "Rite of the Hunt",
+                "description": "Tạo ra một cơn bão Cryo lớn, gây sát thương Cryo diện rộng và tăng cường sức mạnh tấn công của Aloy."
+            },
+            "passiveTalents": [
+                {
+                    "name": "Stealthy Approach",
+                    "description": "Tăng sát thương Cryo khi tấn công kẻ thù từ phía sau hoặc khi kẻ thù bị bất động."
+                },
+                {
+                    "name": "Frozen Wind",
+                    "description": "Tăng sức mạnh và thời gian của vùng hiệu ứng Cryo từ Frozen Wilds."
+                }
+            ]
+        },
+        "constellations": {
+            "c1": "Katalyst",
+            "c2": "Focus",
+            "c3": "Glimmer",
+            "c4": "Flare",
+            "c5": "Echo",
+            "c6": "Rite of the Outrider"
+        }
+    }
+}

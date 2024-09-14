@@ -59,6 +59,9 @@ app.get('/kain-api', function(req, res) {
 app.get('/', function(req, res) {
     res.sendFile(__dirname + '/index.html');
 });
+app.get('/ahrihuyenthoaibattu', function(req, res) {
+    res.sendFile(__dirname + '/ahri.html');
+});
 
 // Use app.listen() only once
 app.listen(app.get('port'), function() {

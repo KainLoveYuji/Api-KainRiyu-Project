@@ -5,13 +5,13 @@ API này cung cấp một cách đơn giản để lấy ngẫu nhiên một đ�
 
 ## Tác Giả
 Dự án được phát triển bởi 
-```Kz```
+```Ahri Huyền Thoại Bất Tử```
 
 ## Sử Dụng
 Để sử dụng API, bạn chỉ cần thực hiện một HTTP GET request đến đường dẫn sau:
 
-- https://example.com/api/random-image](https://4dd9ea6e-d5a6-4f8f-892c-ce90e4d539b9-00-11lae77drh9zo.janeway.replit.dev/
-- https://4dd9ea6e-d5a6-4f8f-892c-ce90e4d539b9-00-11lae77drh9zo.janeway.replit.dev/kz-api
+- https://api-kainriyuprojectv2.glitch.me/
+- https://api-kainriyuprojectv2.glitch.me/kain-api
 
 
 API sẽ trả về một đối tượng JSON chứa đường link đến hình ảnh ngẫu nhiên:
@@ -26,11 +26,11 @@ Nếu bạn gặp vấn đề hoặc muốn đóng góp vào dự án, vui lòng
 
 ## FACEBOOK: 
 ```json
-https://facebook.com/YoungK.1911
+https://facebook.com/AhriCuuViThienHo
 ```
 ## MESSENGER:
 ```json
-m.me/YoungK.1911
+m.me/AhriCuuViThienHo
 ```
 Chúng tôi rất mong nhận được đóng góp từ cộng đồng.
 

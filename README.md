@@ -10,8 +10,8 @@ Dự án được phát triển bởi
 ## Sử Dụng
 Để sử dụng API, bạn chỉ cần thực hiện một HTTP GET request đến đường dẫn sau:
 
-- https://api-kainriyuprojectv2.glitch.me/
-- https://api-kainriyuprojectv2.glitch.me/kain-api
+- InBox Admin Để Lấy Link Hướng Dẫn
+- fb.com/AhriCuuViThienHo
 
 
 API sẽ trả về một đối tượng JSON chứa đường link đến hình ảnh ngẫu nhiên:
